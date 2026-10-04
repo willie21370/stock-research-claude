@@ -261,53 +261,6 @@
   ]
  },
  {
-  "ticker": "DNO",
-  "exchange": "Oslo",
-  "name": "DNO ASA",
-  "country": "Norway",
-  "theme": "Energy",
-  "sub_industry": "Oil & gas E&P (North Sea, Kurdistan, West Africa)",
-  "price": 17.6,
-  "currency": "NOK",
-  "price_date": "2026-09-30",
-  "market_cap_usd_bn": 1.63,
-  "fy_years": [
-   "2026",
-   "2027",
-   "2028"
-  ],
-  "eps_fy0": -0.53,
-  "eps": [
-   3.15,
-   4.58,
-   3.96
-  ],
-  "rev_fy0": 1474.0,
-  "rev": [
-   2752.0,
-   null,
-   null
-  ],
-  "rev_unit": "USD m",
-  "n_analysts": 10,
-  "inflation_score": 8,
-  "confidence": "medium",
-  "inflation_thesis": "After buying Sval it is mainly a North Sea producer (~85k boe/d) selling Brent oil and European gas in USD against NOK costs; Q2-26 revenue hit a record US$761m. Shut-in Kurdistan barrels are free upside on restart, and its reserves gain value as replacement costs rise.",
-  "key_risks": "78% Norwegian tax rate dampens upside; Kurdistan security/payments; bond debt.",
-  "notes": "USD EPS converted to NOK at 10.5; 2027-28 EPS = consensus net income / ~975m shares. Price derived from target upside (approx). ~8.5% dividend yield.",
-  "sources": [
-   "https://simplywall.st/stocks/no/energy/ob-dno/dno-shares/future",
-   "https://aktien.guide/kursziel/DNO-ASA-NO0003921009",
-   "https://www.energy-pedia.com/news/general/dno-reports-record-revenue-as-it-chases-new-growth-204940"
-  ],
-  "fwd_pe": [
-   5.6,
-   3.8,
-   4.4
-  ],
-  "bench_round": 2
- },
- {
   "ticker": "KEL",
   "exchange": "TSX",
   "name": "Kelt Exploration",
@@ -670,53 +623,6 @@
   "bench_round": 2
  },
  {
-  "ticker": "ATYM",
-  "exchange": "LSE (also TSX)",
-  "name": "Atalaya Mining Copper",
-  "country": "Spain",
-  "theme": "Base & critical metals",
-  "sub_industry": "Copper (Riotinto, Iberian Pyrite Belt)",
-  "price": 8.725,
-  "currency": "GBP",
-  "price_date": "2026-10-01",
-  "market_cap_usd_bn": 1.78,
-  "fy_years": [
-   "2026",
-   "2027",
-   "2028"
-  ],
-  "eps_fy0": 0.593,
-  "eps": [
-   0.746,
-   0.78,
-   0.992
-  ],
-  "rev_fy0": 482.9,
-  "rev": [
-   515,
-   515,
-   658
-  ],
-  "rev_unit": "EUR m",
-  "n_analysts": 7,
-  "inflation_score": 8,
-  "confidence": "medium",
-  "inflation_thesis": "Almost pure, net-cash copper producer selling a USD-priced hard asset that benefits from US inflation and US/EU grid and reshoring demand. Growth projects (San Dionisio, Masa Valverde, Touro) lift output without much dilution; H1-26 EPS was already EUR0.554, so consensus looks conservative.",
-  "key_risks": "Single main mine; Spanish permitting for expansions; EUR cost base.",
-  "notes": "EUR EPS converted to GBP at 0.872. Consensus likely stale: H1-26 annualises to ~EUR1.1 EPS; MarketScreener shows 9.1x 2026 / 6.9x 2027.",
-  "sources": [
-   "https://simplywall.st/stocks/gb/materials/lse-atym/atalaya-mining-copper-shares/future",
-   "https://in.marketscreener.com/quote/stock/ATALAYA-MINING-COPPER-S-A-24543269/",
-   "https://www.directorstalkinterviews.com/atalaya-mining-reports-record-q2-and-h1-2026-ebitda/4121260038"
-  ],
-  "fwd_pe": [
-   11.7,
-   11.2,
-   8.8
-  ],
-  "bench_round": 2
- },
- {
   "ticker": "AAZ",
   "exchange": "AIM",
   "name": "Anglo Asian Mining",
@@ -1028,53 +934,6 @@
    7.4,
    9.0,
    10.9
-  ],
-  "bench_round": 3
- },
- {
-  "ticker": "TDW",
-  "exchange": "NYSE",
-  "name": "Tidewater",
-  "country": "US",
-  "theme": "Shipping & offshore",
-  "sub_industry": "Offshore supply vessels (world's largest OSV fleet)",
-  "price": 96.31,
-  "currency": "USD",
-  "price_date": "2026-10-02",
-  "market_cap_usd_bn": 4.76,
-  "fy_years": [
-   "2026",
-   "2027",
-   "2028"
-  ],
-  "eps_fy0": 2.6,
-  "eps": [
-   3.2,
-   6.13,
-   9.59
-  ],
-  "rev_fy0": 1352.8,
-  "rev": [
-   1450,
-   1660,
-   1860
-  ],
-  "rev_unit": "USD m",
-  "n_analysts": 13,
-  "inflation_score": 8,
-  "confidence": "medium",
-  "inflation_thesis": "World's largest offshore supply-vessel owner, with USD dayrates that reprice every 1-3 years. The newbuild orderbook is near zero and replacement cost is far above secondhand values, so steel, yard and crew inflation raise the dayrate any new vessel needs and the existing fleet captures it. High 2026 oil prices support offshore spending, and repricing shows in EPS tripling from 2026 to 2028.",
-  "key_risks": "Offshore capex deferral if oil falls; not cheap on 2026-27 earnings; widely covered.",
-  "notes": "FY0 uses underlying 2025 EPS (~$2.6); reported $6.64 included a $201.5m one-off tax benefit. Second source: 2027/28 EPS $5.81/$7.91.",
-  "sources": [
-   "https://www.tickflow.io/stock/TDW/forecast",
-   "https://vcpscanner.com/valuation/tdw/estimates",
-   "https://www.businesswire.com/news/home/20260226106218/en"
-  ],
-  "fwd_pe": [
-   30.1,
-   15.7,
-   10.0
   ],
   "bench_round": 3
  },
@@ -1937,5 +1796,726 @@
    9.1
   ],
   "bench_round": 4
+ },
+ {
+  "ticker": "WES",
+  "exchange": "NYSE",
+  "name": "Western Midstream Partners",
+  "country": "US",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Midstream G&P",
+  "price": 46.26,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 16.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.98,
+  "eps": [
+   3.49,
+   3.76,
+   4.08
+  ],
+  "rev_fy0": 3840,
+  "rev": [
+   4120,
+   4600,
+   4900
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 5,
+  "confidence": "medium",
+  "inflation_thesis": "CPI/PPI escalators, 8.6% yield.",
+  "key_risks": "Occidental concentration.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/WES/forecast"
+  ],
+  "fwd_pe": [
+   13.3,
+   12.3,
+   11.3
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "HESM",
+  "exchange": "NYSE",
+  "name": "Hess Midstream",
+  "country": "US",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Midstream",
+  "price": 38.17,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": null,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.86,
+  "eps": [
+   2.91,
+   3.08,
+   3.26
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Fee-based with inflation escalators.",
+  "key_risks": "Slow growth.",
+  "notes": "",
+  "sources": [
+   "https://tickflow.io/stock/HESM/forecast"
+  ],
+  "fwd_pe": [
+   13.1,
+   12.4,
+   11.7
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "OR",
+  "exchange": "NYSE / TSX",
+  "name": "OR Royalties (ex-Osisko)",
+  "country": "Canada",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Gold royalties",
+  "price": 36.98,
+  "currency": "USD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 6.67,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.1,
+  "eps": [
+   1.44,
+   1.66,
+   1.77
+  ],
+  "rev_fy0": 277.4,
+  "rev": [
+   418,
+   485,
+   525
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 11,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "~97% cash margin gold royalties (Canadian Malartic).",
+  "key_risks": "~22x FY2; concentration.",
+  "notes": "",
+  "sources": [
+   "https://news.cnyes.com/news/id/6448237"
+  ],
+  "fwd_pe": [
+   25.7,
+   22.3,
+   20.9
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "DRR",
+  "exchange": "ASX",
+  "name": "Deterra Royalties",
+  "country": "Australia",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Iron ore royalty",
+  "price": 2.82,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.49,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.205,
+  "eps": [
+   0.191,
+   0.191,
+   0.191
+  ],
+  "rev_fy0": 155.9,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 5,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Iron ore royalty.",
+  "key_risks": "Flat.",
+  "notes": "",
+  "sources": [
+   "https://www.fnarena.com/index.php/analysis-data/consensus-forecasts/stock-analysis/?code=DRR"
+  ],
+  "fwd_pe": [
+   14.8,
+   14.8,
+   14.8
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "ALS",
+  "exchange": "TSX",
+  "name": "Altius Minerals",
+  "country": "Canada",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Diversified royalties",
+  "price": 43.77,
+  "currency": "USD",
+  "price_date": "2026-08-05",
+  "market_cap_usd_bn": 2.57,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.35,
+  "eps": [
+   0.48,
+   0.83,
+   1.11
+  ],
+  "rev_fy0": 50.7,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 11,
+  "inflation_score": 5,
+  "confidence": "medium",
+  "inflation_thesis": "Potash/copper royalties.",
+  "key_risks": "53x.",
+  "notes": "",
+  "sources": [
+   "https://aktien.guide/kursziel/Altius-Minerals-Corporation-CA0209361009"
+  ],
+  "fwd_pe": [
+   91.2,
+   52.7,
+   39.4
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "GROY",
+  "exchange": "NYSE American",
+  "name": "Gold Royalty",
+  "country": "Canada",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Gold royalties",
+  "price": 3.35,
+  "currency": "USD",
+  "price_date": "2026-09-04",
+  "market_cap_usd_bn": 0.78,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.01,
+  "eps": [
+   0.06,
+   0.14,
+   0.15
+  ],
+  "rev_fy0": 15.6,
+  "rev": [
+   38,
+   64,
+   76
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Small-cap gold royalties.",
+  "key_risks": "Expensive.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/GROY/forecast"
+  ],
+  "fwd_pe": [
+   55.8,
+   23.9,
+   22.3
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "BSM",
+  "exchange": "NYSE",
+  "name": "Black Stone Minerals",
+  "country": "US",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Oil & gas mineral/royalty owner (gas-weighted MLP)",
+  "price": 14.75,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 3.0,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.28,
+  "eps": [
+   0.91,
+   1.34,
+   1.39
+  ],
+  "rev_fy0": 401,
+  "rev": [
+   445,
+   494.5,
+   540
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Owns ~20m gross acres of mineral and royalty interests with no drilling or operating costs, so higher US gas/oil prices go almost entirely to distributable cash. Operator-funded development of its Shelby Trough/Haynesville acreage grows volumes into 2027-28 while LNG exports support Gulf Coast gas prices.",
+  "key_risks": "Gas-price sensitivity; hedge mark-to-market losses (why 2026 GAAP EPS dips); reliance on operators' drilling schedules.",
+  "notes": "2026 EPS range $0.70-1.09 (hedge losses). 2028 revenue from a model.",
+  "sources": [
+   "https://www.tickflow.io/stock/BSM/forecast",
+   "https://www.wallstreetzen.com/stocks/us/nyse/bsm/stock-forecast"
+  ],
+  "fwd_pe": [
+   16.2,
+   11.0,
+   10.6
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "KRP",
+  "exchange": "NYSE",
+  "name": "Kimbell Royalty Partners",
+  "country": "US",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Mineral & royalty consolidator",
+  "price": 15.1,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.71,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.62,
+  "eps": [
+   0.89,
+   0.87,
+   0.88
+  ],
+  "rev_fy0": 321.7,
+  "rev": [
+   352,
+   387,
+   400
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Pure royalty owner (~129k wells), ~12% yield.",
+  "key_risks": "Dilutive acquisitions.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/KRP/forecast"
+  ],
+  "fwd_pe": [
+   17.0,
+   17.4,
+   17.2
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "VNOM",
+  "exchange": "NASDAQ",
+  "name": "Viper Energy",
+  "country": "US",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Permian royalties",
+  "price": 45.4,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 16.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.48,
+  "eps": [
+   2.51,
+   2.34,
+   2.42
+  ],
+  "rev_fy0": 1300,
+  "rev": [
+   2180,
+   2100,
+   2100
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Largest oil-weighted Permian royalty owner.",
+  "key_risks": "~19x.",
+  "notes": "",
+  "sources": [
+   "https://news.cnyes.com/news/id/6533041"
+  ],
+  "fwd_pe": [
+   18.1,
+   19.4,
+   18.8
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "NRP",
+  "exchange": "NYSE",
+  "name": "Natural Resource Partners",
+  "country": "US",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Coal/soda ash royalties",
+  "price": 113.4,
+  "currency": "USD",
+  "price_date": "2026-09-03",
+  "market_cap_usd_bn": 1.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 10.04,
+  "eps": [
+   4.65,
+   4.97,
+   5.17
+  ],
+  "rev_fy0": null,
+  "rev": [
+   191,
+   202,
+   210
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 0,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Royalty owner, no op costs.",
+  "key_risks": "No growth; model estimates.",
+  "notes": "",
+  "sources": [
+   "https://www.vcpscanner.com/valuation/nrp/estimates"
+  ],
+  "fwd_pe": [
+   24.4,
+   22.8,
+   21.9
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "PEY",
+  "exchange": "TSX",
+  "name": "Peyto Exploration",
+  "country": "Canada",
+  "theme": "Energy",
+  "sub_industry": "Low-cost gas",
+  "price": 25.91,
+  "currency": "CAD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.85,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.06,
+  "eps": [
+   2.34,
+   2.04,
+   2.04
+  ],
+  "rev_fy0": null,
+  "rev": [
+   1476,
+   1444,
+   1641
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Lowest-cost gas.",
+  "key_risks": "Flat EPS.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/ca/energy/tsx-pey/peyto-exploration-development-shares/future"
+  ],
+  "fwd_pe": [
+   11.1,
+   12.7,
+   12.7
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "SHV",
+  "exchange": "ASX",
+  "name": "Select Harvests",
+  "country": "Australia",
+  "theme": "Timber, land & farmland",
+  "sub_industry": "Almond orchards, land & water rights",
+  "price": 4.59,
+  "currency": "AUD",
+  "price_date": "2026-08-25",
+  "market_cap_usd_bn": 0.42,
+  "fy_years": [
+   "FY26 (Sep)",
+   "FY27 (Sep)",
+   "FY28 (Sep)"
+  ],
+  "eps_fy0": 0.224,
+  "eps": [
+   0.35,
+   0.387,
+   0.41
+  ],
+  "rev_fy0": 398.3,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 4,
+  "inflation_score": 5,
+  "confidence": "medium",
+  "inflation_thesis": "Almond prices are set in USD by Californian supply, which carries US water, labour and energy inflation; Select Harvests sells from lower-cost Australian orchards and owns land and water rights.",
+  "key_risks": "Large Californian crop; hedged FY26 crop.",
+  "notes": "FY28 extrapolated.",
+  "sources": [
+   "https://fnarena.com/index.php/analysis-data/consensus-forecasts/stock-analysis/?code=SHV"
+  ],
+  "fwd_pe": [
+   13.1,
+   11.9,
+   11.2
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "ELD",
+  "exchange": "ASX",
+  "name": "Elders",
+  "country": "Australia",
+  "theme": "Agriculture & food",
+  "sub_industry": "Agribusiness",
+  "price": 6.53,
+  "currency": "AUD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 0.8,
+  "fy_years": [
+   "FY26",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": 0.465,
+  "eps": [
+   0.486,
+   0.661,
+   0.71
+  ],
+  "rev_fy0": 3201.7,
+  "rev": [
+   4232,
+   4370,
+   4500
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 6,
+  "inflation_score": 4,
+  "confidence": "low",
+  "inflation_thesis": "Commissions scale with livestock/land prices.",
+  "key_risks": "Indirect.",
+  "notes": "",
+  "sources": [
+   "https://fnarena.com/index.php/analysis-data/consensus-forecasts/stock-analysis/?code=ELD"
+  ],
+  "fwd_pe": [
+   13.4,
+   9.9,
+   9.2
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "WFG",
+  "exchange": "NYSE",
+  "name": "West Fraser Timber",
+  "country": "Canada/US",
+  "theme": "Timber, land & farmland",
+  "sub_industry": "Lumber/OSB",
+  "price": 74.32,
+  "currency": "USD",
+  "price_date": "2026-09-22",
+  "market_cap_usd_bn": 5.37,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -12.08,
+  "eps": [
+   -2.08,
+   2.65,
+   7.66
+  ],
+  "rev_fy0": 5462,
+  "rev": [
+   5684,
+   6290,
+   6523
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Largest US South lumber footprint.",
+  "key_risks": "28x 2027.",
+  "notes": "",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/WEST-FRASER-TIMBER-CO-LTD-1412196/finances/"
+  ],
+  "fwd_pe": [
+   null,
+   28.0,
+   9.7
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "CFP",
+  "exchange": "TSX",
+  "name": "Canfor",
+  "country": "Canada",
+  "theme": "Timber, land & farmland",
+  "sub_industry": "Lumber",
+  "price": 14.97,
+  "currency": "CAD",
+  "price_date": "2026-09-11",
+  "market_cap_usd_bn": 1.31,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -6.78,
+  "eps": [
+   -1.98,
+   0.05,
+   3.14
+  ],
+  "rev_fy0": 5339,
+  "rev": [
+   5660,
+   5560,
+   6198
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "US South + Sweden lumber.",
+  "key_risks": "Losses to 2027.",
+  "notes": "",
+  "sources": [
+   "https://uk.marketscreener.com/quote/stock/CANFOR-CORPORATION-1409411/finances/"
+  ],
+  "fwd_pe": [
+   null,
+   299.4,
+   4.8
+  ],
+  "bench_round": 5
+ },
+ {
+  "ticker": "NUF",
+  "exchange": "ASX",
+  "name": "Nufarm",
+  "country": "Australia",
+  "theme": "Agriculture & food",
+  "sub_industry": "Crop protection",
+  "price": 2.44,
+  "currency": "AUD",
+  "price_date": "2026-09-23",
+  "market_cap_usd_bn": 0.62,
+  "fy_years": [
+   "FY26",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": -0.06,
+  "eps": [
+   0.092,
+   0.208,
+   0.18
+  ],
+  "rev_fy0": 3454,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 8,
+  "inflation_score": 4,
+  "confidence": "low",
+  "inflation_thesis": "Ag inputs.",
+  "key_risks": "Generic price deflation.",
+  "notes": "",
+  "sources": [
+   "https://fnarena.com/stock-price-analysis/sector/NUF"
+  ],
+  "fwd_pe": [
+   26.5,
+   11.7,
+   13.6
+  ],
+  "bench_round": 5
  }
 ]

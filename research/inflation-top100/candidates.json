@@ -1860,5 +1860,474 @@
    4.1
   ],
   "round_added": 4
+ },
+ {
+  "ticker": "CAAP",
+  "exchange": "NYSE",
+  "name": "Corporación América Airports",
+  "country": "Argentina/LatAm/Italy",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Airport concessions (Argentina, Italy, Brazil, Uruguay, Ecuador, Armenia)",
+  "price": 24.1,
+  "currency": "USD",
+  "price_date": "2026-08-28",
+  "market_cap_usd_bn": 3.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.1,
+  "eps": [
+   2.04,
+   2.51,
+   2.56
+  ],
+  "rev_fy0": 1788.5,
+  "rev": [
+   2010,
+   2135,
+   2260
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Reports in USD, and international passenger fees in Argentina, Uruguay, Ecuador and Armenia are USD-denominated with regulated tariffs that preserve real USD returns. Debt is low (0.7x EBITDA) and mostly fixed-rate, so nominal fee increases flow straight to EBITDA while traffic grows ~10% a year.",
+  "key_risks": "Argentine macro/FX/regulatory risk (concessions, tariffs, hyperinflation accounting noise); Q2-26 cost pressure and a 35% EPS miss.",
+  "notes": "FY0 = reported basic EPS (2025 consensus had been $1.51, so growth partly reflects basis). 2027 revenue interpolated. Price from late August.",
+  "sources": [
+   "https://www.tickflow.io/stock/CAAP/forecast",
+   "https://www.vcpscanner.com/valuation/caap/estimates",
+   "https://www.businesswire.com/news/home/20260317703139/en/"
+  ],
+  "fwd_pe": [
+   11.8,
+   9.6,
+   9.4
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "GRNT",
+  "exchange": "NYSE",
+  "name": "Granite Ridge Resources",
+  "country": "US",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Non-operated oil & gas interests (Permian, Eagle Ford, Bakken, Haynesville)",
+  "price": 5.11,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.67,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.43,
+  "eps": [
+   0.6,
+   0.74,
+   0.8
+  ],
+  "rev_fy0": 450.3,
+  "rev": [
+   541,
+   584,
+   610
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Holds non-operated interests across major US basins (~51% oil), so higher oil prices pass straight to revenue (Q2-26 revenue +37% y/y, mostly price). Management targets 8-10% production growth in 2027 and a free-cash-flow inflection after 2026, stacking volume and price leverage at ~7x 2027 earnings.",
+  "key_risks": "As a non-op owner it pays its share of capex and opex, so cost inflation partly offsets price gains; only 2 analysts.",
+  "notes": "Adjusted EPS basis. 2027 EPS is a single broker (Northland); 2028 extrapolated (+8%).",
+  "sources": [
+   "https://www.marketbeat.com/instant-alerts/what-is-northland-securities-forecast-for-grnt-q3-earnings-2026-07-24/",
+   "https://www.wallstreetzen.com/stocks/us/nyse/grnt/stock-forecast",
+   "https://www.businesswire.com/news/home/20260305081975/en"
+  ],
+  "fwd_pe": [
+   8.5,
+   6.9,
+   6.4
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "ASR",
+  "exchange": "NYSE",
+  "name": "ASUR (Grupo Aeroportuario del Sureste)",
+  "country": "Mexico/Puerto Rico/Colombia",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Airport concessions (Cancún, San Juan)",
+  "price": 243.32,
+  "currency": "USD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 7.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 19.2,
+  "eps": [
+   21.22,
+   24.09,
+   26.04
+  ],
+  "rev_fy0": 2011,
+  "rev": [
+   2243,
+   2443,
+   2622
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 15,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Cancún traffic is mostly international passengers paying a USD-denominated fee, Mexican maximum tariffs are inflation-indexed, and San Juan (Puerto Rico) earns USD directly. Costs are mostly fixed and the balance sheet is net cash, so US inflation and a strong dollar pass almost entirely to EBITDA.",
+  "key_risks": "Weaker Cancún international traffic (US demand, hurricanes, sargassum, new Tulum airport) and Mexican regulatory risk.",
+  "notes": "FactSet median of 15 analysts (per ADR, USD). FY0 = trailing-12-month EPS proxy ($19.20). Stock -23% YTD.",
+  "sources": [
+   "https://news.cnyes.com/news/id/6557810",
+   "https://tickflow.io/stock/ASR/forecast",
+   "https://www.digrin.com/stocks/detail/ASR/price"
+  ],
+  "fwd_pe": [
+   11.5,
+   10.1,
+   9.3
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "BCC",
+  "exchange": "NYSE",
+  "name": "Boise Cascade",
+  "country": "US",
+  "theme": "Timber, land & farmland",
+  "sub_industry": "Plywood/engineered wood + building-materials distribution",
+  "price": 76.86,
+  "currency": "USD",
+  "price_date": "2026-09-09",
+  "market_cap_usd_bn": 2.68,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.53,
+  "eps": [
+   3.85,
+   5.62,
+   8.2
+  ],
+  "rev_fy0": 6400,
+  "rev": [
+   6550,
+   6693,
+   6840
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "All-US plywood/engineered-wood maker and the largest US building-materials distributor, so lumber, panel and construction-cost inflation flows straight into its prices and revalues its inventory. Duties and tariffs on Canadian lumber lift US wood prices without touching its cost base; net cash.",
+  "key_risks": "Delayed housing recovery (high mortgage rates) keeps panel pricing soft and pushes out the 2027-28 rebound.",
+  "notes": "2027 EPS interpolated between 2026 consensus and 2028 TickFlow consensus ($8.20, range 7.30-9.10). Q2-26 beat ($1.63 vs $1.23).",
+  "sources": [
+   "https://tickflow.io/stock/BCC/forecast",
+   "https://www.barchart.com/story/news/3620706/boise-cascade-nysebcc-beats-expectations-in-strong-q2-cy2026",
+   "https://www.businesswire.com/news/home/20260223429989/en/Boise-Cascade-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results"
+  ],
+  "fwd_pe": [
+   20.0,
+   13.7,
+   9.4
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "PAC",
+  "exchange": "NYSE",
+  "name": "Grupo Aeroportuario del Pacífico (GAP)",
+  "country": "Mexico/Jamaica",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Airport concessions",
+  "price": 203.29,
+  "currency": "USD",
+  "price_date": "2026-09-20",
+  "market_cap_usd_bn": 10.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 10.7,
+  "eps": [
+   13.14,
+   15.0,
+   16.63
+  ],
+  "rev_fy0": 2238,
+  "rev": [
+   2466,
+   2707,
+   2970
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Tariffs reset in real terms under its 2025-29 plan and indexed to Mexican PPI; international passengers (Los Cabos, Puerto Vallarta, Guadalajara) pay USD fees and its Jamaican airports bill in USD. Big tariff step-ups on a fixed base drive ~15% EPS growth; stock is near its 52-week low.",
+  "key_risks": "Heavy capex and leverage; peso rebound; Mexican political pressure on fees.",
+  "notes": "MXN EPS per ADR converted at 18.5; 2028 revenue extrapolated.",
+  "sources": [
+   "https://tickflow.io/stock/PAC/forecast",
+   "https://www.stocktitan.net/sec-filings/PAC/6-k-pacific-airport-group-current-report-foreign-issuer-61976b5be7dd.html"
+  ],
+  "fwd_pe": [
+   15.5,
+   13.6,
+   12.2
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "TFPM",
+  "exchange": "NYSE / TSX",
+  "name": "Triple Flag Precious Metals",
+  "country": "Canada",
+  "theme": "Royalties, land & water",
+  "sub_industry": "Precious-metals streams & royalties",
+  "price": 31.03,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 6.41,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.01,
+  "eps": [
+   1.45,
+   1.65,
+   1.71
+  ],
+  "rev_fy0": 388.7,
+  "rev": [
+   514,
+   580,
+   572
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Revenue is attributable gold/silver ounces times the USD spot price, with fixed per-ounce stream payments and cost-free royalties, so ~93% asset margins mean almost all of an inflation-driven precious-metals move reaches EPS. Guided volume growth from ~100k to 140-150k GEOs by 2030 adds to price leverage.",
+  "key_risks": "Gold has pulled back from its Jan-2026 high; 2026 GEO guidance below 2025; EPS flattens in 2028; ~19x FY2 is not cheap.",
+  "notes": "FY0 = 2025 adjusted EPS. FY26 estimates range $1.08-1.45.",
+  "sources": [
+   "https://www.marketbeat.com/stocks/NYSE/TFPM/chart",
+   "https://www.tickflow.io/stock/TFPM/forecast",
+   "https://www.businesswire.com/news/home/20260218832876/en/triple-flag-delivers-record-earnings-per-share-and-operating-cash-flow-per-share-growth-in-2025"
+  ],
+  "fwd_pe": [
+   21.4,
+   18.8,
+   18.1
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "OMAB",
+  "exchange": "NASDAQ",
+  "name": "OMA (Grupo Aeroportuario del Centro Norte)",
+  "country": "Mexico",
+  "theme": "Inflation-linked infrastructure",
+  "sub_industry": "Airport concessions (northern/central Mexico)",
+  "price": 103.3,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 4.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 5.9,
+  "eps": [
+   7.22,
+   8.29,
+   9.49
+  ],
+  "rev_fy0": null,
+  "rev": [
+   940.5,
+   1075.1,
+   1209.2
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Maximum tariffs are set in real terms and indexed to Mexican inflation, and the passenger fee for international travellers is set in USD, so revenue rises with both inflation and the dollar. The new 2026-30 development programme lifts tariffs on a largely sunk asset base, widening a ~74% EBITDA margin; nearshoring in Monterrey drives traffic.",
+  "key_risks": "Political/regulatory intervention in Mexican airport fees; peso strength; airline fleet groundings.",
+  "notes": "MXN consensus per ADR converted at 18.5. FY0 estimated from TTM (~$6.07/ADR).",
+  "sources": [
+   "https://tickflow.io/stock/OMAB/forecast",
+   "https://www.marketbeat.com/stocks/NASDAQ/OMAB/forecast",
+   "https://au.investing.com/equities/oma-b"
+  ],
+  "fwd_pe": [
+   14.3,
+   12.5,
+   10.9
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "DNO",
+  "exchange": "Oslo",
+  "name": "DNO ASA",
+  "country": "Norway",
+  "theme": "Energy",
+  "sub_industry": "Oil & gas E&P (North Sea, Kurdistan, West Africa)",
+  "price": 17.6,
+  "currency": "NOK",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.63,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.53,
+  "eps": [
+   3.15,
+   4.58,
+   3.96
+  ],
+  "rev_fy0": 1474.0,
+  "rev": [
+   2752.0,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "After buying Sval it is mainly a North Sea producer (~85k boe/d) selling Brent oil and European gas in USD against NOK costs; Q2-26 revenue hit a record US$761m. Shut-in Kurdistan barrels are free upside on restart, and its reserves gain value as replacement costs rise.",
+  "key_risks": "78% Norwegian tax rate dampens upside; Kurdistan security/payments; bond debt.",
+  "notes": "USD EPS converted to NOK at 10.5; 2027-28 EPS = consensus net income / ~975m shares. Price derived from target upside (approx). ~8.5% dividend yield. Promoted from bench in round 5.",
+  "sources": [
+   "https://simplywall.st/stocks/no/energy/ob-dno/dno-shares/future",
+   "https://aktien.guide/kursziel/DNO-ASA-NO0003921009",
+   "https://www.energy-pedia.com/news/general/dno-reports-record-revenue-as-it-chases-new-growth-204940"
+  ],
+  "fwd_pe": [
+   5.6,
+   3.8,
+   4.4
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "ATYM",
+  "exchange": "LSE (also TSX)",
+  "name": "Atalaya Mining Copper",
+  "country": "Spain",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper (Riotinto, Iberian Pyrite Belt)",
+  "price": 8.725,
+  "currency": "GBP",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 1.78,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.593,
+  "eps": [
+   0.746,
+   0.78,
+   0.992
+  ],
+  "rev_fy0": 482.9,
+  "rev": [
+   515,
+   515,
+   658
+  ],
+  "rev_unit": "EUR m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Almost pure, net-cash copper producer selling a USD-priced hard asset that benefits from US inflation and US/EU grid and reshoring demand. Growth projects (San Dionisio, Masa Valverde, Touro) lift output without much dilution; H1-26 EPS was already EUR0.554, so consensus looks conservative.",
+  "key_risks": "Single main mine; Spanish permitting for expansions; EUR cost base.",
+  "notes": "EUR EPS converted to GBP at 0.872. Consensus likely stale: H1-26 annualises to ~EUR1.1 EPS; MarketScreener shows 9.1x 2026 / 6.9x 2027. Promoted from bench in round 5.",
+  "sources": [
+   "https://simplywall.st/stocks/gb/materials/lse-atym/atalaya-mining-copper-shares/future",
+   "https://in.marketscreener.com/quote/stock/ATALAYA-MINING-COPPER-S-A-24543269/",
+   "https://www.directorstalkinterviews.com/atalaya-mining-reports-record-q2-and-h1-2026-ebitda/4121260038"
+  ],
+  "fwd_pe": [
+   11.7,
+   11.2,
+   8.8
+  ],
+  "round_added": 5
+ },
+ {
+  "ticker": "TDW",
+  "exchange": "NYSE",
+  "name": "Tidewater",
+  "country": "US",
+  "theme": "Shipping & offshore",
+  "sub_industry": "Offshore supply vessels (world's largest OSV fleet)",
+  "price": 96.31,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 4.76,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.6,
+  "eps": [
+   3.2,
+   6.13,
+   9.59
+  ],
+  "rev_fy0": 1352.8,
+  "rev": [
+   1450,
+   1660,
+   1860
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "World's largest offshore supply-vessel owner, with USD dayrates that reprice every 1-3 years. The newbuild orderbook is near zero and replacement cost is far above secondhand values, so steel, yard and crew inflation raise the dayrate any new vessel needs and the existing fleet captures it. High 2026 oil prices support offshore spending, and repricing shows in EPS tripling from 2026 to 2028.",
+  "key_risks": "Offshore capex deferral if oil falls; not cheap on 2026-27 earnings; widely covered.",
+  "notes": "FY0 uses underlying 2025 EPS (~$2.6); reported $6.64 included a $201.5m one-off tax benefit. Second source: 2027/28 EPS $5.81/$7.91. Promoted from bench in round 5.",
+  "sources": [
+   "https://www.tickflow.io/stock/TDW/forecast",
+   "https://vcpscanner.com/valuation/tdw/estimates",
+   "https://www.businesswire.com/news/home/20260226106218/en"
+  ],
+  "fwd_pe": [
+   30.1,
+   15.7,
+   10.0
+  ],
+  "round_added": 5
  }
 ]
