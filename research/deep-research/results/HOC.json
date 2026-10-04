@@ -1,0 +1,14 @@
+{
+ "ticker": "HOC",
+ "name": "Hochschild Mining plc",
+ "price": 560.0,
+ "currency": "GBp",
+ "price_date": "2026-10-01",
+ "upside_36m_pct": 1.8,
+ "overall_score": 38,
+ "scorecard": 51,
+ "likelihood": 55,
+ "advice": "Hold",
+ "pw_target_36m": 570.1,
+ "report": "reports/HOC.html"
+}
