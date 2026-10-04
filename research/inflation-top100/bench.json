@@ -3651,5 +3651,638 @@
    15.4
   ],
   "bench_round": 7
+ },
+ {
+  "ticker": "IFS",
+  "exchange": "NYSE",
+  "name": "Intercorp Financial Services",
+  "country": "Peru",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Bank + insurance",
+  "price": 54.8,
+  "currency": "USD",
+  "price_date": "2026-09-08",
+  "market_cap_usd_bn": 6.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 5.07,
+  "eps": [
+   5.89,
+   6.36,
+   7.07
+  ],
+  "rev_fy0": null,
+  "rev": [
+   2217,
+   2267,
+   2725
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Partly dollarized Peru bank + insurance float.",
+  "key_risks": "Peru politics.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/IFS/forecast"
+  ],
+  "fwd_pe": [
+   9.3,
+   8.6,
+   7.8
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "TCAP",
+  "exchange": "LSE",
+  "name": "TP ICAP",
+  "country": "UK",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Inter-dealer broker",
+  "price": 3.35,
+  "currency": "GBP",
+  "price_date": "2026-09-24",
+  "market_cap_usd_bn": 3.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.322,
+  "eps": [
+   0.339,
+   0.358,
+   0.378
+  ],
+  "rev_fy0": 2350,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "GBP m",
+  "n_analysts": 6,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "World's largest IDB; volatility.",
+  "key_risks": "Low growth.",
+  "notes": "",
+  "sources": [
+   "https://tpicap.com/tpicap/sites/g/files/escbpb106/files/2026-01/TP%20ICAP%20consensus_311225_0.pdf"
+  ],
+  "fwd_pe": [
+   9.9,
+   9.4,
+   8.9
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "XP",
+  "exchange": "NASDAQ",
+  "name": "XP Inc",
+  "country": "Brazil",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Brokerage",
+  "price": 19.99,
+  "currency": "USD",
+  "price_date": "2026-09-01",
+  "market_cap_usd_bn": 10.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.82,
+  "eps": [
+   2.09,
+   2.29,
+   2.45
+  ],
+  "rev_fy0": 3611,
+  "rev": [
+   null,
+   4481,
+   5093
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 14,
+  "inflation_score": 4,
+  "confidence": "medium",
+  "inflation_thesis": "Indirect via Selic.",
+  "key_risks": "BRL.",
+  "notes": "",
+  "sources": [
+   "https://www.vcpscanner.com/valuation/xp/estimates"
+  ],
+  "fwd_pe": [
+   9.6,
+   8.7,
+   8.2
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "TIGR",
+  "exchange": "NASDAQ",
+  "name": "UP Fintech",
+  "country": "Singapore/China",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Online brokerage",
+  "price": 5.07,
+  "currency": "USD",
+  "price_date": "2026-09-05",
+  "market_cap_usd_bn": 0.86,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.96,
+  "eps": [
+   0.54,
+   0.85,
+   0.89
+  ],
+  "rev_fy0": null,
+  "rev": [
+   660.5,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 17,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "USD margin book.",
+  "key_risks": "Below 2025 EPS.",
+  "notes": "",
+  "sources": [
+   "https://stockscan.io/stocks/TIGR/forecast"
+  ],
+  "fwd_pe": [
+   9.4,
+   6.0,
+   5.7
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "Q",
+  "exchange": "BMV",
+  "name": "Quálitas Controladora",
+  "country": "Mexico/US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Auto insurance (Mexico, US border)",
+  "price": 177.6,
+  "currency": "MXN",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 3.85,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 12.7,
+  "eps": [
+   15.08,
+   17.2,
+   18.74
+  ],
+  "rev_fy0": 80084,
+  "rev": [
+   82000,
+   89500,
+   96600
+  ],
+  "rev_unit": "MXN m",
+  "n_analysts": 13,
+  "inflation_score": 5,
+  "confidence": "medium",
+  "inflation_thesis": "Mexico's largest auto insurer (plus a US border/commercial-auto unit) that reprices quickly for parts inflation (many imported parts priced in USD), while its float earns high Banxico rates that track Fed policy; ~13% EPS growth and 20%+ ROE.",
+  "key_risks": "Claims-cost inflation outrunning pricing; Banxico cuts; Q2-26 miss.",
+  "notes": "Price conflict (166-178 MXN). 2027-28 EPS from net-income consensus / ~401m shares.",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/QU-LITAS-CONTROLADORA-S-A-23068062/",
+   "https://simplywall.st/stocks/mx/insurance/bmv-q/qualitas-controladora-de-shares/future"
+  ],
+  "fwd_pe": [
+   11.8,
+   10.3,
+   9.5
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "IRBR3",
+  "exchange": "B3",
+  "name": "IRB Brasil Re",
+  "country": "Brazil",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Reinsurance",
+  "price": 51.32,
+  "currency": "BRL",
+  "price_date": "2026-08-10",
+  "market_cap_usd_bn": 0.76,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 6.35,
+  "eps": [
+   7.22,
+   8.69,
+   9.56
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 6,
+  "inflation_score": 4,
+  "confidence": "medium",
+  "inflation_thesis": "Float earns high Selic; USD-linked book.",
+  "key_risks": "Selic cuts; legacy.",
+  "notes": "",
+  "sources": [
+   "https://uk.marketscreener.com/quote/stock/IRB-BRASIL-RESSEGUROS-S-A-37278256/"
+  ],
+  "fwd_pe": [
+   7.1,
+   5.9,
+   5.4
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "LRE",
+  "exchange": "LSE",
+  "name": "Lancashire Holdings",
+  "country": "UK/Bermuda",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Specialty reinsurance",
+  "price": 654.0,
+  "currency": "GBp",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 2.09,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 88.0,
+  "eps": [
+   94.0,
+   88.0,
+   89.0
+  ],
+  "rev_fy0": 1964.1,
+  "rev": [
+   2165.3,
+   2070.9,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "USD specialty book.",
+  "key_risks": "Soft cycle; flat EPS.",
+  "notes": "",
+  "sources": [
+   "https://ca.marketscreener.com/quote/stock/LANCASHIRE-HOLDINGS-LIMIT-4005712/"
+  ],
+  "fwd_pe": [
+   7.0,
+   7.4,
+   7.3
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "FFH",
+  "exchange": "TSX",
+  "name": "Fairfax Financial",
+  "country": "Canada",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "P&C holding",
+  "price": 2204.2,
+  "currency": "CAD",
+  "price_date": "2026-09-10",
+  "market_cap_usd_bn": 34.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   283.9,
+   259.7,
+   293.0
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "US commercial P&C + $40bn float in short Treasuries.",
+  "key_risks": "Lumpy EPS.",
+  "notes": "",
+  "sources": [
+   "https://seekingalpha.com/symbol/FRFHF/earnings/estimates"
+  ],
+  "fwd_pe": [
+   7.8,
+   8.5,
+   7.5
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "005830",
+  "exchange": "KRX",
+  "name": "DB Insurance",
+  "country": "South Korea",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "P&C (owns Fortegra)",
+  "price": 194800,
+  "currency": "KRW",
+  "price_date": "2026-09-01",
+  "market_cap_usd_bn": 8.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 29300,
+  "eps": [
+   27800,
+   29099,
+   30400
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "KRW bn",
+  "n_analysts": 23,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Fortegra US specialty.",
+  "key_risks": "IFRS17 swings.",
+  "notes": "",
+  "sources": [
+   "https://eulerpool.com/stock/DB-Insurance-Stock-KR7005830005"
+  ],
+  "fwd_pe": [
+   7.0,
+   6.7,
+   6.4
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "PSSA3",
+  "exchange": "B3",
+  "name": "Porto Seguro",
+  "country": "Brazil",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "P&C",
+  "price": 54.26,
+  "currency": "BRL",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 6.46,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 5.75,
+  "eps": [
+   5.912,
+   6.256,
+   6.833
+  ],
+  "rev_fy0": null,
+  "rev": [
+   37000,
+   39919,
+   41727
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 9,
+  "inflation_score": 3,
+  "confidence": "medium",
+  "inflation_thesis": "Selic float.",
+  "key_risks": "Indirect.",
+  "notes": "",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/PORTO-SEGURO-S-A-6497459/finances/"
+  ],
+  "fwd_pe": [
+   9.2,
+   8.7,
+   7.9
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "HG",
+  "exchange": "NYSE",
+  "name": "Hamilton Insurance Group",
+  "country": "Bermuda",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Specialty insurance & reinsurance",
+  "price": 34.95,
+  "currency": "USD",
+  "price_date": "2026-09-15",
+  "market_cap_usd_bn": 3.43,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 4.84,
+  "eps": [
+   4.33,
+   4.89,
+   5.84
+  ],
+  "rev_fy0": 2910,
+  "rev": [
+   2880,
+   3240,
+   3434
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Bermuda/Lloyd's/US E&S platform whose large float is invested at high short-term yields (plus the Two Sigma fund), so persistently high rates lift investment income directly; its property-cat and specialty books reprice annually on inflated exposure values (GWP +21% in 2025, book value/share +24%).",
+  "key_risks": "Softening property-cat pricing; cat and Two Sigma fund volatility; 2026 EPS dips vs 2025.",
+  "notes": "FY0 = operating EPS. 2028 from thinly covered quarterly sums; 2028 revenue extrapolated.",
+  "sources": [
+   "https://finance.yahoo.com/quote/HG/analysis",
+   "https://www.businesswire.com/news/home/20260219003729/en/hamilton-reports-577-million-of-net-income-24-growth-in-book-value-per-share-and-declares-special-dividend/",
+   "https://www.vcpscanner.com/valuation/hg/estimates"
+  ],
+  "fwd_pe": [
+   8.1,
+   7.1,
+   6.0
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "SPNT",
+  "exchange": "NYSE",
+  "name": "SiriusPoint",
+  "country": "Bermuda",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Specialty insurer/reinsurer",
+  "price": 24.11,
+  "currency": "USD",
+  "price_date": "2026-08-24",
+  "market_cap_usd_bn": 2.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.55,
+  "eps": [
+   2.64,
+   2.81,
+   2.97
+  ],
+  "rev_fy0": 3210,
+  "rev": [
+   2960,
+   3108,
+   3263
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Large investment portfolio vs equity.",
+  "key_risks": "Slow growth.",
+  "notes": "",
+  "sources": [
+   "https://www.vcpscanner.com/valuation/spnt/estimates"
+  ],
+  "fwd_pe": [
+   9.1,
+   8.6,
+   8.1
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "SKWD",
+  "exchange": "NASDAQ",
+  "name": "Skyward Specialty",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Specialty/E&S",
+  "price": 56.35,
+  "currency": "USD",
+  "price_date": "2026-09-09",
+  "market_cap_usd_bn": 2.5,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.89,
+  "eps": [
+   4.86,
+   5.21,
+   5.63
+  ],
+  "rev_fy0": 1420,
+  "rev": [
+   1900,
+   2000,
+   2200
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Niche specialty reprices annually; Apollo float.",
+  "key_risks": "Integration.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/SKWD/forecast"
+  ],
+  "fwd_pe": [
+   11.6,
+   10.8,
+   10.0
+  ],
+  "bench_round": 8
+ },
+ {
+  "ticker": "KINS",
+  "exchange": "NASDAQ",
+  "name": "Kingstone Companies",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "NY homeowners",
+  "price": 19.96,
+  "currency": "USD",
+  "price_date": "2026-09-04",
+  "market_cap_usd_bn": 0.29,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.88,
+  "eps": [
+   2.65,
+   2.9,
+   3.1
+  ],
+  "rev_fy0": 214.9,
+  "rev": [
+   231,
+   273,
+   300
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Inflation-guard homeowners.",
+  "key_risks": "NY cat.",
+  "notes": "",
+  "sources": [
+   "https://www.vcpscanner.com/valuation/kins/estimates"
+  ],
+  "fwd_pe": [
+   7.5,
+   6.9,
+   6.4
+  ],
+  "bench_round": 8
  }
 ]

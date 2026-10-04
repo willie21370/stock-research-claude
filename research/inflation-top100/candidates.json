@@ -3258,5 +3258,471 @@
    13.1
   ],
   "round_added": 7
+ },
+ {
+  "ticker": "CMCX",
+  "exchange": "LSE",
+  "name": "CMC Markets",
+  "country": "UK",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "CFD broker + B2B platforms",
+  "price": 7.32,
+  "currency": "GBP",
+  "price_date": "2026-08-20",
+  "market_cap_usd_bn": 2.7,
+  "fy_years": [
+   "FY27 (Mar)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.275,
+  "eps": [
+   0.63,
+   0.66,
+   0.69
+  ],
+  "rev_fy0": 392.6,
+  "rev": [
+   550,
+   580,
+   610
+  ],
+  "rev_unit": "GBP m",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Earns interest on large segregated client-money and margin balances, which rises when inflation keeps central banks high, while inflation-driven swings in FX, indices, commodities and rates lift client trading and hedging. Its fast-growing B2B/institutional platform business adds volume on a largely fixed ~£280m cost base.",
+  "key_risks": "FY27 step-up rests on company guidance rather than firm consensus; the stock has already re-rated ~50% since July.",
+  "notes": "No current consensus found: FY27 EPS (~63p) derived from company guidance (NOI ≥£550m, EBITDA ~£250m); FY28-29 extrapolated +5%. RBC raised FY27/28 EPS 23%/30%. Price 732p (Aug; Jul-Aug range 680-750p).",
+  "sources": [
+   "https://fxnewsgroup.com/forex-news/retail-forex/cmc-markets-revises-upwards-its-net-operating-income-guidance-for-fy2027/",
+   "https://www.investegate.co.uk/announcement/rns/cmc-markets--cmcx/preliminary-results/9600709",
+   "https://www.ticker.app/lse/CMCX/trades"
+  ],
+  "fwd_pe": [
+   11.6,
+   11.1,
+   10.6
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "BGEO",
+  "exchange": "LSE",
+  "name": "Lion Finance Group (ex-Bank of Georgia)",
+  "country": "Georgia/Armenia",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Bank (Georgia + Ameriabank)",
+  "price": 135.1,
+  "currency": "GBP",
+  "price_date": "2026-09-11",
+  "market_cap_usd_bn": 7.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 13.79,
+  "eps": [
+   16.02,
+   18.44,
+   21.32
+  ],
+  "rev_fy0": 1593,
+  "rev": [
+   1826,
+   2081,
+   2394
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 5,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Partly dollarized balance sheet (~45-50% of Georgian loans in USD repricing with SOFR) funded by a dominant low-cost current-account franchise, so a higher USD rate path widens spreads; ~28% adjusted ROE with ongoing buybacks.",
+  "key_risks": "Georgian political/sanctions risk; Ameriabank integration; GEL/AMD FX.",
+  "notes": "Thin EPS sample (USD consensus converted at 1.33). FY0 depressed by one-offs.",
+  "sources": [
+   "https://www.stockopedia.com/share-prices/lion-finance-LON:BGEO/",
+   "https://pro.stockalarm.io/quote/BDGSF/analysts",
+   "https://simplywall.st/stocks/gb/banks/bats-chixe-bgeol/lion-finance-group-shares/future"
+  ],
+  "fwd_pe": [
+   8.4,
+   7.3,
+   6.3
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "SLDE",
+  "exchange": "NASDAQ",
+  "name": "Slide Insurance Holdings",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Florida homeowners/condo insurer",
+  "price": 24.46,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 2.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.36,
+  "eps": [
+   3.59,
+   3.67,
+   3.85
+  ],
+  "rev_fy0": 1160,
+  "rev": [
+   1780,
+   1920,
+   2075
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Short-tail property writer with inflation-guard and insured-value adjustments, so construction-cost inflation lifts premium per policy every renewal (GWP +17%); a large short-duration unearned-premium float earns high rates, and Florida tort reform removes the social-inflation tail (Q2-26 combined ratio 57.6%).",
+  "key_risks": "Concentrated Florida hurricane exposure and reinsurance cost.",
+  "notes": "2027 from quarterly sums; 2028 extrapolated. Price from late Aug.",
+  "sources": [
+   "https://www.barchart.com/story/news/36859777/slide-reports-second-quarter-2026-results",
+   "https://www.marketbeat.com/instant-alerts/slide-insurance-nasdaqslde-price-target-raised-to-2700-2026-07-30/"
+  ],
+  "fwd_pe": [
+   6.8,
+   6.7,
+   6.4
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "SNEX",
+  "exchange": "NASDAQ",
+  "name": "StoneX Group",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "FCM / commodity & FX broker-clearer",
+  "price": 65.9,
+  "currency": "USD",
+  "price_date": "2026-09-29",
+  "market_cap_usd_bn": 5.2,
+  "fy_years": [
+   "FY26 (Sep)",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": 3.93,
+  "eps": [
+   5.54,
+   5.85,
+   6.28
+  ],
+  "rev_fy0": 4126.9,
+  "rev": [
+   null,
+   null,
+   5270
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "Largest US non-bank futures commission merchant (after buying R.J. O'Brien), earning interest on billions in client margin and float, so a Fed held high by inflation directly lifts net interest income; inflation-driven commodity, FX and rate volatility also boosts hedging and clearing volumes in ag, energy and metals futures.",
+  "key_risks": "Fed cuts; RJO integration; clearing-member credit losses; noisy post-split consensus.",
+  "notes": "Pre-split consensus divided by 1.5 (3-for-2 split Jul-2026). Quarterly consensus implies FY27 nearer $4.4-4.6, so FY27-28 may be overstated.",
+  "sources": [
+   "https://tickflow.io/stock/SNEX/forecast",
+   "https://ir.stonex.com/news-releases/news-release-details/stonex-announces-three-two-stock-split-0",
+   "https://www.barchart.com/story/news/36293073/stonex-group-inc-reports-fiscal-2025-fourth-quarter-financial-results"
+  ],
+  "fwd_pe": [
+   11.9,
+   11.3,
+   10.5
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "TBCG",
+  "exchange": "LSE",
+  "name": "TBC Bank Group",
+  "country": "Georgia/Uzbekistan",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Bank (Georgia + Uzbek digital)",
+  "price": 45.32,
+  "currency": "GBP",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 7.03,
+  "eps": [
+   8.08,
+   9.24,
+   10.77
+  ],
+  "rev_fy0": null,
+  "rev": [
+   1447,
+   1689,
+   1943
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "About half of Georgian loans and deposits are in USD and reprice with US rates, while a dominant retail franchise provides cheap current-account funding; NIM ~7% and ROE ~24% with 15%+ loan growth and buybacks. Higher-for-longer Fed rates lift USD loan yields.",
+  "key_risks": "Georgian political/sanctions risk; Uzbekistan execution; GEL depreciation hits GBP-converted EPS.",
+  "notes": "GEL EPS converted at GBP/GEL 3.591; 2026 derived from H1 + net-profit consensus; 2028 revenue extrapolated. Price approximate (buybacks 4,270-4,370p).",
+  "sources": [
+   "https://www.stockopedia.com/share-prices/tbc-bank-LON:TBCG/",
+   "https://pro.stockalarm.io/quote/TBCCF/analysts",
+   "https://uk.marketscreener.com/quote/stock/TBC-BANK-GROUP-PLC-30519069/finances/"
+  ],
+  "fwd_pe": [
+   5.6,
+   4.9,
+   4.2
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "BLX",
+  "exchange": "NYSE",
+  "name": "Bladex",
+  "country": "Panama",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "USD trade-finance bank",
+  "price": 55.35,
+  "currency": "USD",
+  "price_date": "2026-09-09",
+  "market_cap_usd_bn": 2.06,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 6.11,
+  "eps": [
+   6.76,
+   7.22,
+   7.62
+  ],
+  "rev_fy0": null,
+  "rev": [
+   378,
+   410,
+   454
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Nearly 100% USD, short-tenor floating-rate trade finance that reprices within months with SOFR, so a Fed held high by US inflation lifts asset yields directly; higher USD commodity prices also expand nominal LatAm trade-finance volumes. ~5% dividend yield.",
+  "key_risks": "Fed cuts compress NII; LatAm credit events.",
+  "notes": "2-3 analysts; 2026E may be optimistic vs TTM $6.06.",
+  "sources": [
+   "https://www.simplywall.st/stocks/us/diversified-financials/nyse-blx/bladex/future",
+   "https://finviz.com/news/309876/bladex-announces-net-profits-of-560-million-or-150-per-share-in-4q25-and-2269-million-or-611-per-share-in-2025"
+  ],
+  "fwd_pe": [
+   8.2,
+   7.7,
+   7.3
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "ASIC",
+  "exchange": "NYSE",
+  "name": "Ategrity Specialty Insurance",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "E&S small-business insurer",
+  "price": 26.26,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.61,
+  "eps": [
+   1.92,
+   2.57,
+   2.96
+  ],
+  "rev_fy0": 424.3,
+  "rev": [
+   481,
+   548,
+   612
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Pure E&S writer with freedom of rate and form, so it reprices for loss-cost and replacement-cost inflation faster than admitted carriers (Q2-26 GWP +23%, combined ratio 85.9%), with a fast-growing short-duration float earning high yields.",
+  "key_risks": "Short public history; casualty social-inflation exposure; softening E&S cycle.",
+  "notes": "2028 extrapolated (+15%); revenue path model-based.",
+  "sources": [
+   "https://finance.yahoo.com/quote/ASIC/analysis",
+   "https://www.businesswire.com/news/home/20260729301762/en/"
+  ],
+  "fwd_pe": [
+   13.7,
+   10.2,
+   8.9
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "CASH",
+  "exchange": "NASDAQ",
+  "name": "Pathward Financial",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Asset-sensitive bank (prepaid/BaaS, commercial finance)",
+  "price": 72.56,
+  "currency": "USD",
+  "price_date": "2026-09-28",
+  "market_cap_usd_bn": 1.65,
+  "fy_years": [
+   "FY26 (Sep)",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": 7.87,
+  "eps": [
+   8.0,
+   9.67,
+   10.66
+  ],
+  "rev_fy0": 840,
+  "rev": [
+   null,
+   876,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Mostly non-interest-bearing prepaid-card and partner deposits funding short floating-rate loans — one of the most asset-sensitive US banks — so a Fed held high by sticky inflation lifts NIM almost one-for-one; ROE >20% with heavy buybacks.",
+  "key_risks": "Fed cuts (FY26 guidance was cut on lower rates); loss of a BaaS partner; regulatory scrutiny.",
+  "notes": "FY26 = guidance midpoint; FY27 from quarterly consensus (matches $9.50-10.00 guidance); FY28 single source.",
+  "sources": [
+   "https://www.tickflow.io/stock/CASH/forecast",
+   "https://www.marketbeat.com/instant-alerts/pathward-financial-nasdaqcash-updates-fy-2027-earnings-guidance-2026-07-22/"
+  ],
+  "fwd_pe": [
+   9.1,
+   7.5,
+   6.8
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "BGC",
+  "exchange": "NASDAQ",
+  "name": "BGC Group",
+  "country": "US/UK",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Inter-dealer broker + Fenics electronic markets",
+  "price": 12.17,
+  "currency": "USD",
+  "price_date": "2026-09-11",
+  "market_cap_usd_bn": 5.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.21,
+  "eps": [
+   1.41,
+   1.58,
+   1.74
+  ],
+  "rev_fy0": 2940,
+  "rev": [
+   3375,
+   3613,
+   3830
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Earns mostly from brokering rates, FX, energy and commodities; inflation shocks make Fed policy, Treasury, swap and energy markets volatile, driving volume. The OTC Global Holdings deal made it a leading energy/commodities broker, and Fenics/FMX gain operating leverage from higher rate-market activity.",
+  "key_risks": "Volumes normalise in calm markets; compensation ratio; Cantor-related governance; FMX vs CME execution.",
+  "notes": "Adjusted (non-GAAP) EPS; 2027 derived from consensus growth; 2028 extrapolated (+10%). Price range $11.1-12.2.",
+  "sources": [
+   "https://tickflow.io/stock/BGC/forecast",
+   "https://www.benzinga.com/quote/BGC/earnings-forecasts",
+   "https://www.financemagnates.com/institutional-forex/bgcs-revenue-jumps-30-on-strong-markets-and-otc-acquisition/"
+  ],
+  "fwd_pe": [
+   8.6,
+   7.7,
+   7.0
+  ],
+  "round_added": 8
+ },
+ {
+  "ticker": "TBBK",
+  "exchange": "NASDAQ",
+  "name": "The Bancorp",
+  "country": "US",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Fintech sponsor bank",
+  "price": 64.35,
+  "currency": "USD",
+  "price_date": "2026-09-01",
+  "market_cap_usd_bn": 2.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 4.92,
+  "eps": [
+   5.95,
+   8.1,
+   8.75
+  ],
+  "rev_fy0": 526,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Funded by low-cost, largely non-interest-bearing fintech prepaid/debit deposits while lending mostly floating-rate (securities-backed lines, SBA, real-estate bridge, consumer fintech credit), so higher-for-longer Fed rates widen its spread; ROE ~27-30% with ~$200m of 2026 buybacks.",
+  "key_risks": "Real-estate bridge-loan credit, fintech partner concentration and regulatory scrutiny; rate cuts.",
+  "notes": "2027 EPS uses management guidance ($8.10-8.30) as proxy (a model shows $6.45); 2028 extrapolated (+8%). Price from 1 Sep.",
+  "sources": [
+   "https://www.marketbeat.com/instant-alerts/bancorp-nasdaqtbbk-issues-fy-2026-earnings-guidance-2026-07-30/",
+   "https://www.tickflow.io/stock/TBBK/forecast",
+   "https://www.vcpscanner.com/valuation/tbbk/estimates"
+  ],
+  "fwd_pe": [
+   10.8,
+   7.9,
+   7.4
+  ],
+  "round_added": 8
  }
 ]
