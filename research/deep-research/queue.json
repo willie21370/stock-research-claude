@@ -1,0 +1,722 @@
+[
+ {
+  "rank": 1,
+  "ticker": "PRIO3",
+  "name": "PRIO",
+  "exchange": "B3",
+  "price": 59.15,
+  "currency": "BRL",
+  "score": 87.9
+ },
+ {
+  "rank": 2,
+  "ticker": "TINS",
+  "name": "PT Timah",
+  "exchange": "IDX",
+  "price": 4070,
+  "currency": "IDR",
+  "score": 84.4
+ },
+ {
+  "rank": 3,
+  "ticker": "000893",
+  "name": "Asia-Potash International",
+  "exchange": "SZSE",
+  "price": 47.27,
+  "currency": "CNY",
+  "score": 82.4
+ },
+ {
+  "rank": 4,
+  "ticker": "TXG",
+  "name": "Torex Gold Resources",
+  "exchange": "TSX (OTC: TORXF)",
+  "price": 39.1,
+  "currency": "USD",
+  "score": 81.9
+ },
+ {
+  "rank": 5,
+  "ticker": "AUGO",
+  "name": "Aura Minerals",
+  "exchange": "Nasdaq / TSX (ORA)",
+  "price": 76.02,
+  "currency": "USD",
+  "score": 80.6
+ },
+ {
+  "rank": 6,
+  "ticker": "KNT",
+  "name": "K92 Mining",
+  "exchange": "TSX (OTC: KNTNF)",
+  "price": 16.84,
+  "currency": "USD",
+  "score": 79.3
+ },
+ {
+  "rank": 7,
+  "ticker": "VIST",
+  "name": "Vista Energy",
+  "exchange": "NYSE",
+  "price": 73.32,
+  "currency": "USD",
+  "score": 79.2
+ },
+ {
+  "rank": 8,
+  "ticker": "3330",
+  "name": "Lingbao Gold Group",
+  "exchange": "HKEX",
+  "price": 25.36,
+  "currency": "HKD",
+  "score": 79.2
+ },
+ {
+  "rank": 9,
+  "ticker": "ADMR",
+  "name": "Alamtri Minerals Indonesia",
+  "exchange": "IDX",
+  "price": 1490.0,
+  "currency": "IDR",
+  "score": 79.1
+ },
+ {
+  "rank": 10,
+  "ticker": "HOC",
+  "name": "Hochschild Mining",
+  "exchange": "LSE",
+  "price": 7.45,
+  "currency": "USD",
+  "score": 78.2
+ },
+ {
+  "rank": 11,
+  "ticker": "EGO",
+  "name": "Eldorado Gold",
+  "exchange": "NYSE / TSX",
+  "price": 43.0,
+  "currency": "USD",
+  "score": 76.9
+ },
+ {
+  "rank": 12,
+  "ticker": "GPRK",
+  "name": "GeoPark",
+  "exchange": "NYSE",
+  "price": 9.7,
+  "currency": "USD",
+  "score": 76.5
+ },
+ {
+  "rank": 13,
+  "ticker": "2259",
+  "name": "Zijin Gold International",
+  "exchange": "HKEX",
+  "price": 203.6,
+  "currency": "HKD",
+  "score": 76.2
+ },
+ {
+  "rank": 14,
+  "ticker": "ARIS",
+  "name": "Aris Mining",
+  "exchange": "TSX / NYSE American",
+  "price": 19.16,
+  "currency": "USD",
+  "score": 75.8
+ },
+ {
+  "rank": 15,
+  "ticker": "ORE",
+  "name": "Orezone Gold",
+  "exchange": "TSX / ASX",
+  "price": 2.34,
+  "currency": "USD",
+  "score": 75.5
+ },
+ {
+  "rank": 16,
+  "ticker": "THS",
+  "name": "Tharisa",
+  "exchange": "LSE / JSE",
+  "price": 1.66,
+  "currency": "USD",
+  "score": 75.5
+ },
+ {
+  "rank": 17,
+  "ticker": "ERO",
+  "name": "Ero Copper",
+  "exchange": "NYSE / TSX",
+  "price": 35.07,
+  "currency": "USD",
+  "score": 75.4
+ },
+ {
+  "rank": 18,
+  "ticker": "EQX",
+  "name": "Equinox Gold",
+  "exchange": "TSX / NYSE American",
+  "price": 11.82,
+  "currency": "USD",
+  "score": 75.2
+ },
+ {
+  "rank": 19,
+  "ticker": "WGX",
+  "name": "Westgold Resources",
+  "exchange": "ASX",
+  "price": 6.21,
+  "currency": "AUD",
+  "score": 75.2
+ },
+ {
+  "rank": 20,
+  "ticker": "MEDC",
+  "name": "Medco Energi Internasional",
+  "exchange": "IDX",
+  "price": 1600.0,
+  "currency": "IDR",
+  "score": 74.8
+ },
+ {
+  "rank": 21,
+  "ticker": "IPCO",
+  "name": "International Petroleum Corp",
+  "exchange": "TSX / Stockholm",
+  "price": 28.99,
+  "currency": "CAD",
+  "score": 74.7
+ },
+ {
+  "rank": 22,
+  "ticker": "GMS",
+  "name": "Gulf Marine Services",
+  "exchange": "LSE",
+  "price": 18.76,
+  "currency": "GBX",
+  "score": 72.7
+ },
+ {
+  "rank": 23,
+  "ticker": "CYL",
+  "name": "Catalyst Metals",
+  "exchange": "ASX",
+  "price": 6.38,
+  "currency": "AUD",
+  "score": 72.2
+ },
+ {
+  "rank": 24,
+  "ticker": "OIL",
+  "name": "Oil India",
+  "exchange": "NSE",
+  "price": 479.55,
+  "currency": "INR",
+  "score": 72.2
+ },
+ {
+  "rank": 25,
+  "ticker": "2099",
+  "name": "China Gold International Resources",
+  "exchange": "HKEX (TSX: CGG)",
+  "price": 260.4,
+  "currency": "HKD",
+  "score": 72.2
+ },
+ {
+  "rank": 26,
+  "ticker": "PEN",
+  "name": "Panoro Energy",
+  "exchange": "Oslo",
+  "price": 27.55,
+  "currency": "NOK",
+  "score": 71.7
+ },
+ {
+  "rank": 27,
+  "ticker": "RMS",
+  "name": "Ramelius Resources",
+  "exchange": "ASX",
+  "price": 3.87,
+  "currency": "AUD",
+  "score": 70.7
+ },
+ {
+  "rank": 28,
+  "ticker": "CAAP",
+  "name": "Corporaci\u00f3n Am\u00e9rica Airports",
+  "exchange": "NYSE",
+  "price": 24.1,
+  "currency": "USD",
+  "score": 70.7
+ },
+ {
+  "rank": 29,
+  "ticker": "PAM",
+  "name": "Pampa Energ\u00eda",
+  "exchange": "NYSE",
+  "price": 88.45,
+  "currency": "USD",
+  "score": 70.3
+ },
+ {
+  "rank": 30,
+  "ticker": "ARCH",
+  "name": "Archer",
+  "exchange": "Oslo",
+  "price": 25.35,
+  "currency": "NOK",
+  "score": 69.9
+ },
+ {
+  "rank": 31,
+  "ticker": "1208",
+  "name": "MMG Limited",
+  "exchange": "HKEX",
+  "price": 9.43,
+  "currency": "HKD",
+  "score": 69.5
+ },
+ {
+  "rank": 32,
+  "ticker": "CS",
+  "name": "Capstone Copper",
+  "exchange": "TSX (ASX: CSC)",
+  "price": 15.72,
+  "currency": "CAD",
+  "score": 69.4
+ },
+ {
+  "rank": 33,
+  "ticker": "WDO",
+  "name": "Wesdome Gold Mines",
+  "exchange": "TSX (OTC: WDOFF)",
+  "price": 24.22,
+  "currency": "USD",
+  "score": 69.2
+ },
+ {
+  "rank": 34,
+  "ticker": "SBSW",
+  "name": "Sibanye-Stillwater (ADR)",
+  "exchange": "NYSE",
+  "price": 10.58,
+  "currency": "USD",
+  "score": 68.5
+ },
+ {
+  "rank": 35,
+  "ticker": "TX",
+  "name": "Ternium",
+  "exchange": "NYSE",
+  "price": 46.0,
+  "currency": "USD",
+  "score": 68.4
+ },
+ {
+  "rank": 36,
+  "ticker": "PXT",
+  "name": "Parex Resources",
+  "exchange": "TSX",
+  "price": 25.72,
+  "currency": "CAD",
+  "score": 68.2
+ },
+ {
+  "rank": 37,
+  "ticker": "ITMG",
+  "name": "Indo Tambangraya Megah",
+  "exchange": "IDX",
+  "price": 26070.0,
+  "currency": "IDR",
+  "score": 67.7
+ },
+ {
+  "rank": 38,
+  "ticker": "NMM",
+  "name": "Navios Maritime Partners",
+  "exchange": "NYSE",
+  "price": 88.1,
+  "currency": "USD",
+  "score": 67.2
+ },
+ {
+  "rank": 39,
+  "ticker": "3337",
+  "name": "Anton Oilfield Services",
+  "exchange": "HKEX",
+  "price": 0.81,
+  "currency": "HKD",
+  "score": 67.0
+ },
+ {
+  "rank": 40,
+  "ticker": "CMCX",
+  "name": "CMC Markets",
+  "exchange": "LSE",
+  "price": 7.32,
+  "currency": "GBP",
+  "score": 66.9
+ },
+ {
+  "rank": 41,
+  "ticker": "BEEF3",
+  "name": "Minerva Foods",
+  "exchange": "B3",
+  "price": 3.67,
+  "currency": "BRL",
+  "score": 66.7
+ },
+ {
+  "rank": 42,
+  "ticker": "PAF",
+  "name": "Pan African Resources",
+  "exchange": "LSE (AIM) / JSE",
+  "price": 1.81,
+  "currency": "USD",
+  "score": 66.7
+ },
+ {
+  "rank": 43,
+  "ticker": "SUZ",
+  "name": "Suzano",
+  "exchange": "NYSE",
+  "price": 8.69,
+  "currency": "USD",
+  "score": 66.2
+ },
+ {
+  "rank": 44,
+  "ticker": "BGEO",
+  "name": "Lion Finance Group (ex-Bank of Georgia)",
+  "exchange": "LSE",
+  "price": 135.1,
+  "currency": "GBP",
+  "score": 66.2
+ },
+ {
+  "rank": 45,
+  "ticker": "SLP",
+  "name": "Sylvania Platinum",
+  "exchange": "AIM",
+  "price": 1.26,
+  "currency": "USD",
+  "score": 65.7
+ },
+ {
+  "rank": 46,
+  "ticker": "STLD",
+  "name": "Steel Dynamics",
+  "exchange": "NASDAQ",
+  "price": 242.06,
+  "currency": "USD",
+  "score": 65.0
+ },
+ {
+  "rank": 47,
+  "ticker": "SLDE",
+  "name": "Slide Insurance Holdings",
+  "exchange": "NASDAQ",
+  "price": 24.46,
+  "currency": "USD",
+  "score": 64.7
+ },
+ {
+  "rank": 48,
+  "ticker": "SNEX",
+  "name": "StoneX Group",
+  "exchange": "NASDAQ",
+  "price": 65.9,
+  "currency": "USD",
+  "score": 64.7
+ },
+ {
+  "rank": 49,
+  "ticker": "GRNT",
+  "name": "Granite Ridge Resources",
+  "exchange": "NYSE",
+  "price": 5.11,
+  "currency": "USD",
+  "score": 64.6
+ },
+ {
+  "rank": 50,
+  "ticker": "BRAV3",
+  "name": "Brava Energia",
+  "exchange": "B3",
+  "price": 18.25,
+  "currency": "BRL",
+  "score": 63.9
+ },
+ {
+  "rank": 51,
+  "ticker": "NHC",
+  "name": "New Hope Corp",
+  "exchange": "ASX",
+  "price": 5.485,
+  "currency": "AUD",
+  "score": 63.9
+ },
+ {
+  "rank": 52,
+  "ticker": "DNO",
+  "name": "DNO ASA",
+  "exchange": "Oslo",
+  "price": 17.6,
+  "currency": "NOK",
+  "score": 63.8
+ },
+ {
+  "rank": 53,
+  "ticker": "ATYM",
+  "name": "Atalaya Mining Copper",
+  "exchange": "LSE (also TSX)",
+  "price": 8.725,
+  "currency": "GBP",
+  "score": 63.7
+ },
+ {
+  "rank": 54,
+  "ticker": "TKO",
+  "name": "Taseko Mines",
+  "exchange": "TSX / NYSE American (TGB)",
+  "price": 11.56,
+  "currency": "CAD",
+  "score": 63.6
+ },
+ {
+  "rank": 55,
+  "ticker": "TBCG",
+  "name": "TBC Bank Group",
+  "exchange": "LSE",
+  "price": 45.32,
+  "currency": "GBP",
+  "score": 63.3
+ },
+ {
+  "rank": 56,
+  "ticker": "BLX",
+  "name": "Bladex",
+  "exchange": "NYSE",
+  "price": 55.35,
+  "currency": "USD",
+  "score": 63.2
+ },
+ {
+  "rank": 57,
+  "ticker": "TDW",
+  "name": "Tidewater",
+  "exchange": "NYSE",
+  "price": 96.31,
+  "currency": "USD",
+  "score": 63.0
+ },
+ {
+  "rank": 58,
+  "ticker": "SDRL",
+  "name": "Seadrill",
+  "exchange": "NYSE",
+  "price": 47.49,
+  "currency": "USD",
+  "score": 62.8
+ },
+ {
+  "rank": 59,
+  "ticker": "ASIC",
+  "name": "Ategrity Specialty Insurance",
+  "exchange": "NYSE",
+  "price": 26.26,
+  "currency": "USD",
+  "score": 62.7
+ },
+ {
+  "rank": 60,
+  "ticker": "CASH",
+  "name": "Pathward Financial",
+  "exchange": "NASDAQ",
+  "price": 72.56,
+  "currency": "USD",
+  "score": 62.4
+ },
+ {
+  "rank": 61,
+  "ticker": "BGC",
+  "name": "BGC Group",
+  "exchange": "NASDAQ",
+  "price": 12.17,
+  "currency": "USD",
+  "score": 62.3
+ },
+ {
+  "rank": 62,
+  "ticker": "0358",
+  "name": "Jiangxi Copper (H)",
+  "exchange": "HKEX",
+  "price": 33.6,
+  "currency": "HKD",
+  "score": 62.0
+ },
+ {
+  "rank": 63,
+  "ticker": "DEEPINDS",
+  "name": "Deep Industries",
+  "exchange": "NSE",
+  "price": 737,
+  "currency": "INR",
+  "score": 61.7
+ },
+ {
+  "rank": 64,
+  "ticker": "RNGR",
+  "name": "Ranger Energy Services",
+  "exchange": "NYSE",
+  "price": 16.78,
+  "currency": "USD",
+  "score": 61.0
+ },
+ {
+  "rank": 65,
+  "ticker": "TBBK",
+  "name": "The Bancorp",
+  "exchange": "NASDAQ",
+  "price": 64.35,
+  "currency": "USD",
+  "score": 61.0
+ },
+ {
+  "rank": 66,
+  "ticker": "NESR",
+  "name": "National Energy Services Reunited",
+  "exchange": "NASDAQ",
+  "price": 33.02,
+  "currency": "USD",
+  "score": 60.8
+ },
+ {
+  "rank": 67,
+  "ticker": "NCKL",
+  "name": "Trimegah Bangun Persada (Harita Nickel)",
+  "exchange": "IDX",
+  "price": 915,
+  "currency": "IDR",
+  "score": 60.5
+ },
+ {
+  "rank": 68,
+  "ticker": "0297",
+  "name": "Sinofert Holdings",
+  "exchange": "HKEX",
+  "price": 1.255,
+  "currency": "HKD",
+  "score": 60.2
+ },
+ {
+  "rank": 69,
+  "ticker": "ELSA",
+  "name": "Elnusa",
+  "exchange": "IDX",
+  "price": 695,
+  "currency": "IDR",
+  "score": 60.2
+ },
+ {
+  "rank": 70,
+  "ticker": "EFXT",
+  "name": "Enerflex",
+  "exchange": "NYSE / TSX",
+  "price": 22.1,
+  "currency": "USD",
+  "score": 59.9
+ },
+ {
+  "rank": 71,
+  "ticker": "VK",
+  "name": "Vallourec",
+  "exchange": "Euronext Paris",
+  "price": 20.51,
+  "currency": "EUR",
+  "score": 59.4
+ },
+ {
+  "rank": 72,
+  "ticker": "002895",
+  "name": "Guizhou Chanhen Chemical",
+  "exchange": "SZSE",
+  "price": 32.59,
+  "currency": "CNY",
+  "score": 58.9
+ },
+ {
+  "rank": 73,
+  "ticker": "ASR",
+  "name": "ASUR (Grupo Aeroportuario del Sureste)",
+  "exchange": "NYSE",
+  "price": 243.32,
+  "currency": "USD",
+  "score": 58.5
+ },
+ {
+  "rank": 74,
+  "ticker": "600096",
+  "name": "Yunnan Yuntianhua",
+  "exchange": "SSE",
+  "price": 29.83,
+  "currency": "CNY",
+  "score": 58.2
+ },
+ {
+  "rank": 75,
+  "ticker": "BCC",
+  "name": "Boise Cascade",
+  "exchange": "NYSE",
+  "price": 76.86,
+  "currency": "USD",
+  "score": 57.6
+ },
+ {
+  "rank": 76,
+  "ticker": "NGS",
+  "name": "Natural Gas Services Group",
+  "exchange": "NYSE",
+  "price": 33.31,
+  "currency": "USD",
+  "score": 57.0
+ },
+ {
+  "rank": 77,
+  "ticker": "PAC",
+  "name": "Grupo Aeroportuario del Pac\u00edfico (GAP)",
+  "exchange": "NYSE",
+  "price": 203.29,
+  "currency": "USD",
+  "score": 56.7
+ },
+ {
+  "rank": 78,
+  "ticker": "TFPM",
+  "name": "Triple Flag Precious Metals",
+  "exchange": "NYSE / TSX",
+  "price": 31.03,
+  "currency": "USD",
+  "score": 56.5
+ },
+ {
+  "rank": 79,
+  "ticker": "OMAB",
+  "name": "OMA (Grupo Aeroportuario del Centro Norte)",
+  "exchange": "NASDAQ",
+  "price": 103.3,
+  "currency": "USD",
+  "score": 56.3
+ },
+ {
+  "rank": 80,
+  "ticker": "ARLP",
+  "name": "Alliance Resource Partners",
+  "exchange": "NASDAQ",
+  "price": 26.89,
+  "currency": "USD",
+  "score": 55.4
+ }
+]

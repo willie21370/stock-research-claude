@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{TICKER} research</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<link rel="stylesheet" href="report.css">
+</head>
+<body>
+<main>
+<a class="back" href="#" onclick="history.back();return false;">&larr; All reports</a>
+
+<!-- BEGINNING SUMMARY (required first) -->
+<section class="summary">
+  <div class="summary-head">
+    <div><div class="eyebrow">Institutional equity research &middot; 2026-10-04</div><h1>{Company} ({TICKER})</h1></div>
+    <div class="price">{price} {CCY}</div>
+  </div>
+  <div class="kpis">
+    <div class="kpi"><span class="l">12-month target</span><span class="v">{p12} <span class="pos">(+x%)</span></span></div>
+    <div class="kpi"><span class="l">24-month target</span><span class="v">{p24} <span class="pos">(+x%)</span></span></div>
+    <div class="kpi"><span class="l">36-month target</span><span class="v">{p36} <span class="pos">(+x%)</span></span></div>
+    <div class="kpi"><span class="l">Institutional scorecard</span><span class="v">xx/100</span></div>
+    <div class="kpi"><span class="l">Base-case likelihood</span><span class="v">xx/100</span></div>
+    <div class="kpi"><span class="l">Overall investment score</span><span class="v">xx/100</span></div>
+  </div>
+  <div><span class="advice buy">Buy</span></div>
+  <p>Why this advice: ...</p>
+  <h3>Key stats</h3>
+  <div class="stats">
+    <div class="stat"><span class="k">Founder led</span><span class="val">No</span></div>
+    <!-- one .stat row per item in the "Beginning summary" list -->
+  </div>
+</section>
+<hr>
+<section><h2>Section 0 — Output contract &amp; investment mandate</h2> ... </section>
+<hr>
+<!-- Executive summary, Sections 1-7, Closing audit, each its own <section>, separated by <hr> -->
+<!-- Tables: wrap every <table> in <div class="table-wrap">. Numbers: <td class="num">. -->
+<!-- Markers: <span class="hl">critical figure</span>, <span class="pos">positive</span>, <span class="neg">negative</span>, <span class="flag">mixed/flagged</span>, <span class="tag verified">VERIFIED</span> / <span class="tag derived">DERIVED</span> / <span class="tag assumed">ASSUMED</span>, <span class="na">NOT RELIABLY AVAILABLE</span>, <div class="callout">...</div> -->
+</main>
+</body>
+</html>

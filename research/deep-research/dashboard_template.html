@@ -1,0 +1,101 @@
+<title>Inflation Stock Research Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,600&display=swap">
+<style>
+/* Layout: one research ledger; summary line on top, ranked table below, each row opens its full report */
+:root{
+  --paper:#f7f8fa; --ink:#16202c; --muted:#5b6675; --rule:#d6dbe2; --panel:#ffffff; --accent:#1d4f73;
+  --pos:#1f7a45; --neg:#b42318; --amb:#a15c07; --track:#e6eaef;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#11161d; --ink:#e4e8ee; --muted:#9aa5b3; --rule:#2c3541; --panel:#18202a; --accent:#7fb3d9;
+  --pos:#5cc98a; --neg:#ff8a7a; --amb:#f0b25a; --track:#26303b; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --paper:#11161d; --ink:#e4e8ee; --muted:#9aa5b3; --rule:#2c3541; --panel:#18202a; --accent:#7fb3d9;
+  --pos:#5cc98a; --neg:#ff8a7a; --amb:#f0b25a; --track:#26303b; color-scheme:dark }
+body{background:var(--paper);color:var(--ink);font:14px/1.5 var(--sans);padding-inline:16px;padding-block:28px 56px}
+.wrap{max-width:980px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+h1{font:600 1.9rem/1.15 var(--serif);margin:0;text-wrap:balance}
+.lede{color:var(--muted);max-width:70ch;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:16px;align-items:center;font-size:13px;color:var(--muted)}
+.progress{display:flex;align-items:center;gap:10px}
+.bar{width:160px;height:6px;background:var(--track);border-radius:3px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--accent)}
+.table-wrap{overflow-x:auto;background:var(--panel);border:1px solid var(--rule);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:10px 12px;border-bottom:1px solid var(--rule);text-align:left;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+th{font:600 11px var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);background:var(--paper)}
+th button{all:unset;cursor:pointer}
+th button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+th.num,td.num{text-align:right}
+td.num{font-family:var(--mono);font-size:13px}
+.rank{color:var(--muted);font-family:var(--mono);font-size:12px}
+.name{font-weight:600}
+.tick{display:block;font:400 12px var(--mono);color:var(--muted)}
+.pos{color:var(--pos)} .neg{color:var(--neg)}
+.queued{color:var(--muted);font-size:12px}
+.btn{display:inline-block;font:600 12px var(--sans);padding:6px 12px;border-radius:5px;background:var(--accent);color:var(--paper);text-decoration:none}
+.btn:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.btn[aria-disabled="true"]{background:var(--track);color:var(--muted);pointer-events:none}
+.note{color:var(--muted);font-size:12px;max-width:80ch;margin:0}
+</style>
+
+<div class="wrap">
+  <div>
+    <h1>Inflation Stock Research Desk</h1>
+    <p class="lede">Institutional deep-research reports on the inflation-beneficiary list, written with your equity research prompt. Open any finished row for the full report.</p>
+  </div>
+  <div class="meta">
+    <div class="progress"><div class="bar"><span id="barfill"></span></div><span><b>__DONE__</b> of __TOTAL__ reports finished</span></div>
+    <span>Research date 2026-10-04</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr>
+        <th class="num"><button data-k="rank" type="button">List #</button></th>
+        <th><button data-k="name" type="button">Stock</button></th>
+        <th class="num"><button data-k="upside" type="button">36-mo upside</button></th>
+        <th class="num"><button data-k="overall" type="button">Overall score</button></th>
+        <th class="num"><button data-k="scorecard" type="button">Scorecard</button></th>
+        <th class="num"><button data-k="likelihood" type="button">Likelihood</button></th>
+        <th>Report</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <p class="note">36-mo upside is the probability-weighted 36-month target versus the current price. Overall score is the report's 0–100 investment score; Scorecard is the 0–100 institutional scorecard; Likelihood is the probability the base case is delivered. Research output, not investment advice.</p>
+</div>
+
+<script>
+const DATA = __DATA__;
+const done = DATA.filter(r => r.done).length;
+document.getElementById("barfill").style.width = (100 * done / DATA.length) + "%";
+let sortKey = "rank", dir = 1;
+function fmtPct(v){ if(v==null) return "—"; const s = (v>0?"+":"") + Math.round(v) + "%"; return `<span class="${v>=0?"pos":"neg"}">${s}</span>`; }
+function fmtScore(v, unit){ return v==null ? "—" : Math.round(v) + unit; }
+function render(){
+  const rows = [...DATA].sort((a,b)=>{
+    const av=a[sortKey], bv=b[sortKey];
+    if(av==null && bv==null) return a.rank-b.rank;
+    if(av==null) return 1; if(bv==null) return -1;
+    return (typeof av==="string" ? av.localeCompare(bv) : av-bv) * dir;
+  });
+  document.getElementById("rows").innerHTML = rows.map(r => `<tr>
+    <td class="num rank">${r.rank}</td>
+    <td><span class="name">${r.name}</span><span class="tick">${r.ticker}</span></td>
+    <td class="num">${r.done ? fmtPct(r.upside) : '<span class="queued">batch ' + r.batch + '</span>'}</td>
+    <td class="num">${r.done ? fmtScore(r.overall,"/100") : "—"}</td>
+    <td class="num">${r.done ? fmtScore(r.scorecard,"/100") : "—"}</td>
+    <td class="num">${r.done ? fmtScore(r.likelihood,"%") : "—"}</td>
+    <td>${r.done ? `<a class="btn" href="${r.href}">Open report</a>` : '<span class="btn" aria-disabled="true">Queued</span>'}</td>
+  </tr>`).join("");
+}
+document.querySelectorAll("th button").forEach(b => b.addEventListener("click", () => {
+  const k = b.dataset.k; if(sortKey===k) dir=-dir; else { sortKey=k; dir = (k==="rank"||k==="name") ? 1 : -1; } render();
+}));
+render();
+</script>
