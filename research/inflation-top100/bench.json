@@ -2517,5 +2517,548 @@
    13.6
   ],
   "bench_round": 5
+ },
+ {
+  "ticker": "CMCL",
+  "exchange": "NYSE American / AIM",
+  "name": "Caledonia Mining",
+  "country": "Zimbabwe",
+  "theme": "Precious metals",
+  "sub_industry": "Gold (Blanket; Bilboes development)",
+  "price": 26.47,
+  "currency": "USD",
+  "price_date": "2026-09-08",
+  "market_cap_usd_bn": 0.51,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   5.27,
+   3.01,
+   5.26
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   344,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged USD gold, weak ZiG costs, Bilboes to 2.5x output.",
+  "key_risks": "Zimbabwe risk.",
+  "notes": "FY27 stale.",
+  "sources": [
+   "https://tickflow.io/stock/CMCL/forecast"
+  ],
+  "fwd_pe": [
+   5.0,
+   8.8,
+   5.0
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "000902",
+  "exchange": "SZSE",
+  "name": "YONFER Agricultural Technology",
+  "country": "China",
+  "theme": "Fertilizers",
+  "sub_industry": "Phosphate & compound fertilizers",
+  "price": 15.63,
+  "currency": "CNY",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 2.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.28,
+  "eps": [
+   1.47,
+   1.67,
+   1.88
+  ],
+  "rev_fy0": 18048,
+  "rev": [
+   19724,
+   21234,
+   22367
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 6,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Integrated phosphate-to-NPK producer with captive rock.",
+  "key_risks": "Domestic price controls.",
+  "notes": "",
+  "sources": [
+   "https://m.gelonghui.com/news/5292056"
+  ],
+  "fwd_pe": [
+   10.6,
+   9.4,
+   8.3
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "DEEPAKFERT",
+  "exchange": "NSE",
+  "name": "Deepak Fertilisers",
+  "country": "India",
+  "theme": "Fertilizers",
+  "sub_industry": "Nitrogen chemicals",
+  "price": 1496.4,
+  "currency": "INR",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 2.1,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 58.4,
+  "eps": [
+   97.15,
+   126.8,
+   140.0
+  ],
+  "rev_fy0": 115060,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "INR m",
+  "n_analysts": 2,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Import-parity nitrogen products; new capacity.",
+  "key_risks": "LNG feedstock.",
+  "notes": "",
+  "sources": [
+   "https://sharpely.in/stocks/deepakfert/forecast"
+  ],
+  "fwd_pe": [
+   15.4,
+   11.8,
+   10.7
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "975",
+  "exchange": "HKEX",
+  "name": "Mongolian Mining Corp",
+  "country": "Mongolia",
+  "theme": "Coal",
+  "sub_industry": "Coking coal + Bayan Khundii gold",
+  "price": 8.73,
+  "currency": "HKD",
+  "price_date": "2026-09-24",
+  "market_cap_usd_bn": 1.16,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   1.34,
+   null,
+   null
+  ],
+  "rev_fy0": 823,
+  "rev": [
+   1172,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Sells USD/CNY-priced coking coal to Chinese steel mills from a weak-tugrik cost base, and volumes are rising (H1-26 sales 5.7Mt vs 4.2Mt). Its new Bayan Khundii gold mine adds a classic inflation hedge (16% of H1 revenue).",
+  "key_risks": "China/border-logistics dependence; Mongolian resource nationalism; no real consensus.",
+  "notes": "No consensus: 2026 EPS = H1-26 actual x2 (run-rate ~6.5x P/E). FY0 2025 profit near zero (bond-redemption loss). 2027-28 unavailable.",
+  "sources": [
+   "https://www.caiwennews.com/article/1626274.shtml",
+   "https://www.tipranks.com/stocks/hk:0975/forecast",
+   "https://mrem.bernama.com/viewsm.php?idm=55097"
+  ],
+  "fwd_pe": [
+   6.5,
+   null,
+   null
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "NMDC",
+  "exchange": "NSE",
+  "name": "NMDC",
+  "country": "India",
+  "theme": "Iron ore",
+  "sub_industry": "Iron ore",
+  "price": 86.1,
+  "currency": "INR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 8.6,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 8.47,
+  "eps": [
+   9.72,
+   10.26,
+   10.83
+  ],
+  "rev_fy0": null,
+  "rev": [
+   316.7,
+   340.4,
+   365.9
+  ],
+  "rev_unit": "INR bn",
+  "n_analysts": 21,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Low-cost iron ore.",
+  "key_risks": "Govt pricing.",
+  "notes": "",
+  "sources": [
+   "https://sharpely.in/stocks/nmdc/forecast"
+  ],
+  "fwd_pe": [
+   8.9,
+   8.4,
+   8.0
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "EXX",
+  "exchange": "JSE",
+  "name": "Exxaro",
+  "country": "South Africa",
+  "theme": "Coal",
+  "sub_industry": "Coal + manganese + iron ore",
+  "price": 204.67,
+  "currency": "ZAR",
+  "price_date": "2026-09-15",
+  "market_cap_usd_bn": 2.83,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 32.47,
+  "eps": [
+   39.13,
+   37.59,
+   37.06
+  ],
+  "rev_fy0": 41800,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "ZAR m",
+  "n_analysts": 7,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "USD exports, ZAR costs.",
+  "key_risks": "Flat EPS.",
+  "notes": "Consensus stale.",
+  "sources": [
+   "https://aktien.guide/kursziel/Exxaro-Resources-ZAE000084992"
+  ],
+  "fwd_pe": [
+   5.2,
+   5.4,
+   5.5
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "TGA",
+  "exchange": "JSE",
+  "name": "Thungela",
+  "country": "South Africa",
+  "theme": "Coal",
+  "sub_industry": "Export thermal coal",
+  "price": 124.11,
+  "currency": "ZAR",
+  "price_date": "2026-09-01",
+  "market_cap_usd_bn": 0.94,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   14.28,
+   9.93,
+   10.76
+  ],
+  "rev_fy0": null,
+  "rev": [
+   33702,
+   32397,
+   31120
+  ],
+  "rev_unit": "ZAR m",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Pure USD thermal exporter, net cash.",
+  "key_risks": "EPS falls.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/za/energy/jse-tga/thungela-resources-shares/future"
+  ],
+  "fwd_pe": [
+   8.7,
+   12.5,
+   11.5
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "COALINDIA",
+  "exchange": "NSE",
+  "name": "Coal India",
+  "country": "India",
+  "theme": "Coal",
+  "sub_industry": "Thermal coal",
+  "price": 420.25,
+  "currency": "INR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 29.4,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 50.4,
+  "eps": [
+   54.78,
+   57.1,
+   59.5
+  ],
+  "rev_fy0": 1684000,
+  "rev": [
+   1750796,
+   1824371,
+   1901000
+  ],
+  "rev_unit": "INR m",
+  "n_analysts": 24,
+  "inflation_score": 4,
+  "confidence": "medium",
+  "inflation_thesis": "Administered pricing; weak link.",
+  "key_risks": "Policy.",
+  "notes": "",
+  "sources": [
+   "https://sharpely.in/stocks/coalindia/forecast"
+  ],
+  "fwd_pe": [
+   7.7,
+   7.4,
+   7.1
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "HNRG",
+  "exchange": "NASDAQ",
+  "name": "Hallador Energy",
+  "country": "US",
+  "theme": "Coal",
+  "sub_industry": "Integrated coal mine + 1 GW Merom power plant (MISO)",
+  "price": 15.3,
+  "currency": "USD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 0.69,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.97,
+  "eps": [
+   0.56,
+   1.17,
+   1.58
+  ],
+  "rev_fy0": 469.5,
+  "rev": [
+   463.7,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Mines its own coal and burns it at its 1 GW Merom plant, so rising MISO power and capacity prices fall straight to margin while fuel cost is captive. Data-centre load growth and PPA talks are re-rating dispatchable baseload, and an existing plant costs far more to replace under inflation.",
+  "key_risks": "Data-centre PPA may not be signed; merchant power volatility; single-plant concentration.",
+  "notes": "FY0 EPS derived. TickFlow averages; B. Riley lower (0.51/0.85/0.55).",
+  "sources": [
+   "https://www.tickflow.io/stock/HNRG/forecast",
+   "https://www.barchart.com/story/news/722538/hallador-energy-company-reports-fourth-quarter-and-full-year-2025-financial-and-operating-results"
+  ],
+  "fwd_pe": [
+   27.3,
+   13.1,
+   9.7
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "BTU",
+  "exchange": "NYSE",
+  "name": "Peabody Energy",
+  "country": "US",
+  "theme": "Coal",
+  "sub_industry": "Thermal + met coal",
+  "price": 26.85,
+  "currency": "USD",
+  "price_date": "2026-08-19",
+  "market_cap_usd_bn": 3.26,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.43,
+  "eps": [
+   -0.8,
+   3.05,
+   3.6
+  ],
+  "rev_fy0": 3900,
+  "rev": [
+   3900,
+   4100,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Largest US coal producer; Centurion met ramp.",
+  "key_risks": "Slow ramp; losses in 2026.",
+  "notes": "2026 EPS estimated negative.",
+  "sources": [
+   "https://www.tickflow.io/stock/BTU/forecast"
+  ],
+  "fwd_pe": [
+   null,
+   8.8,
+   7.5
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "CNR",
+  "exchange": "NYSE",
+  "name": "Core Natural Resources",
+  "country": "US",
+  "theme": "Coal",
+  "sub_industry": "Thermal + met coal + export terminal",
+  "price": 90.95,
+  "currency": "USD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 4.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -2.98,
+  "eps": [
+   4.92,
+   5.33,
+   5.84
+  ],
+  "rev_fy0": 4165,
+  "rev": [
+   4400,
+   4900,
+   5100
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "USD thermal and met coal + Baltimore terminal.",
+  "key_risks": "~17x.",
+  "notes": "",
+  "sources": [
+   "https://www.barchart.com/story/news/3675840/core-natural-resources-set-to-report-whether-cost-discipline-survived-the-production-ramp"
+  ],
+  "fwd_pe": [
+   18.5,
+   17.1,
+   15.6
+  ],
+  "bench_round": 6
+ },
+ {
+  "ticker": "AMR",
+  "exchange": "NYSE",
+  "name": "Alpha Metallurgical Resources",
+  "country": "US",
+  "theme": "Coal",
+  "sub_industry": "Met coal",
+  "price": 180.4,
+  "currency": "USD",
+  "price_date": "2026-09-23",
+  "market_cap_usd_bn": 2.36,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -4.75,
+  "eps": [
+   -4.29,
+   7.22,
+   23.65
+  ],
+  "rev_fy0": 2100,
+  "rev": [
+   2100,
+   2200,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Largest US pure met coal producer.",
+  "key_risks": "Losses; 25x 2027.",
+  "notes": "",
+  "sources": [
+   "https://tickflow.io/stock/AMR/forecast"
+  ],
+  "fwd_pe": [
+   null,
+   25.0,
+   7.6
+  ],
+  "bench_round": 6
  }
 ]

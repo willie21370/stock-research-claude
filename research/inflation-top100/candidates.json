@@ -2329,5 +2329,468 @@
    10.0
   ],
   "round_added": 5
+ },
+ {
+  "ticker": "000893",
+  "exchange": "SZSE",
+  "name": "Asia-Potash International",
+  "country": "China/Laos",
+  "theme": "Fertilizers",
+  "sub_industry": "Potash (Laos mine ramp-up)",
+  "price": 47.27,
+  "currency": "CNY",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 6.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.81,
+  "eps": [
+   3.65,
+   5.2,
+   5.94
+  ],
+  "rev_fy0": 5325,
+  "rev": [
+   9123,
+   12131,
+   13385
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 5,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Pure-play potash producer selling at USD world benchmark prices from a very low-cost Laos mine (cheap labour and power). US food inflation lifts grain prices, farm incomes and potash demand, while its 2nd-4th million-tonne lines ramp up — so EPS keeps growing strongly into 2027-28.",
+  "key_risks": "Laos mine ramp-up/flooding execution risk; potash price reversal (China contract, Belarus/Russia supply).",
+  "notes": "Average of China Merchants and Western Securities estimates (Jul/Aug-26). H1-26 net profit +58%. Price date approximate (Sep 7 close was 45.58).",
+  "sources": [
+   "https://m.gelonghui.com/news/5302727",
+   "https://pdf.dfcfw.com/pdf/H3_AP202608281828609742_1.pdf",
+   "https://simplywall.st/stocks/cn/materials/xsec-000893/asia-potash-international-investment-guangzhoucoltd-shares/future"
+  ],
+  "fwd_pe": [
+   13.0,
+   9.1,
+   8.0
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "THS",
+  "exchange": "LSE / JSE",
+  "name": "Tharisa",
+  "country": "South Africa/Zimbabwe",
+  "theme": "Africa & Middle East commodities",
+  "sub_industry": "PGMs & chrome (Tharisa mine; Karo Platinum)",
+  "price": 1.66,
+  "currency": "USD",
+  "price_date": "2026-09-02",
+  "market_cap_usd_bn": 0.49,
+  "fy_years": [
+   "FY26 (Sep)",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": 0.267,
+  "eps": [
+   0.32,
+   0.33,
+   0.41
+  ],
+  "rev_fy0": 602.9,
+  "rev": [
+   755.1,
+   773.1,
+   970.3
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Sells PGMs and chrome in USD against mostly rand costs, so higher dollar metal prices from US inflation and a weaker dollar widen margins. Volume growth comes from Karo Platinum in Zimbabwe (~400koz/yr PGMs, commissioning 2027), reflected in a 25% FY28 revenue step-up.",
+  "key_risks": "Karo financing/ramp-up in Zimbabwe; chrome price swings; only 2 analysts.",
+  "notes": "Price 125p converted at 1.33. FY28 EPS extrapolated from the FY28 revenue step-up. FY25 EPS may include one-offs.",
+  "sources": [
+   "https://in.marketscreener.com/quote/stock/THARISA-PLC-16933108/finances/",
+   "https://filingreader.com/news-wire/johannesburg/2026-05-15/tharisa-expects-510-profit-surge-on-higher-commodity-prices"
+  ],
+  "fwd_pe": [
+   5.2,
+   5.0,
+   4.0
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "SBSW",
+  "exchange": "NYSE",
+  "name": "Sibanye-Stillwater (ADR)",
+  "country": "South Africa/US",
+  "theme": "Africa & Middle East commodities",
+  "sub_industry": "PGMs & gold",
+  "price": 10.58,
+  "currency": "USD",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 7.5,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.56,
+  "eps": [
+   null,
+   2.4,
+   2.12
+  ],
+  "rev_fy0": 7300,
+  "rev": [
+   null,
+   10900,
+   9700
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 15,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Has the highest operating leverage of the South African miners: high-cost rand-based gold and PGM shafts selling USD-priced gold, platinum, palladium and rhodium, so higher dollar metal prices add margin far faster than revenue. 2026 was hit by a gold strike and Montana flooding, so 2027 is a volume-recovery year on top of higher prices.",
+  "key_risks": "Operational fragility (strikes, flooding), possible Stillwater closure, high gearing; 2028 EPS dips.",
+  "notes": "Per ADR (4 shares). EPS derived from SWS consensus net profit; no reliable 2026 figure (H1 loss). Widely covered.",
+  "sources": [
+   "https://simplywall.st/stocks/za/materials/jse-ssw/sibanye-stillwater-shares/future",
+   "https://www.marketbeat.com/instant-alerts/price-sibanye-gold-nyse-sbsw-shares-gap-up-heres-why-2026-09-25/",
+   "https://senspdf.jse.co.za/documents/SENS_20260220_S517294.pdf"
+  ],
+  "fwd_pe": [
+   null,
+   4.4,
+   5.0
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "PAF",
+  "exchange": "LSE (AIM) / JSE",
+  "name": "Pan African Resources",
+  "country": "South Africa/Australia",
+  "theme": "Precious metals",
+  "sub_industry": "Gold (Barberton, Evander, Mogale tailings; Tennant Creek)",
+  "price": 1.81,
+  "currency": "USD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 3.67,
+  "fy_years": [
+   "FY27 (Jun-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.176,
+  "eps": [
+   0.233,
+   0.257,
+   0.283
+  ],
+  "rev_fy0": 1150,
+  "rev": [
+   993,
+   1100,
+   1100
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 5,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged gold producer with a South African rand cost base, so dollar gold gains from US inflation go almost straight to margin (FY26 received price $4,235/oz, +55%). Gold sold rose 38% in FY26 from the Mogale tailings ramp-up and Tennant Creek, and earnings are forecast to keep rising into FY28.",
+  "key_risks": "Share-price data inconsistent; SA power/operational issues; rand strength; Tennant Creek execution.",
+  "notes": "EPS derived from SWS consensus net income / ~2.06bn shares; FY29 extrapolated. Price 136.3p (x1.33) is uncertain — another source shows 92.65p.",
+  "sources": [
+   "https://www.miningweekly.com/article/strong-operational-performance-delivers-record-financial-results-for-pan-african-2026-09-16",
+   "https://simplywall.st/stocks/au/materials/asx-paf/pan-african-resources-shares/future",
+   "https://aktien.guide/kursziel/Pan-African-Resources-GB0004300496"
+  ],
+  "fwd_pe": [
+   7.8,
+   7.0,
+   6.4
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "SLP",
+  "exchange": "AIM",
+  "name": "Sylvania Platinum",
+  "country": "South Africa",
+  "theme": "Africa & Middle East commodities",
+  "sub_industry": "PGM tailings",
+  "price": 1.26,
+  "currency": "USD",
+  "price_date": "2026-09-04",
+  "market_cap_usd_bn": 0.33,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.305,
+  "eps": [
+   0.28,
+   0.385,
+   0.4
+  ],
+  "rev_fy0": 227.2,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Reports in USD and sells PGMs and chrome at USD prices from a low-cost, almost entirely rand-based tailings-retreatment operation, so nearly all USD price gains reach the bottom line (FY26 revenue more than doubled). The Thaba JV adds a first full year in FY27; debt-free with net cash ~20% of market cap.",
+  "key_risks": "PGM prices have reset lower (Edison cut FY27 EPS 57%); modest volume growth; thin, mostly sponsored coverage.",
+  "notes": "Edison estimates (Sep-26); FY28 from an earlier Edison iteration; FY29 extrapolated. Price 95p x1.33.",
+  "sources": [
+   "https://www.edisongroup.com/research/strong-production-through-pgm-volatility/BM-3802/",
+   "https://www.miningmx.com/?p=58626"
+  ],
+  "fwd_pe": [
+   4.5,
+   3.3,
+   3.1
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "NHC",
+  "exchange": "ASX",
+  "name": "New Hope Corp",
+  "country": "Australia",
+  "theme": "Coal",
+  "sub_industry": "Thermal coal (Bengalla, New Acland)",
+  "price": 5.485,
+  "currency": "AUD",
+  "price_date": "2026-09-21",
+  "market_cap_usd_bn": 3.06,
+  "fy_years": [
+   "FY27 (Jul)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.191,
+  "eps": [
+   0.45,
+   0.478,
+   0.478
+  ],
+  "rev_fy0": 1767,
+  "rev": [
+   null,
+   2200,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced seaborne high-energy thermal coal from an Australian-dollar cost base, so energy-led inflation lifts realisations directly. Volumes grow as New Acland Stage 3 ramps (FY27 guidance ~12.7Mt, +10%), lowering unit costs, and EPS rebounds sharply from a depressed FY26; strong balance sheet and fully franked dividends.",
+  "key_risks": "Thermal coal prices; Bell Potter (Sell) and Macquarie downgrades after the run to a 52-week high.",
+  "notes": "FY ends July. FY29 EPS extrapolated flat; FY28 revenue from SWS narrative.",
+  "sources": [
+   "https://fnarena.com/index.php/analysis-data/consensus-forecasts/stock-analysis/?code=NHC",
+   "https://www.fool.com.au/2026/09/15/new-hope-shares-near-52-week-high-heres-what-stood-out-in-the-result/"
+  ],
+  "fwd_pe": [
+   12.2,
+   11.5,
+   11.5
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "0297",
+  "exchange": "HKEX",
+  "name": "Sinofert Holdings",
+  "country": "China",
+  "theme": "Fertilizers",
+  "sub_industry": "Fertilizer distribution",
+  "price": 1.255,
+  "currency": "HKD",
+  "price_date": "2026-09-15",
+  "market_cap_usd_bn": 1.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.196,
+  "eps": [
+   0.27,
+   0.307,
+   0.32
+  ],
+  "rev_fy0": 26900,
+  "rev": [
+   29200,
+   31900,
+   33000
+  ],
+  "rev_unit": "HKD m",
+  "n_analysts": 2,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Sinochem's fertilizer arm and China's largest potash importer/distributor, with its own phosphate and compound-fertilizer plants; higher USD fertilizer prices lift revenue and inventory gains. Deep value at ~4x earnings with a net-cash-leaning balance sheet.",
+  "key_risks": "Mostly distribution with thin margins; consensus (2 analysts) looks optimistic vs H1-26 profit +6.7%.",
+  "notes": "RMB converted to HKD at 1.095; 2027 EPS backed out of a quoted P/E; 2028 extrapolated (+4%).",
+  "sources": [
+   "https://aktien.guide/kursziel/Sinofert-Holdings-BMG8403G1033",
+   "https://simplywall.st/stocks/hk/materials/hkg-297/sinofert-holdings-shares/future"
+  ],
+  "fwd_pe": [
+   4.6,
+   4.1,
+   3.9
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "002895",
+  "exchange": "SZSE",
+  "name": "Guizhou Chanhen Chemical",
+  "country": "China",
+  "theme": "Fertilizers",
+  "sub_industry": "Phosphate rock & phosphate chemicals",
+  "price": 32.59,
+  "currency": "CNY",
+  "price_date": "2026-08-23",
+  "market_cap_usd_bn": 2.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.19,
+  "eps": [
+   2.56,
+   3.0,
+   3.55
+  ],
+  "rev_fy0": 8328,
+  "rev": [
+   9863,
+   11248,
+   12211
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 14,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Owns captive phosphate rock in Guizhou and Guangxi with new mines and downstream capacity coming on stream; rock and phosphate product prices follow USD fertilizer and food prices while mining costs are fixed, so food/energy inflation widens margins on rising volumes.",
+  "key_risks": "H1-26 profit only +4.5% (consensus may be cut); Chinese phosphate export quotas cap price pass-through.",
+  "notes": "Consensus of 14 institutions (Jun-26). Revenue from one broker. Price derived from market cap (Aug-23).",
+  "sources": [
+   "https://basic.10jqka.com.cn/002895/worth.html",
+   "https://pdf.dfcfw.com/pdf/H3_AP202608251828388295_1.pdf"
+  ],
+  "fwd_pe": [
+   12.7,
+   10.9,
+   9.2
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "600096",
+  "exchange": "SSE",
+  "name": "Yunnan Yuntianhua",
+  "country": "China",
+  "theme": "Fertilizers",
+  "sub_industry": "Phosphate + urea",
+  "price": 29.83,
+  "currency": "CNY",
+  "price_date": "2026-08-20",
+  "market_cap_usd_bn": 7.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.83,
+  "eps": [
+   2.88,
+   3.22,
+   3.41
+  ],
+  "rev_fy0": 48415,
+  "rev": [
+   52800,
+   57000,
+   59800
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "China's largest phosphate-fertilizer maker with big captive phosphate-rock reserves and coal-based urea; product prices follow USD DAP/urea benchmarks while rock costs are internal, so grain and energy inflation widens spreads. Cheap (~9x) with a ~50% payout.",
+  "key_risks": "Sulfur cost spikes; Chinese export quotas on DAP/MAP; EPS growth only ~6%/yr.",
+  "notes": "Average of two brokers; revenue from one broker. Price from 20 Aug.",
+  "sources": [
+   "https://m.gelonghui.com/news/5289505",
+   "https://pdf.dfcfw.com/pdf/H3_AP202608231828344359_1.pdf"
+  ],
+  "fwd_pe": [
+   10.4,
+   9.3,
+   8.7
+  ],
+  "round_added": 6
+ },
+ {
+  "ticker": "ARLP",
+  "exchange": "NASDAQ",
+  "name": "Alliance Resource Partners",
+  "country": "US",
+  "theme": "Coal",
+  "sub_industry": "Thermal coal + oil & gas royalties",
+  "price": 26.89,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.43,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.4,
+  "eps": [
+   2.6,
+   2.85,
+   3.0
+  ],
+  "rev_fy0": 2190,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced thermal coal to US utilities whose plant retirements are being delayed by data-centre load growth, supporting contract volumes and repricing; its oil & gas mineral royalties capture commodity inflation with almost no costs, and the high-payout LP passes cash to holders.",
+  "key_risks": "Plant retirements/gas-to-coal switching; labour and supply inflation on fixed-price contracts.",
+  "notes": "2027 = avg of Sidoti/Noble; 2028 extrapolated (+5%). ~9.4x FY2 but only ~8% EPS CAGR.",
+  "sources": [
+   "https://www.marketbeat.com/instant-alerts/sidoti-equities-analysts-boost-earnings-estimates-for-arlp-2026-07-30/",
+   "https://www.businesswire.com/news/home/20260202861637/en/"
+  ],
+  "fwd_pe": [
+   10.3,
+   9.4,
+   9.0
+  ],
+  "round_added": 6
  }
 ]
