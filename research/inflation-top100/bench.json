@@ -259,5 +259,596 @@
    9.7,
    10.0
   ]
+ },
+ {
+  "ticker": "DNO",
+  "exchange": "Oslo",
+  "name": "DNO ASA",
+  "country": "Norway",
+  "theme": "Energy",
+  "sub_industry": "Oil & gas E&P (North Sea, Kurdistan, West Africa)",
+  "price": 17.6,
+  "currency": "NOK",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.63,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.53,
+  "eps": [
+   3.15,
+   4.58,
+   3.96
+  ],
+  "rev_fy0": 1474.0,
+  "rev": [
+   2752.0,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "After buying Sval it is mainly a North Sea producer (~85k boe/d) selling Brent oil and European gas in USD against NOK costs; Q2-26 revenue hit a record US$761m. Shut-in Kurdistan barrels are free upside on restart, and its reserves gain value as replacement costs rise.",
+  "key_risks": "78% Norwegian tax rate dampens upside; Kurdistan security/payments; bond debt.",
+  "notes": "USD EPS converted to NOK at 10.5; 2027-28 EPS = consensus net income / ~975m shares. Price derived from target upside (approx). ~8.5% dividend yield.",
+  "sources": [
+   "https://simplywall.st/stocks/no/energy/ob-dno/dno-shares/future",
+   "https://aktien.guide/kursziel/DNO-ASA-NO0003921009",
+   "https://www.energy-pedia.com/news/general/dno-reports-record-revenue-as-it-chases-new-growth-204940"
+  ],
+  "fwd_pe": [
+   5.6,
+   3.8,
+   4.4
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "KEL",
+  "exchange": "TSX",
+  "name": "Kelt Exploration",
+  "country": "Canada",
+  "theme": "Energy",
+  "sub_industry": "Montney liquids-rich gas",
+  "price": 9.52,
+  "currency": "CAD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 1.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.31,
+  "eps": [
+   0.56,
+   0.86,
+   0.82
+  ],
+  "rev_fy0": 467.0,
+  "rev": [
+   828.0,
+   954.0,
+   null
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": null,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Fast-growing producer whose condensate, NGLs and oil are priced off USD WTI, with rising exposure to US/LNG-linked gas; revenue is forecast up ~77% in 2026.",
+  "key_risks": "Gas-weighted; priciest on 2027.",
+  "notes": "Estimates from Jan 2026.",
+  "sources": [
+   "https://aktien.guide/kursziel/Kelt-Exploration-CA4882951060"
+  ],
+  "fwd_pe": [
+   17.0,
+   11.1,
+   11.6
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "SQZ",
+  "exchange": "AIM",
+  "name": "Serica Energy",
+  "country": "UK",
+  "theme": "Energy",
+  "sub_industry": "UK North Sea E&P",
+  "price": 274.6,
+  "currency": "GBX",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.44,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -10.0,
+  "eps": [
+   39.8,
+   30.0,
+   45.2
+  ],
+  "rev_fy0": 601.0,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Production stepping up from 27.6k to 40k+ boe/d, all Brent/NBP priced in USD; net cash.",
+  "key_risks": "UK Energy Profits Levy (78%); Triton FPSO downtime.",
+  "notes": "EPS currency ambiguous.",
+  "sources": [
+   "https://aktien.guide/kursziel/Serica-Energy-GB00B0CY5V57"
+  ],
+  "fwd_pe": [
+   6.9,
+   9.2,
+   6.1
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "GKP",
+  "exchange": "LSE",
+  "name": "Gulf Keystone Petroleum",
+  "country": "Kurdistan/Iraq",
+  "theme": "Energy",
+  "sub_industry": "Oil (Shaikan)",
+  "price": 190.8,
+  "currency": "GBX",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.55,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   31.5,
+   28.7,
+   43.2
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": null,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged, debt-free Brent-priced exporter.",
+  "key_risks": "Kurdistan shut-ins.",
+  "notes": "2026 EPS likely overstated.",
+  "sources": [
+   "https://simplywall.st/stocks/gb/energy/bats-chixe-gkpl/gulf-keystone-petroleum-shares/future"
+  ],
+  "fwd_pe": [
+   6.1,
+   6.6,
+   4.4
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "EXK",
+  "exchange": "NYSE / TSX",
+  "name": "Endeavour Silver",
+  "country": "Canada/Mexico",
+  "theme": "Precious metals",
+  "sub_industry": "Silver-gold",
+  "price": 11.12,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.26,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.42,
+  "eps": [
+   0.71,
+   1.25,
+   0.53
+  ],
+  "rev_fy0": 468,
+  "rev": [
+   829,
+   1013,
+   894
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 7,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "Silver is the highest-beta monetary metal.",
+  "key_risks": "Wide estimates.",
+  "notes": "",
+  "sources": [
+   "https://tickflow.io/stock/EXK/forecast"
+  ],
+  "fwd_pe": [
+   15.7,
+   8.9,
+   21.0
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "EMR",
+  "exchange": "ASX",
+  "name": "Emerald Resources",
+  "country": "Australia/Cambodia",
+  "theme": "Precious metals",
+  "sub_industry": "Gold (Okvau)",
+  "price": 5.21,
+  "currency": "AUD",
+  "price_date": "2026-07-31",
+  "market_cap_usd_bn": 2.28,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.39,
+  "eps": [
+   0.6,
+   0.69,
+   0.76
+  ],
+  "rev_fy0": 612.5,
+  "rev": [
+   853,
+   null,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 2,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Ultra-low-cost unhedged producer.",
+  "key_risks": "Cambodia single asset.",
+  "notes": "FY28-29 extrapolated; stale price.",
+  "sources": [
+   "https://simplywall.st/stocks/au/materials/asx-emr/emerald-resources-shares/future"
+  ],
+  "fwd_pe": [
+   8.7,
+   7.6,
+   6.9
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "WAF",
+  "exchange": "ASX",
+  "name": "West African Resources",
+  "country": "Burkina Faso/Australia",
+  "theme": "Precious metals",
+  "sub_industry": "Gold",
+  "price": 3.84,
+  "currency": "AUD",
+  "price_date": "2026-09-11",
+  "market_cap_usd_bn": 2.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.5,
+  "eps": [
+   0.92,
+   0.81,
+   0.69
+  ],
+  "rev_fy0": 1540,
+  "rev": [
+   3222,
+   3014,
+   3500
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Unhedged gold.",
+  "key_risks": "Burkina junta; EPS peaks 2026.",
+  "notes": "",
+  "sources": [
+   "https://in.marketscreener.com/quote/stock/WEST-AFRICAN-RESOURCES-LI-10372864/finances/"
+  ],
+  "fwd_pe": [
+   4.2,
+   4.7,
+   5.6
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "RRL",
+  "exchange": "ASX",
+  "name": "Regis Resources",
+  "country": "Australia",
+  "theme": "Precious metals",
+  "sub_industry": "Gold",
+  "price": 8.61,
+  "currency": "AUD",
+  "price_date": "2026-08-21",
+  "market_cap_usd_bn": 4.3,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.933,
+  "eps": [
+   1.33,
+   1.3,
+   1.27
+  ],
+  "rev_fy0": 2349,
+  "rev": [
+   2829,
+   2735,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": null,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Fully unhedged, cash-rich.",
+  "key_risks": "Flat production.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/au/materials/asx-rrl/regis-resources-shares/future"
+  ],
+  "fwd_pe": [
+   6.5,
+   6.6,
+   6.8
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "NEXA",
+  "exchange": "NYSE / TSX",
+  "name": "Nexa Resources",
+  "country": "Peru/Brazil",
+  "theme": "Base & critical metals",
+  "sub_industry": "Zinc-copper-silver miner + zinc smelter",
+  "price": 15.5,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 2.05,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.0,
+  "eps": [
+   2.86,
+   2.92,
+   2.45
+  ],
+  "rev_fy0": 3000,
+  "rev": [
+   3290,
+   3370,
+   3280
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced zinc, copper, silver and lead against costs in Peruvian soles and Brazilian reais, so US inflation and a weaker dollar lift prices faster than costs. As both miner and smelter it has strong operating leverage: EPS jumps from $1.00 in 2025 to ~$2.9 expected.",
+  "key_risks": "High leverage and smelter capex, Votorantim control, Peru permitting risk; consensus has 2028 EPS falling and many targets (~$11) sit below the price.",
+  "notes": "TickFlow consensus averages; analyst count approximate (5-7). Q3 results 29-Oct-2026.",
+  "sources": [
+   "https://tickflow.io/stock/NEXA/forecast",
+   "https://www.newsfilecorp.com/release/285529",
+   "https://www.chartmill.com/news/external/68758/nexa-surges-164-in-a-year-should-you-buy-sell-or-hold-the-stock"
+  ],
+  "fwd_pe": [
+   5.4,
+   5.3,
+   6.3
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "ATYM",
+  "exchange": "LSE (also TSX)",
+  "name": "Atalaya Mining Copper",
+  "country": "Spain",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper (Riotinto, Iberian Pyrite Belt)",
+  "price": 8.725,
+  "currency": "GBP",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 1.78,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.593,
+  "eps": [
+   0.746,
+   0.78,
+   0.992
+  ],
+  "rev_fy0": 482.9,
+  "rev": [
+   515,
+   515,
+   658
+  ],
+  "rev_unit": "EUR m",
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Almost pure, net-cash copper producer selling a USD-priced hard asset that benefits from US inflation and US/EU grid and reshoring demand. Growth projects (San Dionisio, Masa Valverde, Touro) lift output without much dilution; H1-26 EPS was already EUR0.554, so consensus looks conservative.",
+  "key_risks": "Single main mine; Spanish permitting for expansions; EUR cost base.",
+  "notes": "EUR EPS converted to GBP at 0.872. Consensus likely stale: H1-26 annualises to ~EUR1.1 EPS; MarketScreener shows 9.1x 2026 / 6.9x 2027.",
+  "sources": [
+   "https://simplywall.st/stocks/gb/materials/lse-atym/atalaya-mining-copper-shares/future",
+   "https://in.marketscreener.com/quote/stock/ATALAYA-MINING-COPPER-S-A-24543269/",
+   "https://www.directorstalkinterviews.com/atalaya-mining-reports-record-q2-and-h1-2026-ebitda/4121260038"
+  ],
+  "fwd_pe": [
+   11.7,
+   11.2,
+   8.8
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "AAZ",
+  "exchange": "AIM",
+  "name": "Anglo Asian Mining",
+  "country": "Azerbaijan/UK",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper-gold-silver",
+  "price": 3.08,
+  "currency": "GBP",
+  "price_date": "2026-05-31",
+  "market_cap_usd_bn": 0.47,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.526,
+   0.472,
+   0.418
+  ],
+  "rev_fy0": null,
+  "rev": [
+   240.1,
+   253.3,
+   245.0
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Turning from a small gold miner into a copper-gold producer (copper 7.9kt to 20-25kt in 2026); H1-26 PBT $68.5m vs $7.1m.",
+  "key_risks": "Azerbaijan PSA risk; thin coverage; stale price.",
+  "notes": "FY27/28 extrapolated; consensus stale.",
+  "sources": [
+   "https://simplywall.st/stocks/gb/materials/aim-aaz/anglo-asian-mining-shares/future"
+  ],
+  "fwd_pe": [
+   5.9,
+   6.5,
+   7.4
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "CAML",
+  "exchange": "AIM",
+  "name": "Central Asia Metals",
+  "country": "Kazakhstan/UK",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper SX-EW + zinc/lead",
+  "price": 1.75,
+  "currency": "GBP",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.317,
+   0.317,
+   0.283
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Low-cost copper/zinc with high payout.",
+  "key_risks": "Depleting Kounrad.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/gb/materials/bats-chixe-camll/central-asia-metals-shares/future"
+  ],
+  "fwd_pe": [
+   5.5,
+   5.5,
+   6.2
+  ],
+  "bench_round": 2
+ },
+ {
+  "ticker": "AFM",
+  "exchange": "TSXV",
+  "name": "Alphamin Resources",
+  "country": "DRC",
+  "theme": "Base & critical metals",
+  "sub_industry": "Tin",
+  "price": 1.44,
+  "currency": "CAD",
+  "price_date": "2026-08-05",
+  "market_cap_usd_bn": 1.34,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.276,
+   0.138,
+   0.138
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "6% of world tin.",
+  "key_risks": "DRC conflict.",
+  "notes": "",
+  "sources": [
+   "https://www.edisongroup.com/research/tin-showing-its-mettle/BM-3739/"
+  ],
+  "fwd_pe": [
+   5.2,
+   10.4,
+   10.4
+  ],
+  "bench_round": 2
  }
 ]
