@@ -4284,5 +4284,597 @@
    6.4
   ],
   "bench_round": 8
+ },
+ {
+  "ticker": "IMPUY",
+  "exchange": "OTC ADR / JSE: IMP",
+  "name": "Impala Platinum (Implats)",
+  "country": "South Africa/Zimbabwe",
+  "theme": "Precious metals",
+  "sub_industry": "PGM mining",
+  "price": 14.75,
+  "currency": "USD",
+  "price_date": "2026-09-10",
+  "market_cap_usd_bn": 13.3,
+  "fy_years": [
+   "FY27 (Jun-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 1.46,
+  "eps": [
+   2.57,
+   2.35,
+   2.15
+  ],
+  "rev_fy0": 7720,
+  "rev": [
+   null,
+   8535,
+   8535
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "USD PGMs, rand/Zim costs; R22bn FCF.",
+  "key_risks": "Platinum 39% off record; consensus may be cut.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/za/materials/jse-imp/impala-platinum-holdings-shares/future"
+  ],
+  "fwd_pe": [
+   5.7,
+   6.3,
+   6.9
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "NPH",
+  "exchange": "JSE",
+  "name": "Northam Platinum",
+  "country": "South Africa",
+  "theme": "Precious metals",
+  "sub_industry": "PGM mining (Zondereinde, Booysendal, Eland)",
+  "price": 380.76,
+  "currency": "ZAR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 8.57,
+  "fy_years": [
+   "FY27 (Jun-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 30.44,
+  "eps": [
+   32.8,
+   43.4,
+   47.7
+  ],
+  "rev_fy0": null,
+  "rev": [
+   60640,
+   68450,
+   71870
+  ],
+  "rev_unit": "ZAR m",
+  "n_analysts": 10,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Fully rand-cost PGM producer selling at USD prices with record and still-growing volumes (FY27 guidance 960-970koz produced, >1.1Moz sold, from Zondereinde 3 shaft and Eland), so a 57% higher rand PGM basket lifted HEPS ~8x; volume growth gives it more EPS growth than peers into FY28.",
+  "key_risks": "Richest valuation of SA PGM peers on FY27; sensitivity to platinum's pullback from its 2026 record.",
+  "notes": "EPS implied from MarketScreener P/Es (11.6x FY27, 8.8x FY28); FY29 extrapolated (+10%). Analyst count approximate.",
+  "sources": [
+   "https://www.engineeringnews.co.za/article/northam-platinums-operating-profit-soars-293-record-cash-dividend-declared-2026-08-28",
+   "https://in.marketscreener.com/quote/stock/NORTHAM-PLATINUM-HOLDINGS-126877801/",
+   "https://simplywall.st/stock/jse/nph"
+  ],
+  "fwd_pe": [
+   11.6,
+   8.8,
+   8.0
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "VAL",
+  "exchange": "JSE / LSE",
+  "name": "Valterra Platinum",
+  "country": "South Africa",
+  "theme": "Precious metals",
+  "sub_industry": "PGM mining",
+  "price": 1530.0,
+  "currency": "ZAR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 23.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 63.48,
+  "eps": [
+   null,
+   129.8,
+   115.1
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   146547,
+   139320
+  ],
+  "rev_unit": "ZAR m",
+  "n_analysts": 11,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Largest PGM producer.",
+  "key_risks": "EPS falls FY28.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/za/materials/jse-val/valterra-platinum-shares/future"
+  ],
+  "fwd_pe": [
+   null,
+   11.8,
+   13.3
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "ALB",
+  "exchange": "NYSE",
+  "name": "Albemarle",
+  "country": "US",
+  "theme": "Base & critical metals",
+  "sub_industry": "Lithium (brine + hard rock + conversion)",
+  "price": 110.89,
+  "currency": "USD",
+  "price_date": "2026-09-19",
+  "market_cap_usd_bn": 13.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.53,
+  "eps": [
+   13.15,
+   13.48,
+   13.82
+  ],
+  "rev_fy0": 5100,
+  "rev": [
+   5860,
+   5790,
+   6214
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 26,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Largest US-domiciled lithium producer selling a USD-priced strategic metal whose contract prices reset with the market; its reserves (Atacama, Greenbushes, Kings Mountain) become more valuable as new-build costs inflate, and IRA/FEOC rules and tariffs push US battery makers away from Chinese chemicals. ~8x 2026-27 earnings after a blowout Q2.",
+  "key_risks": "China-set lithium price volatility; some brokers cut 2027 EPS to ~11.7; growth after 2026 is nearly flat.",
+  "notes": "2028 extrapolated (+2.5%). Revenue estimates look stale vs Q2-26 run-rate (~$7bn). FY0 negative so EPS growth measured 2026-28.",
+  "sources": [
+   "https://www.barchart.com/story/news/3759253/albemarles-blowout-quarter-shows-why-lithium-still-matters",
+   "https://www.tickflow.io/stock/ALB/forecast",
+   "https://www.tickertape.in/us-stocks/albemarle-corp-ALB-share-price"
+  ],
+  "fwd_pe": [
+   8.4,
+   8.2,
+   8.0
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "LYC",
+  "exchange": "ASX",
+  "name": "Lynas Rare Earths",
+  "country": "Australia/Malaysia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Rare earths (NdPr, heavy REE)",
+  "price": 15.32,
+  "currency": "AUD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 10.1,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.22,
+  "eps": [
+   0.63,
+   0.73,
+   0.84
+  ],
+  "rev_fy0": 977.9,
+  "rev": [
+   null,
+   1900,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 14,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Only scaled non-Chinese separated rare-earths producer.",
+  "key_risks": "~21x FY28; execution history.",
+  "notes": "",
+  "sources": [
+   "https://fnarena.com/stock-price-analysis/sector/LYC"
+  ],
+  "fwd_pe": [
+   24.3,
+   21.0,
+   18.2
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "PLS",
+  "exchange": "ASX",
+  "name": "PLS Group (Pilbara Minerals)",
+  "country": "Australia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Spodumene",
+  "price": 4.25,
+  "currency": "AUD",
+  "price_date": "2026-09-16",
+  "market_cap_usd_bn": 9.0,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.163,
+  "eps": [
+   0.235,
+   0.28,
+   0.31
+  ],
+  "rev_fy0": 1934,
+  "rev": [
+   null,
+   2090,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 19,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "USD spodumene, AUD costs.",
+  "key_risks": "18x FY27.",
+  "notes": "",
+  "sources": [
+   "https://www.fool.com.au/2026/09/16/is-the-pls-group-share-price-a-buy-in-september/"
+  ],
+  "fwd_pe": [
+   18.1,
+   15.2,
+   13.7
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "ALM",
+  "exchange": "NASDAQ",
+  "name": "Almonty Industries",
+  "country": "US/Korea/Portugal",
+  "theme": "Base & critical metals",
+  "sub_industry": "Tungsten",
+  "price": 13.9,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.96,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.21,
+   0.54,
+   0.78
+  ],
+  "rev_fy0": null,
+  "rev": [
+   134,
+   274,
+   459
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Largest non-Chinese tungsten (Sangdong ramp).",
+  "key_risks": "26x 2027.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/ALM/forecast"
+  ],
+  "fwd_pe": [
+   66.2,
+   25.7,
+   17.8
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "MP",
+  "exchange": "NYSE",
+  "name": "MP Materials",
+  "country": "US",
+  "theme": "Base & critical metals",
+  "sub_industry": "Rare earths mine-to-magnet",
+  "price": 46.75,
+  "currency": "USD",
+  "price_date": "2026-09-28",
+  "market_cap_usd_bn": 8.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.24,
+  "eps": [
+   -0.11,
+   0.95,
+   1.4
+  ],
+  "rev_fy0": 224.4,
+  "rev": [
+   465,
+   770,
+   963
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Only integrated US mine-to-magnet rare-earth producer with a DoD $110/kg NdPr floor; tariffs on Chinese magnets lift US prices.",
+  "key_risks": "~49x 2027.",
+  "notes": "Not cheap; in user's research folder.",
+  "sources": [
+   "https://247wallst.com/investing/2026/09/28/mp-materials-just-sank-21-in-a-month-is-it-time-to-sell-or-is-this-a-prime-buying-opportunity/",
+   "https://simplywall.st/stocks/ar/materials/base-mp/mp-materials-shares/future"
+  ],
+  "fwd_pe": [
+   null,
+   49.2,
+   33.4
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "PE&OLES",
+  "exchange": "BMV",
+  "name": "Industrias Peñoles",
+  "country": "Mexico",
+  "theme": "Precious metals",
+  "sub_industry": "Silver/gold/zinc",
+  "price": 789.56,
+  "currency": "MXN",
+  "price_date": "2026-07-10",
+  "market_cap_usd_bn": 17.0,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 63.8,
+  "eps": [
+   93.48,
+   81.67,
+   71.4
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "MXN m",
+  "n_analysts": 10,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "World's largest silver producer.",
+  "key_risks": "EPS falling.",
+  "notes": "",
+  "sources": [
+   "https://es.marketscreener.com/cotizacion/accion/INDUSTRIAS-PE-OLES-S-A-B--6491957/valoracion-dividendo/"
+  ],
+  "fwd_pe": [
+   8.4,
+   9.7,
+   11.1
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "KAP",
+  "exchange": "LSE (GDR) / AIX",
+  "name": "Kazatomprom",
+  "country": "Kazakhstan",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "World's largest uranium miner (ISR)",
+  "price": 73.9,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 19.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 4.22,
+  "eps": [
+   5.39,
+   6.66,
+   7.0
+  ],
+  "rev_fy0": 3520,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced uranium under term contracts mixing market-linked pricing with escalated floors/ceilings, against a tenge cost base; as US inflation lifts commodity prices and the cost of building new Western mines, its realised price rises faster than local costs. As the lowest-cost marginal supplier it is holding back output (2026 guidance cut ~10%), tightening an already-deficit market.",
+  "key_risks": "Kazakh state/tax risk (new mineral-extraction tax lifts costs), tenge strength, acid/production shortfalls, Russia/China transit exposure.",
+  "notes": "FY1/FY2 EPS implied from MarketScreener P/Es (13.7x/11.1x); FY3 extrapolated (+5%). Forward revenue not found. Consensus target $89.",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/NATIONAL-ATOMIC-COMPANY-K-105526310/",
+   "https://kalkine.co.uk/news/announcements/kazatomprom-kap-reports-9-revenue-growth-to-kzt-718-billion-in-first-half-of-2026",
+   "https://www.lse.co.uk/rns/KAP/"
+  ],
+  "fwd_pe": [
+   13.7,
+   11.1,
+   10.6
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "CCJ",
+  "exchange": "NYSE / TSX",
+  "name": "Cameco",
+  "country": "Canada",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "Uranium + Westinghouse",
+  "price": 88.12,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 38.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.04,
+  "eps": [
+   1.68,
+   2.04,
+   2.38
+  ],
+  "rev_fy0": 3482,
+  "rev": [
+   3560,
+   3900,
+   4100
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": 16,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Base-escalated US-CPI-indexed contracts.",
+  "key_risks": "43x.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/CCJ/forecast"
+  ],
+  "fwd_pe": [
+   52.5,
+   43.2,
+   37.0
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "1164",
+  "exchange": "HKEX",
+  "name": "CGN Mining",
+  "country": "China",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "Uranium JVs + trading",
+  "price": 2.27,
+  "currency": "HKD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 2.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.0596,
+  "eps": [
+   0.128,
+   0.143,
+   0.152
+  ],
+  "rev_fy0": 6870,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "HKD m",
+  "n_analysts": 8,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Kazakh JVs.",
+  "key_risks": "H1 loss; stale consensus.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/hk/energy/shsc-1164/cgn-mining-shares/future"
+  ],
+  "fwd_pe": [
+   17.7,
+   15.9,
+   14.9
+  ],
+  "bench_round": 9
+ },
+ {
+  "ticker": "LEU",
+  "exchange": "NYSE American",
+  "name": "Centrus Energy",
+  "country": "US",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "Enrichment",
+  "price": 156.23,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.9,
+  "eps": [
+   3.04,
+   3.38,
+   3.02
+  ],
+  "rev_fy0": 448.7,
+  "rev": [
+   458,
+   490,
+   524
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Escalated SWU contracts.",
+  "key_risks": "50x, flat EPS.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/LEU/forecast"
+  ],
+  "fwd_pe": [
+   51.4,
+   46.2,
+   51.7
+  ],
+  "bench_round": 9
  }
 ]

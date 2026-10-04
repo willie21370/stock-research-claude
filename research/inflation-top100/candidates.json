@@ -3724,5 +3724,471 @@
    7.4
   ],
   "round_added": 8
+ },
+ {
+  "ticker": "SVM",
+  "exchange": "NYSE American / TSX",
+  "name": "Silvercorp Metals",
+  "country": "China/Ecuador/Canada",
+  "theme": "Precious metals",
+  "sub_industry": "Silver (China) + Ecuador growth (El Domo, Condor)",
+  "price": 10.76,
+  "currency": "USD",
+  "price_date": "2026-09-28",
+  "market_cap_usd_bn": 2.4,
+  "fy_years": [
+   "FY27 (Mar-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.69,
+  "eps": [
+   0.85,
+   1.55,
+   1.97
+  ],
+  "rev_fy0": 438.1,
+  "rev": [
+   633.3,
+   1010,
+   1014
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Silver is ~72% of revenue at a negative by-product cash cost (-$0.94/oz), so almost every extra dollar of silver — the high-beta inflation metal — drops to margin; RMB costs are insulated from US cost inflation. El Domo and Condor in Ecuador roughly double revenue by FY28, adding volume growth; net cash.",
+  "key_risks": "China's mine-safety crackdown cut Ying/GC output 40-50% in the Sep quarter; Ecuador permitting/execution could delay the FY28 step-up.",
+  "notes": "March FY. MarketScreener consensus; FY29 uses the low end of TickFlow's range. Price implied from target/upside (~C$15.26).",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/SILVERCORP-METALS-INC-1411826/finances/",
+   "https://www.barchart.com/story/news/2140150/silvercorp-reports-adjusted-net-income-of-151-million-0-69-per-share-and-cash-flow-from-operating-activities-of-310-6-million-for-fiscal-2026",
+   "https://www.skillings.net/silvercorp-halts-key-chinese-mines-amid-national-safety-crackdown/"
+  ],
+  "fwd_pe": [
+   12.7,
+   6.9,
+   5.5
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "APM",
+  "exchange": "TSX / OTCQX",
+  "name": "Andean Precious Metals",
+  "country": "Bolivia/US",
+  "theme": "Precious metals",
+  "sub_industry": "Silver-gold (San Bartolomé, Golden Queen)",
+  "price": 4.13,
+  "currency": "USD",
+  "price_date": "2026-09-29",
+  "market_cap_usd_bn": 0.63,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.78,
+  "eps": [
+   0.88,
+   1.17,
+   1.3
+  ],
+  "rev_fy0": 359.8,
+  "rev": [
+   533,
+   572,
+   516
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Roughly half silver, half gold — both monetary inflation hedges — from Bolivia (San Bartolomé) and California (Golden Queen); it held back metal in Q2-26 to sell at ~$62/oz silver and ~$4,168/oz gold, and has ~$171m of liquid assets and almost no debt, at ~3.5x 2027 earnings.",
+  "key_risks": "Bolivian political/export/FX risk; reliance on purchased ore; only 2-3 analysts.",
+  "notes": "C$5.70 converted at 1.38. EPS = SWS consensus net income / ~151.5m shares. Very low P/E — verify.",
+  "sources": [
+   "https://www.barchart.com/story/news/938512/andean-precious-metals-reports-fourth-quarter-and-year-end-2025-financial-results",
+   "https://wealthawesome.com/why-andean-precious-metals-corp-stock-plummeted-yesterday-09292026",
+   "https://www.newsfilecorp.com/release/309280/"
+  ],
+  "fwd_pe": [
+   4.7,
+   3.5,
+   3.2
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "USAS",
+  "exchange": "NYSE American / TSX",
+  "name": "Americas Gold and Silver",
+  "country": "US/Mexico",
+  "theme": "Precious metals",
+  "sub_industry": "Silver + antimony",
+  "price": 5.48,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.84,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -0.33,
+  "eps": [
+   0.25,
+   0.48,
+   0.77
+  ],
+  "rev_fy0": 118,
+  "rev": [
+   null,
+   410,
+   579
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Leveraged silver turnaround: attributable silver output grew 52% in 2025 with ~30% more guided for 2026, and the Crescent acquisition plus Idaho processing expansion take revenue from $118m toward ~$580m by 2028. Its US Galena mine also produces strategic antimony, adding a domestic-supply angle.",
+  "key_risks": "Not yet profitable (2025 loss); big Q1-26 miss; $60-80m capex and dilution risk; 2 analysts.",
+  "notes": "2026-27 EPS approximated from quarterly consensus sums; 2028 TickFlow average. Loss-making base, so growth measured 2026-28.",
+  "sources": [
+   "https://www.tickflow.io/stock/USAS/forecast",
+   "https://investingnews.com/americas-gold-and-silver-announces-strong-full-year-2025-results-and-2026-guidance-with-30-annual-production-growth/",
+   "https://www.digrin.com/stocks/detail/USAS/price"
+  ],
+  "fwd_pe": [
+   21.9,
+   11.4,
+   7.1
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "SCZM",
+  "exchange": "Nasdaq / TSXV",
+  "name": "Santacruz Silver Mining",
+  "country": "Bolivia/Mexico",
+  "theme": "Precious metals",
+  "sub_industry": "Silver-zinc",
+  "price": 8.64,
+  "currency": "USD",
+  "price_date": "2026-09-15",
+  "market_cap_usd_bn": 0.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.46,
+  "eps": [
+   0.88,
+   1.38,
+   1.52
+  ],
+  "rev_fy0": null,
+  "rev": [
+   493.2,
+   527,
+   545
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged high-beta silver-zinc producer with Boliviano/peso costs; Q2-26 revenue +55%.",
+  "key_risks": "Bolivia export/royalty/FX; 2 analysts.",
+  "notes": "2028 extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/SCZM/forecast",
+   "https://www.cruxinvestor.com/posts/santacruz-silver-reports-55-revenue-growth-in-second-quarter-despite-bolivia-export-disruption"
+  ],
+  "fwd_pe": [
+   9.8,
+   6.3,
+   5.7
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "SQM",
+  "exchange": "NYSE",
+  "name": "SQM (Sociedad Química y Minera)",
+  "country": "Chile",
+  "theme": "Base & critical metals",
+  "sub_industry": "Lithium brine + iodine + specialty fertilizer",
+  "price": 69.32,
+  "currency": "USD",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 19.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.06,
+  "eps": [
+   7.34,
+   7.45,
+   7.45
+  ],
+  "rev_fy0": 4600,
+  "rev": [
+   6000,
+   6900,
+   7600
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Reports in USD and sells lithium, iodine and fertilizer at USD market prices, so revenue rises with commodity inflation; low-cost Atacama brine becomes more valuable as replacement costs rise, and tariffs/FEOC rules push US-bound battery chains to non-Chinese suppliers like SQM.",
+  "key_risks": "Chilean political/royalty risk (Codelco JV from 2031); lithium price volatility.",
+  "notes": "2028 held flat (the only 2028 figure found, $4.46, conflicts with rising revenue consensus). Scotiabank 2026/27: 8.21/7.79.",
+  "sources": [
+   "https://www.marketbeat.com/instant-alerts/research-analysts-offer-predictions-for-sqm-fy2027-earnings-2026-07-31/",
+   "https://tickflow.io/stock/SQM/forecast"
+  ],
+  "fwd_pe": [
+   9.4,
+   9.3,
+   9.3
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "ASM",
+  "exchange": "NYSE American / TSX",
+  "name": "Avino Silver & Gold",
+  "country": "Mexico",
+  "theme": "Precious metals",
+  "sub_industry": "Silver",
+  "price": 5.94,
+  "currency": "USD",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 0.92,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.29,
+  "eps": [
+   0.36,
+   0.62,
+   0.45
+  ],
+  "rev_fy0": 92.2,
+  "rev": [
+   147.1,
+   189,
+   198
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Small silver-dominant producer (~55-60% of revenue, rest gold/copper) with Mexican-peso costs; La Preciosa's ramp roughly doubles revenue from $92m to ~$190m, and it holds a record $102m cash with no meaningful debt.",
+  "key_risks": "Ramp execution (Q2-26 revenue well below estimate); consensus EPS dips in 2028; Mexican permitting/security.",
+  "notes": "2026 consensus pre-dates Q2 miss; another source models much lower EPS (0.21/0.21/0.14).",
+  "sources": [
+   "https://tickflow.io/stock/ASM/forecast",
+   "https://finviz.com/news/335939/avino-reports-exceptional-2025-results-and-advances-multi-asset-growth-strategy-significant-improvements-across-key-financial-metrics-treasury-reaches-record-levels"
+  ],
+  "fwd_pe": [
+   16.5,
+   9.6,
+   13.2
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "DRD",
+  "exchange": "NYSE / JSE",
+  "name": "DRDGOLD",
+  "country": "South Africa",
+  "theme": "Precious metals",
+  "sub_industry": "Gold tailings retreatment",
+  "price": 28.0,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 2.45,
+  "fy_years": [
+   "FY27 (Jun-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 2.81,
+  "eps": [
+   4.38,
+   4.0,
+   3.65
+  ],
+  "rev_fy0": 640,
+  "rev": [
+   836.6,
+   873.5,
+   912
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged surface-gold (tailings) producer with an all-rand cost base and zero debt, so higher USD gold plus a soft rand flows almost straight to margin (FY26 revenue +42%, HEPS +89%); its Vision 2028 expansion lifts output toward 160-170koz.",
+  "key_risks": "Very thin coverage; high operating leverage both ways; heavy R3bn FY27 capex; derived EPS eases after FY27.",
+  "notes": "1 ADR = 10 shares. EPS derived from MarketScreener EBIT consensus; FY29 extrapolated. Price ~$28 (undated, verify).",
+  "sources": [
+   "https://www.ewn.co.za/2026/08/19/drdgold-declares-record-dividend-after-bumper-earnings-year",
+   "https://in.marketscreener.com/quote/stock/DRDGOLD-LIMITED-9711402/finances/",
+   "https://www.nasdaq.com/articles/drd-q4-earnings-call-balances-vision-2028-progress-and-withok-delay"
+  ],
+  "fwd_pe": [
+   6.4,
+   7.0,
+   7.7
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "BOE",
+  "exchange": "ASX",
+  "name": "Boss Energy",
+  "country": "Australia/US",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "ISR uranium (Honeymoon; 30% Alta Mesa, Texas)",
+  "price": 1.91,
+  "currency": "AUD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 0.52,
+  "fy_years": [
+   "FY27 (Jun)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 0.006,
+  "eps": [
+   0.14,
+   0.26,
+   0.29
+  ],
+  "rev_fy0": 151.1,
+  "rev": [
+   null,
+   327,
+   null
+  ],
+  "rev_unit": "AUD m",
+  "n_analysts": 8,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Unhedged uranium producer selling USD-priced U3O8 against AUD costs, so inflation-driven uranium prices pass almost entirely to margin; its 30% Alta Mesa stake is a producing US asset benefiting from US strategic-supply policy.",
+  "key_risks": "Honeymoon wellfield transition (FY27 guidance below FY26); post-results Sell downgrade — estimates may still be too high.",
+  "notes": "FY28 from SWS net income / ~412m shares; FY29 extrapolated. FY0 near zero.",
+  "sources": [
+   "https://fnarena.com/stock-price-analysis/uranium/BOE",
+   "https://simplywall.st/stocks/au/energy/asx-boe/boss-energy-shares/future"
+  ],
+  "fwd_pe": [
+   13.6,
+   7.3,
+   6.6
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "PDN",
+  "exchange": "TSX / ASX",
+  "name": "Paladin Energy",
+  "country": "Australia/Namibia",
+  "theme": "Uranium & nuclear fuel",
+  "sub_industry": "Uranium (Langer Heinrich)",
+  "price": 10.95,
+  "currency": "CAD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 3.56,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": -0.028,
+  "eps": [
+   0.234,
+   0.51,
+   0.59
+  ],
+  "rev_fy0": 304.3,
+  "rev": [
+   427,
+   522,
+   600
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Its contract book includes large base-escalated and market-related contracts whose floors/ceilings are indexed to US inflation, so higher US CPI raises realised prices directly while Namibian costs are largely local; Langer Heinrich's ramp toward nameplate compounds volume with price escalation.",
+  "key_risks": "Very expensive on FY27 (~47x); ramp and stockpile-grade issues; Canadian project capex/dilution.",
+  "notes": "USD EPS converted to CAD at 1.38; FY28 from SWS (may pre-date FY26 results); FY29 extrapolated.",
+  "sources": [
+   "https://simplywall.st/stocks/ca/energy/tsx-pdn/paladin-energy-shares/future",
+   "https://nsx.com.na/fy2026-financial-results-overview/",
+   "https://www.digrin.com/stocks/detail/PDN.TO/price"
+  ],
+  "fwd_pe": [
+   46.8,
+   21.5,
+   18.6
+  ],
+  "round_added": 9
+ },
+ {
+  "ticker": "HMY",
+  "exchange": "NYSE / JSE",
+  "name": "Harmony Gold",
+  "country": "South Africa/PNG/Australia",
+  "theme": "Precious metals",
+  "sub_industry": "Gold (SA underground, PNG) + copper (MAC)",
+  "price": 18.51,
+  "currency": "USD",
+  "price_date": "2026-09-03",
+  "market_cap_usd_bn": 11.8,
+  "fy_years": [
+   "FY27 (Jun-27)",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 2.58,
+  "eps": [
+   4.34,
+   4.33,
+   4.04
+  ],
+  "rev_fy0": 6443,
+  "rev": [
+   7323,
+   7455,
+   7590
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Sells gold in USD with ~80% of costs in rand, so US inflation that lifts gold and weakens the dollar/rand widens margins sharply (FY26 HEPS +87%; SA underground mines at ~38% free-cash margin). Australian copper (MAC) adds a second real-asset hedge; ~4x FY2 earnings.",
+  "key_risks": "Gold reversal; SA deep-level safety/labour/power; consensus EPS flat-to-down after FY27.",
+  "notes": "JSE R324 converted at 17.5. FactSet 10-analyst survey (a bullish snapshot shows FY27 $4.64 / FY28 $5.13).",
+  "sources": [
+   "https://www.miningweekly.com/article/harmonys-underground-gold-mines-producing-at-38-free-cash-margin-2026-08-27",
+   "https://news.cnyes.com/news/id/6527948",
+   "https://simplywall.st/stocks/us/materials/nyse-hmy/harmony-gold-mining/future"
+  ],
+  "fwd_pe": [
+   4.3,
+   4.3,
+   4.6
+  ],
+  "round_added": 9
  }
 ]
