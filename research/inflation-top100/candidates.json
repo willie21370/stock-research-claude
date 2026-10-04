@@ -928,5 +928,470 @@
    4.1
   ],
   "round_added": 2
+ },
+ {
+  "ticker": "PRIO3",
+  "exchange": "B3",
+  "name": "PRIO",
+  "country": "Brazil",
+  "theme": "Energy",
+  "sub_industry": "Offshore oil E&P (Frade, Peregrino, Albacora Leste, Wahoo)",
+  "price": 59.15,
+  "currency": "BRL",
+  "price_date": "2026-08-05",
+  "market_cap_usd_bn": 9.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.48,
+  "eps": [
+   9.71,
+   9.51,
+   10.7
+  ],
+  "rev_fy0": 13500,
+  "rev": [
+   25047,
+   26114,
+   25365
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 12,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Almost pure Brent-linked oil exporter with USD revenue, a large BRL cost base and a lifting cost of only ~$12.5/bbl, giving very high operating leverage to higher nominal oil and a weaker dollar. Output steps up from 106 kbpd (2025) to ~187 kbpd (2026) and ~204 kbpd (2027) with Peregrino and Wahoo, so EPS roughly quadruples from 2025 even at flat oil.",
+  "key_risks": "Brent volatility, Wahoo/Peregrino execution and IBAMA licensing, Brazilian export-levy/tax changes.",
+  "notes": "Reports in USD; EPS converted to BRL (MarketScreener consensus net income / ~860m shares). MarketScreener 2026 P/E 5.9x matches. Analyst count approximate.",
+  "sources": [
+   "https://uk.marketscreener.com/quote/stock/PRIO-S-A-22619676/valuation/",
+   "https://simplywall.st/stocks/br/energy/bovespa-prio3/prio-shares/future",
+   "https://acionista.com.br/prio-prio3-tem-preco-alvo-revisado-e-segue-como-destaque-entre-petroleiras/"
+  ],
+  "fwd_pe": [
+   6.1,
+   6.2,
+   5.5
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "HOC",
+  "exchange": "LSE",
+  "name": "Hochschild Mining",
+  "country": "Peru/UK",
+  "theme": "Precious metals",
+  "sub_industry": "Silver & gold (Peru, Argentina, Brazil Mara Rosa)",
+  "price": 7.45,
+  "currency": "USD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 3.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.31,
+  "eps": [
+   0.68,
+   0.75,
+   0.79
+  ],
+  "rev_fy0": 1208.6,
+  "rev": [
+   1728,
+   1815,
+   1904
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Silver and gold are the classic US-inflation and weak-dollar hedges, and its costs are mostly in Peruvian soles, Argentine pesos and reais, so each extra dollar of metal price goes almost straight to margin. Mara Rosa and Inmaculada operating leverage takes EPS from $0.31 to ~$0.79.",
+  "key_risks": "Peru political/permitting/community risk, Mara Rosa ramp-up, Argentine FX and export controls.",
+  "notes": "LSE price 560p converted to USD at 1.33. EPS treated as USD (reporting currency); if it is GBP the P/Es are ~25% lower. FY0 is pre-exceptional.",
+  "sources": [
+   "https://simplywall.st/stocks/gb/materials/lse-hoc/hochschild-mining-shares/future",
+   "https://uk.marketscreener.com/quote/stock/HOCHSCHILD-MINING-PLC-9590223/finances/"
+  ],
+  "fwd_pe": [
+   11.0,
+   9.9,
+   9.4
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "GPRK",
+  "exchange": "NYSE",
+  "name": "GeoPark",
+  "country": "Colombia",
+  "theme": "Energy",
+  "sub_industry": "Oil E&P (Llanos + Vaca Muerta)",
+  "price": 9.7,
+  "currency": "USD",
+  "price_date": "2026-08-01",
+  "market_cap_usd_bn": 0.5,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.96,
+  "eps": [
+   0.82,
+   1.3,
+   2.06
+  ],
+  "rev_fy0": 492.5,
+  "rev": [
+   504,
+   641,
+   867
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Pure upstream oil producer with Brent-linked USD revenue against field, labour and service costs in Colombian and Argentine pesos, so it is highly geared to nominal oil prices. New Vaca Muerta blocks ramp volumes in 2027-28, lifting consensus revenue ~70% from 2025 to 2028.",
+  "key_risks": "Heavy Vaca Muerta capex and debt during the ramp, mature Llanos 34 decline, Colombian fiscal risk; only 1-3 analysts.",
+  "notes": "2026-27 consensus (2-3 analysts; company guides $0.87/$1.38). 2028 set to a conservative $2.06 extrapolation instead of the single $4.47 estimate. Price from 1 Aug 2026.",
+  "sources": [
+   "https://www.tickflow.io/stock/GPRK/forecast",
+   "https://www.vcpscanner.com/valuation/gprk/estimates",
+   "https://www.sec.gov/Archives/edgar/data/1464591/000110465926037819/gprk-20251231x20f.htm"
+  ],
+  "fwd_pe": [
+   11.8,
+   7.5,
+   4.7
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "GMS",
+  "exchange": "LSE",
+  "name": "Gulf Marine Services",
+  "country": "UAE/UK",
+  "theme": "Shipping & offshore",
+  "sub_industry": "Self-elevating support vessels (liftboats)",
+  "price": 18.76,
+  "currency": "GBX",
+  "price_date": "2026-09-15",
+  "market_cap_usd_bn": 0.27,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.36,
+  "eps": [
+   2.16,
+   3.48,
+   4.18
+  ],
+  "rev_fy0": 188.1,
+  "rev": [
+   182,
+   218,
+   231
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Liftboat owner with USD contracts from Gulf national oil companies; with no newbuilds and rising replacement costs, dayrates step up at each renewal, and high oil prices support Gulf offshore spending. Rapid deleveraging shifts value from debt to equity.",
+  "key_risks": "2026 Gulf/Iran conflict disrupted operations (H1-26 loss incl. impairment); only 2 analysts; estimates pre-date H1.",
+  "notes": "USD net income estimates (Jul-26) converted to pence on ~1.08bn shares.",
+  "sources": [
+   "https://simplywall.st/stocks/us/energy/otc-glms.f/gulf-marine-services/future",
+   "https://www.investegate.co.uk/announcement/rns/gulf-marine-services--gms/half-year-financial-report/9757531"
+  ],
+  "fwd_pe": [
+   8.7,
+   5.4,
+   4.5
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "PAM",
+  "exchange": "NYSE",
+  "name": "Pampa Energía",
+  "country": "Argentina",
+  "theme": "Energy",
+  "sub_industry": "Power generation + Vaca Muerta E&P",
+  "price": 88.45,
+  "currency": "USD",
+  "price_date": "2026-09-10",
+  "market_cap_usd_bn": 4.73,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 7.25,
+  "eps": [
+   9.38,
+   12.67,
+   14.28
+  ],
+  "rev_fy0": 2000,
+  "rev": [
+   2510,
+   3020,
+   3320
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Mostly dollarised revenue (USD-indexed power contracts, USD gas, fast-growing exportable shale oil from Rincón de Aranda) against peso labour and services; record Q2-26 oil & gas EBITDA of $415m drives a ~25% EPS CAGR.",
+  "key_risks": "Argentine macro/FX/regulatory risk (tariffs, gas price caps); thin coverage, noisy estimates.",
+  "notes": "Per ADR (25 shares). vcpscanner's own model is lower (8.72/9.90/10.40).",
+  "sources": [
+   "https://tickflow.io/stock/PAM/forecast",
+   "https://www.vcpscanner.com/valuation/pam/estimates"
+  ],
+  "fwd_pe": [
+   9.4,
+   7.0,
+   6.2
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "TX",
+  "exchange": "NYSE",
+  "name": "Ternium",
+  "country": "Mexico",
+  "theme": "Real assets & pricing power",
+  "sub_industry": "Flat steel (Mexico/USMCA, Brazil, Argentina)",
+  "price": 46.0,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 11.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.17,
+  "eps": [
+   4.84,
+   6.78,
+   6.59
+  ],
+  "rev_fy0": 15609,
+  "rev": [
+   17364,
+   18085,
+   18710
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 11,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Its Mexican flat-steel prices track tariff-protected US Midwest hot-rolled coil import parity, so US steel inflation feeds straight into USD pricing while much of its cost base is in pesos and reais. The Pesquería mill ramp-up and USMCA nearshoring take EPS from $2.17 to ~$6.7.",
+  "key_risks": "US Section 232/USMCA review hitting Mexican steel; Chinese oversupply; stronger peso.",
+  "notes": "FactSet median (11 analysts); another consensus has 2026 EPS $3.94. Price uncertain (a quoted forward P/E implies ~$46). Price set to ~$46 (July close $44.84; Sept range $44.7-46.5); the $58 quote looked wrong.",
+  "sources": [
+   "https://news.cnyes.com/news/id/6529847",
+   "https://www.vcpscanner.com/valuation/tx/estimates",
+   "https://www.fool.com/quote/NYSE/TX/"
+  ],
+  "fwd_pe": [
+   9.5,
+   6.8,
+   7.0
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "NMM",
+  "exchange": "NYSE",
+  "name": "Navios Maritime Partners",
+  "country": "Greece",
+  "theme": "Shipping",
+  "sub_industry": "Diversified shipowner (containers, dry bulk, tankers)",
+  "price": 88.1,
+  "currency": "USD",
+  "price_date": "2026-09-23",
+  "market_cap_usd_bn": 2.68,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 9.59,
+  "eps": [
+   14.65,
+   15.08,
+   15.76
+  ],
+  "rev_fy0": 1344.1,
+  "rev": [
+   1500,
+   1600,
+   1700
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Owns ~180 vessels across containers, dry bulk and tankers whose replacement cost rises with steel and shipyard inflation, yet the units trade far below NAV. $4.4bn of USD contracted backlog runs to 2037 while uncontracted ships reprice to nominal freight rates, and newbuild deliveries keep EPS growing into 2027-28 — rare in shipping.",
+  "key_risks": "Complex MLP controlled by its sponsor (Angeliki Frangou); dry-bulk/tanker spot exposure if the cycle turns.",
+  "notes": "2027-28 EPS from a single alternative source (indicative). Revenue 2026-28 partly model-based. Avg target $98 (4 analysts).",
+  "sources": [
+   "https://www.tickflow.io/stock/NMM/forecast",
+   "https://www.vcpscanner.com/valuation/nmm/estimates",
+   "https://www.tipranks.com/stocks/nmm/forecast"
+  ],
+  "fwd_pe": [
+   6.0,
+   5.8,
+   5.6
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "BEEF3",
+  "exchange": "B3",
+  "name": "Minerva Foods",
+  "country": "Brazil",
+  "theme": "Agriculture & food",
+  "sub_industry": "Beef exporter (South America, Australia)",
+  "price": 3.67,
+  "currency": "BRL",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 0.91,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.63,
+  "eps": [
+   0.6,
+   1.03,
+   1.19
+  ],
+  "rev_fy0": 54800,
+  "rev": [
+   58143,
+   61690,
+   65453
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": null,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "South America's largest beef exporter sells in USD while buying cattle and paying labour in local currencies; record US beef prices (US herd shortage) and US food inflation widen the export spread.",
+  "key_risks": "High leverage (~2.6-3x net debt/EBITDA); cattle cycle; China/US trade measures.",
+  "notes": "2026-27 EPS are JPMorgan's (single broker); 2028 SWS consensus; revenue derived from growth rate. Stock -36% YTD.",
+  "sources": [
+   "https://acionista.com.br/minerva-beef3-valoriza-57-apos-recomendacao-do-j-p-morgan/",
+   "https://simplywall.st/stocks/br/food-beverage-tobacco/bovespa-beef3/minerva-shares/future"
+  ],
+  "fwd_pe": [
+   6.1,
+   3.6,
+   3.1
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "SUZ",
+  "exchange": "NYSE",
+  "name": "Suzano",
+  "country": "Brazil",
+  "theme": "LatAm commodity exporters",
+  "sub_industry": "Hardwood pulp",
+  "price": 8.69,
+  "currency": "USD",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 10.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   1.26,
+   1.49,
+   1.89
+  ],
+  "rev_fy0": null,
+  "rev": [
+   53882,
+   61857,
+   62571
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 15,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "World's largest, lowest-cost market-pulp exporter: almost all revenue is USD-priced pulp while wood, labour and costs are in reais, so US inflation and a weaker dollar widen margins. The Cerrado mill ramp-up and deleveraging take core EPS from $1.26 (2026) to $1.89 (2028).",
+  "key_risks": "Pulp price cycle (China demand, new capacity), BRL strength, high net debt.",
+  "notes": "2025 EPS inflated by non-cash FX gains, so FY0 left blank and growth measured 2026-28. FactSet median lower (1.20/1.39/1.56). Well covered.",
+  "sources": [
+   "https://news.cnyes.com/news/id/6329885",
+   "https://www.vcpscanner.com/valuation/suz/estimates",
+   "https://simplywall.st/stocks/de/materials/bst-suz/suzano-shares/future"
+  ],
+  "fwd_pe": [
+   6.9,
+   5.8,
+   4.6
+  ],
+  "round_added": 3
+ },
+ {
+  "ticker": "BRAV3",
+  "exchange": "B3",
+  "name": "Brava Energia",
+  "country": "Brazil",
+  "theme": "Energy",
+  "sub_industry": "Oil & gas E&P (offshore Atlanta/Papa-Terra + onshore)",
+  "price": 18.25,
+  "currency": "BRL",
+  "price_date": "2026-09-14",
+  "market_cap_usd_bn": 1.57,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   2.81,
+   4.78,
+   3.58
+  ],
+  "rev_fy0": 11623,
+  "rev": [
+   13074,
+   14110,
+   13210
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 11,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "~80% of output is Brent-priced oil sold in USD while costs are in BRL, so hotter US inflation and a weaker dollar widen margins. Volumes grow from 81 kboe/d (2025) to ~100 kboe/d in 2027 as Papa-Terra phase 2 and new Atlanta wells come on, so EPS peaks in 2027 rather than 2026.",
+  "key_risks": "Ecopetrol now owns 51% after a partial tender at R$23 (minority/free-float risk); ~2.2x leverage; offshore delays.",
+  "notes": "EPS = SWS consensus net income / ~466m shares. FY0 not found.",
+  "sources": [
+   "https://simplywall.st/stocks/us/energy/otc-bven.y/brava-energia/future",
+   "https://renovainvest.com.br/acoes/brav3/"
+  ],
+  "fwd_pe": [
+   6.5,
+   3.8,
+   5.1
+  ],
+  "round_added": 3
  }
 ]

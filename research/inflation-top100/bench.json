@@ -850,5 +850,594 @@
    10.4
   ],
   "bench_round": 2
+ },
+ {
+  "ticker": "YPF",
+  "exchange": "NYSE",
+  "name": "YPF",
+  "country": "Argentina",
+  "theme": "Energy",
+  "sub_industry": "Integrated (Vaca Muerta shale, refining)",
+  "price": 50.83,
+  "currency": "USD",
+  "price_date": "2026-08-18",
+  "market_cap_usd_bn": 20.0,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": -2.03,
+  "eps": [
+   5.68,
+   6.35,
+   7.75
+  ],
+  "rev_fy0": 18400,
+  "rev": [
+   21798,
+   20947,
+   21257
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Shifting from a peso-regulated refiner to a dollar shale-oil exporter via new pipelines; fuel prices track import parity.",
+  "key_risks": "Argentine politics; $16bn expropriation judgment.",
+  "notes": "",
+  "sources": [
+   "https://news.cnyes.com/news/id/6511113"
+  ],
+  "fwd_pe": [
+   8.9,
+   8.0,
+   6.6
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "RECV3",
+  "exchange": "B3",
+  "name": "PetroReconcavo",
+  "country": "Brazil",
+  "theme": "Energy",
+  "sub_industry": "Onshore oil & gas",
+  "price": 10.55,
+  "currency": "BRL",
+  "price_date": "2026-07-31",
+  "market_cap_usd_bn": 0.57,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.18,
+  "eps": [
+   1.83,
+   2.46,
+   3.21
+  ],
+  "rev_fy0": 3292,
+  "rev": [
+   3160,
+   null,
+   3600
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": 11,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Brent-parity oil, BRL costs.",
+  "key_risks": "Mature decline.",
+  "notes": "2026 EPS = trailing proxy.",
+  "sources": [
+   "https://simplywall.st/stocks/br/energy/bovespa-recv3/petroreconcavo-shares/future"
+  ],
+  "fwd_pe": [
+   5.8,
+   4.3,
+   3.3
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "SLCE3",
+  "exchange": "B3",
+  "name": "SLC Agrícola",
+  "country": "Brazil",
+  "theme": "Agriculture & food",
+  "sub_industry": "Soy/cotton/corn + farmland",
+  "price": 17.94,
+  "currency": "BRL",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.69,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.13,
+  "eps": [
+   1.33,
+   1.53,
+   2.26
+  ],
+  "rev_fy0": 8600,
+  "rev": [
+   8884,
+   9177,
+   9480
+  ],
+  "rev_unit": "BRL m",
+  "n_analysts": null,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "USD-priced crops with BRL costs; R$13.5bn farmland.",
+  "key_risks": "Weather; leverage.",
+  "notes": "Single-broker 2027.",
+  "sources": [
+   "https://simplywall.st/narratives/increased-planting-and-cost-reductions-will-improve-future-crop-production"
+  ],
+  "fwd_pe": [
+   13.5,
+   11.7,
+   7.9
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "BVN",
+  "exchange": "NYSE",
+  "name": "Buenaventura",
+  "country": "Peru",
+  "theme": "Precious metals",
+  "sub_industry": "Gold/silver/copper",
+  "price": 32.27,
+  "currency": "USD",
+  "price_date": "2026-08-15",
+  "market_cap_usd_bn": 8.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.08,
+  "eps": [
+   4.39,
+   3.6,
+   2.95
+  ],
+  "rev_fy0": 1731.6,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": null,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "USD metals, PEN costs.",
+  "key_risks": "EPS falls after 2026.",
+  "notes": "",
+  "sources": [
+   "https://tickflow.io/stock/BVN/forecast"
+  ],
+  "fwd_pe": [
+   7.4,
+   9.0,
+   10.9
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "TDW",
+  "exchange": "NYSE",
+  "name": "Tidewater",
+  "country": "US",
+  "theme": "Shipping & offshore",
+  "sub_industry": "Offshore supply vessels (world's largest OSV fleet)",
+  "price": 96.31,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 4.76,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.6,
+  "eps": [
+   3.2,
+   6.13,
+   9.59
+  ],
+  "rev_fy0": 1352.8,
+  "rev": [
+   1450,
+   1660,
+   1860
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 13,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "World's largest offshore supply-vessel owner, with USD dayrates that reprice every 1-3 years. The newbuild orderbook is near zero and replacement cost is far above secondhand values, so steel, yard and crew inflation raise the dayrate any new vessel needs and the existing fleet captures it. High 2026 oil prices support offshore spending, and repricing shows in EPS tripling from 2026 to 2028.",
+  "key_risks": "Offshore capex deferral if oil falls; not cheap on 2026-27 earnings; widely covered.",
+  "notes": "FY0 uses underlying 2025 EPS (~$2.6); reported $6.64 included a $201.5m one-off tax benefit. Second source: 2027/28 EPS $5.81/$7.91.",
+  "sources": [
+   "https://www.tickflow.io/stock/TDW/forecast",
+   "https://vcpscanner.com/valuation/tdw/estimates",
+   "https://www.businesswire.com/news/home/20260226106218/en"
+  ],
+  "fwd_pe": [
+   30.1,
+   15.7,
+   10.0
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "DOFG",
+  "exchange": "Oslo",
+  "name": "DOF Group",
+  "country": "Norway",
+  "theme": "Shipping & offshore",
+  "sub_industry": "Subsea/CSV/AHTS",
+  "price": 124.3,
+  "currency": "NOK",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 3.0,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   18.2,
+   16.9,
+   18.7
+  ],
+  "rev_fy0": null,
+  "rev": [
+   2280,
+   2240,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Tight CSV/OSV supply, USD dayrates, 11-12% yield.",
+  "key_risks": "Flat EPS.",
+  "notes": "",
+  "sources": [
+   "https://uk.marketscreener.com/quote/stock/DOF-GROUP-ASA-156148008/"
+  ],
+  "fwd_pe": [
+   6.8,
+   7.4,
+   6.6
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "CADLR",
+  "exchange": "Oslo",
+  "name": "Cadeler",
+  "country": "Denmark",
+  "theme": "Shipping & offshore",
+  "sub_industry": "Wind installation vessels",
+  "price": 54.6,
+  "currency": "NOK",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.83,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 9.4,
+  "eps": [
+   7.17,
+   14.03,
+   10.03
+  ],
+  "rev_fy0": 620,
+  "rev": [
+   965.8,
+   1224,
+   950.3
+  ],
+  "rev_unit": "EUR m",
+  "n_analysts": 7,
+  "inflation_score": 4,
+  "confidence": "medium",
+  "inflation_thesis": "Scarce vessels; indirect US link.",
+  "key_risks": "Peaks 2027.",
+  "notes": "",
+  "sources": [
+   "https://stockanalysis.com/quote/osl/CADLR/forecast/"
+  ],
+  "fwd_pe": [
+   7.6,
+   3.9,
+   5.4
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "SOMA",
+  "exchange": "Oslo",
+  "name": "Solstad Maritime",
+  "country": "Norway",
+  "theme": "Shipping & offshore",
+  "sub_industry": "CSV/AHTS/PSV",
+  "price": 28.3,
+  "currency": "NOK",
+  "price_date": "2026-08-15",
+  "market_cap_usd_bn": 1.25,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 4.83,
+  "eps": [
+   5.5,
+   4.99,
+   4.65
+  ],
+  "rev_fy0": 590,
+  "rev": [
+   null,
+   637,
+   619
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Tight OSV supply.",
+  "key_risks": "Peak 2026.",
+  "notes": "2026 EPS estimated.",
+  "sources": [
+   "https://simplywall.st/stocks/no/energy/ob-soma/solstad-maritime-shares/future"
+  ],
+  "fwd_pe": [
+   5.1,
+   5.7,
+   6.1
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "CCEC",
+  "exchange": "NASDAQ",
+  "name": "Capital Clean Energy Carriers",
+  "country": "Greece",
+  "theme": "Shipping",
+  "sub_industry": "LNG / gas carrier owner",
+  "price": 21.66,
+  "currency": "USD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 1.33,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.9,
+  "eps": [
+   1.78,
+   2.92,
+   3.43
+  ],
+  "rev_fy0": 392.7,
+  "rev": [
+   455,
+   641,
+   680
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Newbuild LNG and gas-carrier fleet with ~$2.9bn of USD contracted revenue and deliveries through 2029; high-replacement-cost ships whose value rises with yard inflation, while US energy exports support charter demand. EPS grows into 2027-28 as ships deliver.",
+  "key_risks": "Fixed long-term charters don't reprice; capex/debt-heavy newbuild programme; family control.",
+  "notes": "FY0 includes ship-sale gains. Estimates disagree (tickflow 2.77/2.71/2.56). 2028 revenue extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/CCEC/forecast",
+   "https://www.wallstreetzen.com/stocks/us/nasdaq/ccec/stock-forecast"
+  ],
+  "fwd_pe": [
+   12.2,
+   7.4,
+   6.3
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "ESEA",
+  "exchange": "NASDAQ",
+  "name": "Euroseas",
+  "country": "Greece",
+  "theme": "Shipping",
+  "sub_industry": "Feeder containerships",
+  "price": 77.34,
+  "currency": "USD",
+  "price_date": "2026-09-19",
+  "market_cap_usd_bn": 0.52,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 19.73,
+  "eps": [
+   17.55,
+   15.09,
+   18.79
+  ],
+  "rev_fy0": 227.9,
+  "rev": [
+   225.9,
+   262,
+   272
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Small-cap feeder containership owner with most 2026-27 days fixed at ~$31k/day in USD and 12 newbuilds (ordered below today's inflated yard prices) growing the fleet from 25 to 33 ships by 2029.",
+  "key_risks": "Feeder rates may weaken as charters roll; illiquid, family-controlled.",
+  "notes": "Wide estimate dispersion.",
+  "sources": [
+   "https://www.benzinga.com/quote/ESEA/earnings-forecasts",
+   "https://aktien.guide/kursziel/Euroseas-Ltd-MHY235923098"
+  ],
+  "fwd_pe": [
+   4.4,
+   5.1,
+   4.1
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "GSL",
+  "exchange": "NYSE",
+  "name": "Global Ship Lease",
+  "country": "Greece/UK",
+  "theme": "Shipping",
+  "sub_industry": "Containership lessor",
+  "price": 42.69,
+  "currency": "USD",
+  "price_date": "2026-10-03",
+  "market_cap_usd_bn": 1.52,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 11.4,
+  "eps": [
+   10.0,
+   9.77,
+   9.55
+  ],
+  "rev_fy0": 766.5,
+  "rev": [
+   760,
+   761,
+   761
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "$3.2bn USD contracted backlog; hard-to-replace mid-size ships.",
+  "key_risks": "Rates after 2027.",
+  "notes": "2028 extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/GSL/forecast"
+  ],
+  "fwd_pe": [
+   4.3,
+   4.4,
+   4.5
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "CMRE",
+  "exchange": "NYSE",
+  "name": "Costamare",
+  "country": "Monaco",
+  "theme": "Shipping",
+  "sub_industry": "Containership owner + leasing",
+  "price": 14.53,
+  "currency": "USD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 1.74,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.09,
+  "eps": [
+   2.7,
+   2.6,
+   2.5
+  ],
+  "rev_fy0": 846.7,
+  "rev": [
+   800,
+   785,
+   770
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 3,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Long USD charters + floating-rate leasing.",
+  "key_risks": "Rollovers.",
+  "notes": "2028 extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/CMRE/forecast"
+  ],
+  "fwd_pe": [
+   5.4,
+   5.6,
+   5.8
+  ],
+  "bench_round": 3
+ },
+ {
+  "ticker": "ODF",
+  "exchange": "Oslo",
+  "name": "Odfjell",
+  "country": "Norway",
+  "theme": "Shipping",
+  "sub_industry": "Chemical tankers + terminals",
+  "price": 116.0,
+  "currency": "NOK",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 18.42,
+  "eps": [
+   17.67,
+   15.38,
+   16.41
+  ],
+  "rev_fy0": null,
+  "rev": [
+   11070,
+   null,
+   null
+  ],
+  "rev_unit": "NOK m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Stainless chemical tankers + terminals.",
+  "key_risks": "Softening rates.",
+  "notes": "",
+  "sources": [
+   "https://aktien.guide/kursziel/Odfjell-b-Shs-NO0003399917"
+  ],
+  "fwd_pe": [
+   6.6,
+   7.5,
+   7.1
+  ],
+  "bench_round": 3
  }
 ]
