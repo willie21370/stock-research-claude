@@ -1439,5 +1439,503 @@
    7.1
   ],
   "bench_round": 3
+ },
+ {
+  "ticker": "ADRO",
+  "exchange": "IDX",
+  "name": "Alamtri Resources Indonesia",
+  "country": "Indonesia",
+  "theme": "Energy",
+  "sub_industry": "Coal/minerals holding",
+  "price": 2840.0,
+  "currency": "IDR",
+  "price_date": "2026-08-31",
+  "market_cap_usd_bn": 5.36,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 237.2,
+  "eps": [
+   290.9,
+   360.4,
+   403.6
+  ],
+  "rev_fy0": 1870,
+  "rev": [
+   2740,
+   3303,
+   3633
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Parent of ADMR; 100% payout.",
+  "key_risks": "Overlaps ADMR.",
+  "notes": "FY28 extrapolated; price may have eased to ~Rp2,560.",
+  "sources": [
+   "https://simplywall.st/stocks/us/energy/otc-adoo.y/alamtri-resources-indonesia/future"
+  ],
+  "fwd_pe": [
+   9.8,
+   7.9,
+   7.0
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "AADI",
+  "exchange": "IDX",
+  "name": "Adaro Andalan Indonesia",
+  "country": "Indonesia",
+  "theme": "Energy",
+  "sub_industry": "Thermal coal",
+  "price": 10725.0,
+  "currency": "IDR",
+  "price_date": "2026-08-28",
+  "market_cap_usd_bn": 5.12,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1591,
+  "eps": [
+   1570,
+   1639,
+   1705
+  ],
+  "rev_fy0": 4910,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Largest Indonesian thermal coal exporter.",
+  "key_risks": "Flat EPS.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/id/energy/idx-aadi/adaro-andalan-indonesia-shares/future"
+  ],
+  "fwd_pe": [
+   6.8,
+   6.5,
+   6.3
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "NATIONALUM",
+  "exchange": "NSE",
+  "name": "NALCO",
+  "country": "India",
+  "theme": "Base & critical metals",
+  "sub_industry": "Aluminium & alumina",
+  "price": 338.95,
+  "currency": "INR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 7.0,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 31.67,
+  "eps": [
+   43.5,
+   46.2,
+   47.6
+  ],
+  "rev_fy0": 178.43,
+  "rev": [
+   202,
+   196,
+   196
+  ],
+  "rev_unit": "INR bn",
+  "n_analysts": 11,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Low-cost integrated aluminium; LME USD prices, INR costs; net cash.",
+  "key_risks": "Alumina price fall.",
+  "notes": "Single broker.",
+  "sources": [
+   "https://plindia.com/ResReport/NACL-3-8-26-PL.pdf"
+  ],
+  "fwd_pe": [
+   7.8,
+   7.3,
+   7.1
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "TAPG",
+  "exchange": "IDX",
+  "name": "Triputra Agro Persada",
+  "country": "Indonesia",
+  "theme": "Agriculture & food",
+  "sub_industry": "Palm oil",
+  "price": 1840.0,
+  "currency": "IDR",
+  "price_date": "2026-08-03",
+  "market_cap_usd_bn": 2.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 186,
+  "eps": [
+   207,
+   208,
+   240
+  ],
+  "rev_fy0": 11.4,
+  "rev": [
+   12.24,
+   13.5,
+   14.8
+  ],
+  "rev_unit": "IDR tn",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "USD palm oil, IDR costs; net cash.",
+  "key_risks": "Export levies.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/id/food-beverage-tobacco/idx-tapg/triputra-agro-persada-shares"
+  ],
+  "fwd_pe": [
+   8.9,
+   8.8,
+   7.7
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "HINDZINC",
+  "exchange": "NSE",
+  "name": "Hindustan Zinc",
+  "country": "India",
+  "theme": "Base & critical metals",
+  "sub_industry": "Zinc/lead/silver",
+  "price": 574.3,
+  "currency": "INR",
+  "price_date": "2026-09-28",
+  "market_cap_usd_bn": 27.9,
+  "fy_years": [
+   "FY27",
+   "FY28",
+   "FY29"
+  ],
+  "eps_fy0": 32.68,
+  "eps": [
+   42.23,
+   43.6,
+   44.9
+  ],
+  "rev_fy0": 408.5,
+  "rev": [
+   483,
+   495,
+   505
+  ],
+  "rev_unit": "INR bn",
+  "n_analysts": 13,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Silver + zinc, low cost.",
+  "key_risks": "Valuation ~13x.",
+  "notes": "",
+  "sources": [
+   "https://sharpely.in/stocks/hindzinc/forecast"
+  ],
+  "fwd_pe": [
+   13.6,
+   13.2,
+   12.8
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "5711",
+  "exchange": "TSE",
+  "name": "Mitsubishi Materials",
+  "country": "Japan",
+  "theme": "Asia resources & trading",
+  "sub_industry": "Copper/precious-metal smelting, tungsten, copper-mine stakes",
+  "price": 5120.0,
+  "currency": "JPY",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 4.25,
+  "fy_years": [
+   "FY3/27",
+   "FY3/28",
+   "FY3/29"
+  ],
+  "eps_fy0": 310.56,
+  "eps": [
+   791.0,
+   485.5,
+   485.5
+  ],
+  "rev_fy0": 1840,
+  "rev": [
+   2000,
+   1784.7,
+   1785
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": 8,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Earnings come from USD-priced copper, gold and tungsten plus copper-mine equity income, translated at a weak yen. In Aug-2026 it nearly tripled FY3/27 net-profit guidance to ¥140bn (a 19-year record) on metal prices and inventory gains — exactly how a hard-asset business benefits when US inflation lifts commodity prices.",
+  "key_risks": "Much of FY3/27 profit is one-off inventory gains that reverse if metals or the yen turn; smelting is low-margin.",
+  "notes": "FY1 = consensus ¥791 (company guidance ≈¥1,073 would give 4.8x). FY2 consensus (¥485.5) pre-dates the guidance hike and is likely too low; FY3 extrapolated flat.",
+  "sources": [
+   "https://s.kabutan.jp/news/k202608060121/",
+   "https://kabuyoho.jp/reportAnalyst?bcode=5711",
+   "https://aktien.guide/kursziel/Mitsubishi-Materials-JP3903000002"
+  ],
+  "fwd_pe": [
+   6.5,
+   10.5,
+   10.5
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "2768",
+  "exchange": "TSE",
+  "name": "Sojitz",
+  "country": "Japan",
+  "theme": "Asia resources & trading",
+  "sub_industry": "Mid-size trading house (metals, coal, energy, chemicals)",
+  "price": 5756.0,
+  "currency": "JPY",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 7.7,
+  "fy_years": [
+   "FY3/27",
+   "FY3/28",
+   "FY3/29"
+  ],
+  "eps_fy0": 494.95,
+  "eps": [
+   617.25,
+   655.49,
+   720.26
+  ],
+  "rev_fy0": 2757.3,
+  "rev": [
+   2672.5,
+   2728.8,
+   2785.0
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": 10,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Much of its profit comes from USD-linked coal, rare earths (via Lynas), nickel and alumina plus commodity trading and overseas assets, all reported in a weak yen, so higher USD commodity prices lift both mining income and trading margins. FY3/27 net profit is guided +25% and it trades at ~1x book with buybacks.",
+  "key_risks": "Coal-price fall or sharp yen rebound; cyclical non-resource businesses.",
+  "notes": "FY0 derived from consensus growth; revenue consensus on a different basis; FY3 revenue extrapolated. Dividend yield ~3.1%.",
+  "sources": [
+   "https://aktien.guide/kursziel/Sojitz-JP3663900003",
+   "https://www.simplywall.st/stocks/jp/capital-goods/tse-2768/sojitz-shares/future"
+  ],
+  "fwd_pe": [
+   9.3,
+   8.8,
+   8.0
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "8078",
+  "exchange": "TSE",
+  "name": "Hanwa",
+  "country": "Japan",
+  "theme": "Asia resources & trading",
+  "sub_industry": "Steel/metals/ferroalloy trading",
+  "price": 1941.0,
+  "currency": "JPY",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 2.62,
+  "fy_years": [
+   "FY3/27",
+   "FY3/28",
+   "FY3/29"
+  ],
+  "eps_fy0": 193.13,
+  "eps": [
+   215.0,
+   227.0,
+   241.0
+  ],
+  "rev_fy0": 2700,
+  "rev": [
+   2900,
+   2930,
+   2990
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": 5,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Metals trader; gains on inventory as prices rise; 0.86x book.",
+  "key_risks": "Japanese steel demand; leverage.",
+  "notes": "Post 4:1 split.",
+  "sources": [
+   "https://aktien.guide/kursziel/Hanwa-Co-JP3777800008"
+  ],
+  "fwd_pe": [
+   9.0,
+   8.6,
+   8.1
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "1605",
+  "exchange": "TSE",
+  "name": "Inpex",
+  "country": "Japan",
+  "theme": "Energy",
+  "sub_industry": "Oil & LNG",
+  "price": 3913.0,
+  "currency": "JPY",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 31.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 330.6,
+  "eps": [
+   407.46,
+   412.52,
+   392.68
+  ],
+  "rev_fy0": 2010,
+  "rev": [
+   2398.3,
+   2343.6,
+   2263.7
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": 13,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "USD oil/LNG revenue at a weak yen.",
+  "key_risks": "Oil/yen.",
+  "notes": "Large cap.",
+  "sources": [
+   "https://ca.marketscreener.com/quote/stock/INPEX-CORPORATION-6498754/finances/"
+  ],
+  "fwd_pe": [
+   9.6,
+   9.5,
+   10.0
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "1662",
+  "exchange": "TSE",
+  "name": "JAPEX",
+  "country": "Japan",
+  "theme": "Energy",
+  "sub_industry": "Oil & gas E&P",
+  "price": 1883.0,
+  "currency": "JPY",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 3.08,
+  "fy_years": [
+   "FY3/27",
+   "FY3/28",
+   "FY3/29"
+  ],
+  "eps_fy0": 208.74,
+  "eps": [
+   286.34,
+   198.46,
+   198.46
+  ],
+  "rev_fy0": 340.3,
+  "rev": [
+   314.0,
+   null,
+   null
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": null,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "USD oil & gas; net cash.",
+  "key_risks": "EPS falls FY28.",
+  "notes": "",
+  "sources": [
+   "https://stocksguide.com/en/forecast/Japan-Petroleum-Exploration-JP3421100003"
+  ],
+  "fwd_pe": [
+   6.6,
+   9.5,
+   9.5
+  ],
+  "bench_round": 4
+ },
+ {
+  "ticker": "8020",
+  "exchange": "TSE",
+  "name": "Kanematsu",
+  "country": "Japan",
+  "theme": "Asia resources & trading",
+  "sub_industry": "Trading house",
+  "price": 2326.5,
+  "currency": "JPY",
+  "price_date": "2026-09-28",
+  "market_cap_usd_bn": 2.5,
+  "fy_years": [
+   "FY3/27",
+   "FY3/28",
+   "FY3/29"
+  ],
+  "eps_fy0": 195.4,
+  "eps": [
+   212.4,
+   233.36,
+   255.0
+  ],
+  "rev_fy0": 1067.7,
+  "rev": [
+   1100,
+   1215,
+   1250
+  ],
+  "rev_unit": "JPY bn",
+  "n_analysts": 4,
+  "inflation_score": 4,
+  "confidence": "medium",
+  "inflation_thesis": "Indirect.",
+  "key_risks": "ICT-heavy.",
+  "notes": "",
+  "sources": [
+   "https://aktien.guide/kursziel/Kanematsu-Corp-JP3217100001"
+  ],
+  "fwd_pe": [
+   11.0,
+   10.0,
+   9.1
+  ],
+  "bench_round": 4
  }
 ]

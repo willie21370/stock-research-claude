@@ -1393,5 +1393,472 @@
    5.1
   ],
   "round_added": 3
+ },
+ {
+  "ticker": "TINS",
+  "exchange": "IDX",
+  "name": "PT Timah",
+  "country": "Indonesia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Tin mining & smelting",
+  "price": 4070,
+  "currency": "IDR",
+  "price_date": "2026-08-31",
+  "market_cap_usd_bn": 1.86,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 176,
+  "eps": [
+   596,
+   688,
+   743
+  ],
+  "rev_fy0": 11550,
+  "rev": [
+   20110,
+   21920,
+   23500
+  ],
+  "rev_unit": "IDR bn",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "World #2 listed tin miner selling LME tin in USD (~US$55,700/t, +36% YTD) against rupiah costs, so price plus a weak rupiah gives huge operating leverage. A government crackdown on illegal mining is returning ore and market share, so volumes rise too.",
+  "key_risks": "Tin-price correction; Indonesian royalty hikes; SOE governance history.",
+  "notes": "EPS = average of 3 broker net-profit estimates / 7.45bn shares; 2028 extrapolated (+8%).",
+  "sources": [
+   "https://www.bareksa.com/berita/saham/2026-07-15/target-harga-saham-pt-timah-tins-naik-jadi-rp4200-apa-katalis-dan-risikonya/amp",
+   "https://investasi.kontan.co.id/news/laba-timah-tins-kuartal-i-2026-lewati-proyeksi-target-saham-dikerek"
+  ],
+  "fwd_pe": [
+   6.8,
+   5.9,
+   5.5
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "3330",
+  "exchange": "HKEX",
+  "name": "Lingbao Gold Group",
+  "country": "China/PNG",
+  "theme": "Precious metals",
+  "sub_industry": "Gold mining & smelting (+ control of St Barbara / Simberi)",
+  "price": 25.36,
+  "currency": "HKD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 2.8,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.32,
+  "eps": [
+   2.3,
+   2.48,
+   2.68
+  ],
+  "rev_fy0": 14290,
+  "rev": [
+   21500,
+   23700,
+   25100
+  ],
+  "rev_unit": "HKD m",
+  "n_analysts": 3,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Small, under-followed gold producer with RMB and PNG-kina costs and USD-linked gold revenue, giving high leverage to gold. Taking control of St Barbara (Simberi, PNG) in April 2026 adds a big production step-up; 2025 profit already rose 122%.",
+  "key_risks": "Smelting/refining dilutes gold beta; PNG integration; convertible-bond fair-value losses.",
+  "notes": "RMB converted to HKD at 1.087. 2027 from consensus net profit / ~1.29bn shares; 2028 extrapolated (+8%).",
+  "sources": [
+   "https://aktien.guide/kursziel/Lingbao-Gold-Co-h-CNE1000001H3",
+   "https://simplywall.st/stocks/hk/materials/szsc-3330/lingbao-gold-group-shares/future",
+   "https://filingreader.com/news-wire/hongkong/2026-08-26/lingbao-gold-reports-50-profit-surge-for-first-half"
+  ],
+  "fwd_pe": [
+   11.0,
+   10.2,
+   9.5
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "ADMR",
+  "exchange": "IDX",
+  "name": "Alamtri Minerals Indonesia",
+  "country": "Indonesia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Metallurgical coal + 500ktpa aluminium smelter",
+  "price": 1490.0,
+  "currency": "IDR",
+  "price_date": "2026-09-29",
+  "market_cap_usd_bn": 3.74,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 108.0,
+  "eps": [
+   179.6,
+   226.6,
+   282.6
+  ],
+  "rev_fy0": 973.0,
+  "rev": [
+   2048.4,
+   2520.7,
+   3011.9
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 17,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells coking coal and, from 2H26, aluminium from a new 500ktpa smelter — both USD-priced hard commodities that track US industrial inflation — while labour, services and hydro power costs are in rupiah. The smelter ramp gives real volume growth (revenue tripling 2025-28), so EPS growth doesn't depend on the coal cycle.",
+  "key_risks": "Smelter ramp-up delays/losses (US$45.5m 1H26 loss); coking-coal weakness; parent-group governance.",
+  "notes": "USD broker net-profit forecasts converted at 16,300 on 40.88bn shares; a second broker is higher. 16 of 17 analysts Buy; target Rp2,313.",
+  "sources": [
+   "https://kbvalbury.com/cfind/source/files/admr-initiation-report-260826.pdf",
+   "https://www.kabarbursa.com/insight-daily/laba-admr-tumbuh-asing-masuk-saat-harga-masih-di-bawah-konsensus",
+   "https://ajaib.co.id/belajar/analisa-fundamental-saham/adro-admr-aadi-rilis-kinerja-semester-i-2026"
+  ],
+  "fwd_pe": [
+   8.3,
+   6.6,
+   5.3
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "2259",
+  "exchange": "HKEX",
+  "name": "Zijin Gold International",
+  "country": "China",
+  "theme": "Precious metals",
+  "sub_industry": "Gold (global ex-China)",
+  "price": 203.6,
+  "currency": "HKD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 72.0,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 5.1,
+  "eps": [
+   11.31,
+   12.88,
+   13.6
+  ],
+  "rev_fy0": 5383,
+  "rev": [
+   9880,
+   11346,
+   12180
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Pure-play gold producer spun out of Zijin Mining, with output growing from 46.9t (2025) to ~59t guided in 2026 and more through 2028 at an AISC of ~US$1,500/oz, so margins widen sharply when inflation lifts gold. Most costs are in emerging-market currencies (Central Asia, Africa, South America, PNG) that tend to weaken against the dollar.",
+  "key_risks": "Large cap and well covered; emerging-market resource-nationalism risk; July-2026 profit warning and broker estimates below consensus.",
+  "notes": "Latest quotes ~HK$204-209 (market cap ~HK$563bn); earlier HK$127 quote was stale. Broker numbers (Guosen, BofA) are lower than this consensus.",
+  "sources": [
+   "https://aktien.guide/kursziel/Zijin-Gold-International-Co-HK0001200002",
+   "https://simplywall.st/stocks/hk/materials/shsc-2259/zijin-gold-international-shares/future",
+   "https://marketcapof.com/stocks/2259.hk/"
+  ],
+  "fwd_pe": [
+   18.0,
+   15.8,
+   15.0
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "MEDC",
+  "exchange": "IDX",
+  "name": "Medco Energi Internasional",
+  "country": "Indonesia",
+  "theme": "Energy",
+  "sub_industry": "Oil & gas E&P + Amman Mineral (copper/gold) stake",
+  "price": 1600.0,
+  "currency": "IDR",
+  "price_date": "2026-09-10",
+  "market_cap_usd_bn": 2.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 67.1,
+  "eps": [
+   250.5,
+   283.9,
+   267.2
+  ],
+  "rev_fy0": 2.39,
+  "rev": [
+   2.32,
+   2.39,
+   2.39
+  ],
+  "rev_unit": "USD bn",
+  "n_analysts": 6,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced oil and oil-linked gas at a cash cost of only ~$8.6/boe from a USD asset base, plus copper/gold exposure via its Amman Mineral stake. H1-26 net profit of $275m (+650% y/y) shows the leverage to higher dollar commodity prices.",
+  "key_risks": "Net debt/EBITDA ~2x; Amman Mineral smelter/export permits; Indonesian PSC terms.",
+  "notes": "Single-broker (BRIDS) USD EPS converted to IDR at 16,700. FY25 EPS depressed by impairments (low base). FY26 likely conservative vs H1 actual.",
+  "sources": [
+   "https://link.brights.id/brids/storage/44836/20260504-MEDC.pdf",
+   "https://investortrust.id/market/117021/laba-medco-energi-medc-melejit-650-di-semester-i-2026-intip-target-hingga-akhir-tahun-ini"
+  ],
+  "fwd_pe": [
+   6.4,
+   5.6,
+   6.0
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "OIL",
+  "exchange": "NSE",
+  "name": "Oil India",
+  "country": "India",
+  "theme": "Energy",
+  "sub_industry": "Upstream oil & gas + Numaligarh Refinery (~70%)",
+  "price": 479.55,
+  "currency": "INR",
+  "price_date": "2026-09-17",
+  "market_cap_usd_bn": 8.8,
+  "fy_years": [
+   "FY27 (Mar-27)",
+   "FY28 (Mar-28)",
+   "FY29 (Mar-29)"
+  ],
+  "eps_fy0": 40.7,
+  "eps": [
+   55.59,
+   63.83,
+   68.3
+  ],
+  "rev_fy0": 339.5,
+  "rev": [
+   472.7,
+   682.0,
+   716.0
+  ],
+  "rev_unit": "INR bn",
+  "n_analysts": 21,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Sells crude and gas at USD-linked prices while costs are mostly in rupees, so higher US inflation and dollar oil prices flow straight to margins (Q1 FY27 EPS +253% y/y). The Numaligarh refinery expansion from 3 to 9 MTPA (start ~Mar-27) adds a volume-driven growth step in FY28.",
+  "key_risks": "Government windfall taxes/subsidy sharing; NRL commissioning delays; crude reversal.",
+  "notes": "Sharpely median consensus; FY0 derived from growth rates; FY29 extrapolated (+7%).",
+  "sources": [
+   "https://sharpely.in/stocks/oil/forecast",
+   "https://www.barodaetrade.com/Reports/OILIndia-Q1FY27ResultReview10Aug26-Research.pdf",
+   "https://www.freepressjournal.in/business/oil-indias-consolidated-q1-net-profit-doubles-to-402683-crore"
+  ],
+  "fwd_pe": [
+   8.6,
+   7.5,
+   7.0
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "2099",
+  "exchange": "HKEX (TSX: CGG)",
+  "name": "China Gold International Resources",
+  "country": "China",
+  "theme": "Precious metals",
+  "sub_industry": "Gold & copper (Jiama, Tibet; CSH, Inner Mongolia)",
+  "price": 260.4,
+  "currency": "HKD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 6.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 9.19,
+  "eps": [
+   16.28,
+   18.2,
+   20.3
+  ],
+  "rev_fy0": 10219,
+  "rev": [
+   13400,
+   14500,
+   16100
+  ],
+  "rev_unit": "HKD m",
+  "n_analysts": 4,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced gold and copper against an RMB cost base, so a weaker dollar and rising nominal metal prices go almost entirely to margin. The Jiama restart and 'three-step' expansion add volume on top of price; net cash and a record dividend.",
+  "key_risks": "Single-asset Tibet operating/safety risk (Jiama suspended 2023-24); parent China National Gold controls capital allocation.",
+  "notes": "Consensus (4 analysts) looks stale: H1-26 EPS was already ~HK$10. Latest quotes HK$260-273 (stock has roughly doubled since June), so P/Es use HK$260.4; FY3 extrapolated.",
+  "sources": [
+   "https://aktien.guide/kursziel/China-Gold-International-Res-CA16890P1036",
+   "https://simplywall.st/stocks/hk/materials/hkg-2099/china-gold-international-resources-shares",
+   "https://goldsilver.ai/news/260813-china-gold-international-resources-reports-2026-se"
+  ],
+  "fwd_pe": [
+   16.0,
+   14.3,
+   12.8
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "ITMG",
+  "exchange": "IDX",
+  "name": "Indo Tambangraya Megah",
+  "country": "Indonesia",
+  "theme": "Energy",
+  "sub_industry": "Thermal coal",
+  "price": 26070.0,
+  "currency": "IDR",
+  "price_date": "2026-08-31",
+  "market_cap_usd_bn": 1.81,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2754,
+  "eps": [
+   3487,
+   4933,
+   5180
+  ],
+  "rev_fy0": 1882,
+  "rev": [
+   2080,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 5,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Pure USD thermal-coal exporter (Newcastle-linked prices, sold across Asia) with rupiah costs, net cash and a high-payout dividend. Sales volumes are guided up ~10% in 2026 from new concessions, so energy-led inflation in seaborne coal prices lands on rising volumes while the weak rupiah holds costs down.",
+  "key_risks": "Indonesian RKAB quota cuts, higher DMO share at capped prices and royalty hikes; wide broker dispersion (a bearish broker sees flat profit).",
+  "notes": "Price implied from KB Valbury target/upside (31 Aug). FY27 EPS from one bullish broker (Ajaib); FY28 extrapolated +5%.",
+  "sources": [
+   "https://kbvalbury.com/itmg-volumes-set-to-carry-2h26-earnings",
+   "https://ajaib.co.id/api/docs/Company Update - ITMG (20260305).pdf",
+   "https://www.kabarbursa.com/market-hari-ini/itmg-bidik-penjualan-batu-bara-2026-tembus-27-juta-ton-tumbuh-113-persen-1"
+  ],
+  "fwd_pe": [
+   7.5,
+   5.3,
+   5.0
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "0358",
+  "exchange": "HKEX",
+  "name": "Jiangxi Copper (H)",
+  "country": "China",
+  "theme": "Base & critical metals",
+  "sub_industry": "Integrated copper",
+  "price": 33.6,
+  "currency": "HKD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 17.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.25,
+  "eps": [
+   3.96,
+   3.92,
+   4.02
+  ],
+  "rev_fy0": 544620,
+  "rev": [
+   643780,
+   673000,
+   598000
+  ],
+  "rev_unit": "RMB m",
+  "n_analysts": 8,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "China's largest copper producer (Dexing mine, smelting, stake in First Quantum) selling USD-priced copper, gold, silver and acid against RMB costs, so higher nominal metal prices lift mining profit and by-product/inventory gains; H1-26 profit guided up to +103%. The H-shares trade at a deep discount to the A-shares.",
+  "key_risks": "Mostly smelting purchased concentrate, where record-low treatment charges cap margins; low self-sufficiency (~15-20%); hedging losses.",
+  "notes": "RMB EPS converted to HKD at 1.087; 2027-28 from SWS consensus net profit (8 analysts). Market cap covers A+H at the H price.",
+  "sources": [
+   "https://aktien.guide/kursziel/Jiangxi-Copper-Co-h-CNE1000003K3",
+   "https://simplywall.st/stocks/hk/materials/shsc-358/jiangxi-copper-shares/future",
+   "https://filingreader.com/news-wire/hongkong/2026-07-08/jiangxi-copper-forecasts-profit-surge-of-up-to-103"
+  ],
+  "fwd_pe": [
+   8.5,
+   8.6,
+   8.4
+  ],
+  "round_added": 4
+ },
+ {
+  "ticker": "NCKL",
+  "exchange": "IDX",
+  "name": "Trimegah Bangun Persada (Harita Nickel)",
+  "country": "Indonesia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Nickel (RKEF/NPI + HPAL)",
+  "price": 915,
+  "currency": "IDR",
+  "price_date": "2026-08-12",
+  "market_cap_usd_bn": 3.54,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 143,
+  "eps": [
+   182.7,
+   202.1,
+   222.9
+  ],
+  "rev_fy0": null,
+  "rev": [
+   34100,
+   36500,
+   38900
+  ],
+  "rev_unit": "IDR bn",
+  "n_analysts": 4,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Low-cost integrated Indonesian nickel producer (saprolite ore, NPI and HPAL nickel sulphate) whose USD-priced output is made with rupiah labour and captive power, so a weak rupiah and higher metal prices widen margins. KPS Phase 3 and HPAL ramp-ups add volume through 2028; ~4.5x FY2 P/E with a Rp1tn buyback.",
+  "key_risks": "Structural nickel oversupply (price upside depends on RKAB quota cuts); HPAL tailings/ESG scrutiny; controlling-shareholder selldowns.",
+  "notes": "Consensus as quoted by BRI Danareksa (Aug-26); FY0 derived from dividend/payout; 2028 revenue extrapolated.",
+  "sources": [
+   "https://www.brights.id/id/riset-dan-berita/laporan-riset/trimegah-bangun-persada-ncklij-rp915-buy-tp-rp1300-mining-segment-leads-growth-kps-ramp-up-to-drive-2h26f-earnings",
+   "https://link.brights.id/brids/storage/46492/20260812-NCKL.pdf"
+  ],
+  "fwd_pe": [
+   5.0,
+   4.5,
+   4.1
+  ],
+  "round_added": 4
  }
 ]
