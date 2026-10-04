@@ -7,7 +7,7 @@ Run:  python3 scripts/rank_inflation.py            -> rewrites TOP100.md
 
 Composite score (0-100):
   35%  inflation benefit   (analyst judgment 1-10)
-  25%  valuation           (FY2 forward P/E: 5x -> full marks, 25x+ -> zero)
+  25%  valuation           (40% FY1 + 60% FY2 forward P/E: 5x -> full marks, 25x+ -> zero)
   20%  EPS growth          (3-yr EPS CAGR, capped at 40%)
   10%  revenue growth      (3-yr revenue CAGR, capped at 25%)
    5%  under-the-radar     (fewer covering analysts = higher)
@@ -59,6 +59,9 @@ def derived(s):
         eps_cagr, basis = cagr(eps[0], eps[2], 2), "FY1-FY3"
     if eps_cagr is None:
         eps_cagr = num(s.get("eps_cagr_3y_pct"))
+    # earnings that peak in FY1 and then shrink should not score as "growth"
+    if len(eps) > 2 and num(eps[0]) and num(eps[2]) and 0 < eps[2] < eps[0]:
+        eps_cagr, basis = cagr(eps[0], eps[2], 2), "FY1-FY3"
 
     pe = s.get("fwd_pe") or [None, None, None]
     return {"rev_cagr": rev_cagr, "eps_cagr": eps_cagr, "eps_basis": basis, "pe": [num(p) for p in pe]}
@@ -66,8 +69,10 @@ def derived(s):
 
 def score(s, d):
     infl = clamp((num(s.get("inflation_score")) or 0) / 10)
-    pe2 = d["pe"][1] if len(d["pe"]) > 1 else None
-    value = clamp((25 - pe2) / 20) if pe2 and pe2 > 0 else 0.0
+    def pe_score(pe):
+        return clamp((25 - pe) / 20) if pe and pe > 0 else 0.0
+    pe = d["pe"] + [None] * 3
+    value = 0.4 * pe_score(pe[0]) + 0.6 * pe_score(pe[1])
     eps_g = clamp((d["eps_cagr"] or 0) / 40)
     rev_g = clamp((d["rev_cagr"] or 0) / 25)
     n = num(s.get("n_analysts"))
@@ -116,7 +121,7 @@ def main():
         "> Research output, not investment advice. Estimates are analyst consensus gathered from public",
         "> search results and may be stale or incomplete; check every number before acting on it.",
         "",
-        "**Score (0-100)** = 35% inflation benefit · 25% valuation (FY2 P/E) · 20% 3-yr EPS CAGR ·",
+        "**Score (0-100)** = 35% inflation benefit · 25% valuation (FY1/FY2 P/E) · 20% 3-yr EPS CAGR ·",
         "10% 3-yr revenue CAGR · 5% under-the-radar (few analysts) · 5% data confidence.",
         "",
         "| # | Ticker | Company | Country | Theme | Score | Infl. | Rev CAGR 3y | EPS CAGR 3y | P/E FY1 | P/E FY2 | P/E FY3 | Analysts | Added |",
@@ -130,7 +135,7 @@ def main():
             f"| **{sc}** | {s.get('inflation_score','')}/10 | {fmt(d['rev_cagr'], '%')} | {eps_c} "
             f"| {fmt(pe[0], 'x')} | {fmt(pe[1], 'x')} | {fmt(pe[2], 'x')} | {s.get('n_analysts') or 'n/a'} | R{s.get('round_added', 1)} |"
         )
-    out += ["", "¹ EPS CAGR measured FY1→FY3 (2 years) because the base-year EPS was negative or near zero.", ""]
+    out += ["", "¹ EPS CAGR measured FY1→FY3 (2 years) because the base-year EPS was negative/near zero, or earnings peak in FY1.", ""]
 
     out += ["## Why each stock benefits from US inflation", ""]
     for i, (sc, s, d) in enumerate(rows, 1):

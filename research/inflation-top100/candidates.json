@@ -1,0 +1,464 @@
+[
+ {
+  "ticker": "KNT",
+  "exchange": "TSX (OTC: KNTNF)",
+  "name": "K92 Mining",
+  "country": "PNG/Canada",
+  "theme": "Precious metals",
+  "sub_industry": "Gold-copper producer (Kainantu, PNG)",
+  "price": 16.84,
+  "currency": "USD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 4.1,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.12,
+  "eps": [
+   1.5,
+   2.36,
+   3.0
+  ],
+  "rev_fy0": 595.2,
+  "rev": [
+   870,
+   1261,
+   1563
+  ],
+  "n_analysts": 10,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells unhedged USD gold (plus copper) against a local PNG cost base that rises more slowly than gold, so an inflation-driven gold rally goes almost straight to margin. The Stage 3 plant roughly triples throughput, so ounces and price per ounce rise together.",
+  "key_risks": "Ramp-up execution worries (Q2-26 13% EPS miss) and PNG sovereign/security risk.",
+  "notes": "Price is the US OTC line (KNTNF) so it matches USD EPS. FY2/FY3 from Simply Wall St net income / ~242m shares (Mar-26, pre-selloff). Scotiabank FY27 EPS $2.48. BMO target C$40, RBC C$45.",
+  "sources": [
+   "https://robinhood.com/us/en/stocks/KNTNF",
+   "https://simplywall.st/stocks/ca/materials/tsx-knt/k92-mining-shares/future",
+   "https://www.marketbeat.com/instant-alerts/fy2027-earnings-forecast-for-k92-mining-issued-by-scotiabank-2026-07-17/",
+   "https://k92mining.com/news/k92-mining-announces-strong-q2-2026-financial-resu-15387/"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   11.2,
+   7.1,
+   5.6
+  ]
+ },
+ {
+  "ticker": "VIST",
+  "exchange": "NYSE",
+  "name": "Vista Energy",
+  "country": "Argentina",
+  "theme": "Energy",
+  "sub_industry": "Vaca Muerta shale oil E&P",
+  "price": 73.32,
+  "currency": "USD",
+  "price_date": "2026-10-02",
+  "market_cap_usd_bn": 7.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.3,
+  "eps": [
+   8.64,
+   9.5,
+   9.79
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "n_analysts": 6,
+  "inflation_score": 9,
+  "confidence": "medium",
+  "inflation_thesis": "Sells crude at Brent-linked, USD export-parity prices while much of its cost base is in Argentine pesos, so hot US inflation that lifts USD oil prices drops straight to margins. Production is growing ~30%+ a year (Q2-26 output +32% y/y, revenue +102% after the La Amarga Chica deal), so price and volume compound, and its long-life shale reserves are a hard asset.",
+  "key_risks": "Argentine political, FX and capital-control risk; pipeline/export bottlenecks out of Vaca Muerta.",
+  "notes": "FY0 = 2025 adjusted EPS $3.30 (reported $7.0 included a one-off acquisition gain). Revenue consensus not found. 100% of analysts rate Buy; avg target ~$90.",
+  "sources": [
+   "https://tickflow.io/stock/VIST/forecast",
+   "https://vcpscanner.com/valuation/vist/estimates",
+   "https://www.frenzycap.com/quote/VIST",
+   "https://www.sec.gov/Archives/edgar/data/0001762506/000119312526187099/d936340d20f.htm"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   8.5,
+   7.7,
+   7.5
+  ]
+ },
+ {
+  "ticker": "EGO",
+  "exchange": "NYSE / TSX",
+  "name": "Eldorado Gold",
+  "country": "Canada",
+  "theme": "Precious metals",
+  "sub_industry": "Gold + copper-gold (Skouries, Greece)",
+  "price": 43.0,
+  "currency": "USD",
+  "price_date": "2026-09-01",
+  "market_cap_usd_bn": 8.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.75,
+  "eps": [
+   4.67,
+   5.33,
+   5.03
+  ],
+  "rev_fy0": 1818.9,
+  "rev": [
+   2830,
+   3371,
+   3200
+  ],
+  "n_analysts": 12,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Mostly unhedged USD gold revenue, and the Skouries mine starting in 2026 adds copper, another inflation-linked real asset. Gold output is guided to grow ~40% over three years, so higher metal prices land on rising volumes for strong operating leverage to a weaker real dollar.",
+  "key_risks": "Skouries ramp-up delays/cost overruns; Greek and Turkish permitting risk.",
+  "notes": "Price from 1 Sep 2026; a 18-Sep market cap of $10.5bn would imply ~$51 and P/Es ~20% higher. FY3 from Simply Wall St. Analyst count approximate.",
+  "sources": [
+   "https://www.eldoradogold.com/investors/news-releases/eldorado-gold-provides-2026-guidance-three-year-outlook-targets-40-gold",
+   "https://ca.marketscreener.com/quote/stock/ELDORADO-GOLD-CORPORATION-50060889/finances/",
+   "https://www.vcpscanner.com/valuation/ego/estimates"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   9.2,
+   8.1,
+   8.5
+  ]
+ },
+ {
+  "ticker": "ARIS",
+  "exchange": "TSX / NYSE American",
+  "name": "Aris Mining",
+  "country": "Colombia/Canada",
+  "theme": "Precious metals",
+  "sub_industry": "Gold producer (Segovia, Marmato)",
+  "price": 19.16,
+  "currency": "USD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 3.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.06,
+  "eps": [
+   2.41,
+   3.6,
+   3.69
+  ],
+  "rev_fy0": null,
+  "rev": [
+   1600,
+   2012,
+   2350
+  ],
+  "n_analysts": 4,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Almost pure, unhedged gold producer selling in USD with costs mostly in Colombian pesos, so an inflation-driven gold rally plus a weaker dollar widens margins sharply. The Segovia expansion and Marmato bulk-mining project lift output through 2027-28, so volume and price both drive earnings.",
+  "key_risks": "Patchy execution (3 earnings misses in 4 quarters); Colombian security, artisanal-mining and permitting risk.",
+  "notes": "FY0 revenue not found (FY1->FY3 revenue CAGR ~21%). One source shows much lower EPS that looks stale.",
+  "sources": [
+   "https://tickflow.io/stock/ARIS/forecast",
+   "https://www.barchart.com/story/news/3511210/will-aris-mining-s-expansion-timeline-finally-prove-the-production-thesis",
+   "https://www.investsmart.com.au/security/amex/armn/aris-mining-corp/share-price"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   8.0,
+   5.3,
+   5.2
+  ]
+ },
+ {
+  "ticker": "ERO",
+  "exchange": "NYSE / TSX",
+  "name": "Ero Copper",
+  "country": "Brazil/Canada",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper (Caraíba, Tucumã)",
+  "price": 35.07,
+  "currency": "USD",
+  "price_date": "2026-09-10",
+  "market_cap_usd_bn": 3.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.12,
+  "eps": [
+   4.19,
+   4.53,
+   4.36
+  ],
+  "rev_fy0": 785.8,
+  "rev": [
+   1240,
+   1280,
+   1321
+  ],
+  "n_analysts": 7,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Nearly all revenue is USD-priced copper while most costs are in Brazilian reais, so hot US inflation and a weaker dollar push up realised prices and margins. The Tucumã ramp-up adds volume on top, roughly doubling EPS from 2025 to 2026.",
+  "key_risks": "BRL strength, Brazilian tax/permitting, and a history of back-loaded production guidance.",
+  "notes": "TSX close C$48.37 (~US$35) on 10 Sep 2026 after an 8.5% drop. FY3 EPS derived from SWS net income; FY3 revenue extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/ERO/forecast",
+   "https://wealthawesome.com/why-ero-copper-corp-stock-plummeted-yesterday-09112026",
+   "https://simplywall.st/stocks/mx/materials/bmv-ero-n/ero-copper-shares/future"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   8.4,
+   7.7,
+   8.0
+  ]
+ },
+ {
+  "ticker": "IPCO",
+  "exchange": "TSX / Stockholm",
+  "name": "International Petroleum Corp",
+  "country": "Canada",
+  "theme": "Energy",
+  "sub_industry": "Heavy oil (Blackrod)",
+  "price": 28.99,
+  "currency": "CAD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 2.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.6,
+  "eps": [
+   0.85,
+   2.82,
+   3.92
+  ],
+  "rev_fy0": 700,
+  "rev": [
+   703,
+   1049,
+   1301
+  ],
+  "n_analysts": 8,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "A pure USD-priced oil producer whose big Blackrod heavy-oil project is now built (first oil May 2026, 30,000 bopd plateau by late 2027), so capex is largely sunk and higher oil prices fall almost entirely to free cash flow and buybacks. Rising replacement costs for oil-sands projects also raise the value of an asset that is already built.",
+  "key_risks": "Blackrod ramp-up execution, WCS heavy-oil differentials and a large Q2-26 EPS miss; expensive on 2026 earnings.",
+  "notes": "Consensus in USD converted to CAD at 1.39. FY2/FY3 from Simply Wall St (Feb-26), set before the 2026 oil spike, so likely conservative. FY0 revenue estimated.",
+  "sources": [
+   "https://simplywall.st/stocks/se/energy/sto-ipco/international-petroleum-shares/future",
+   "https://www.inderes.se/releases/international-petroleum-corporation-announces-second-quarter-2026-financial-and-operational-results-and-releases-sustainability-report",
+   "https://in.marketscreener.com/quote/stock/INTERNATIONAL-PETROLEUM-C-42379179/"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   34.1,
+   10.3,
+   7.4
+  ]
+ },
+ {
+  "ticker": "1208",
+  "exchange": "HKEX",
+  "name": "MMG Limited",
+  "country": "Hong Kong/Australia",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper, zinc, cobalt (Las Bambas, Khoemacau, Kinsevere)",
+  "price": 9.43,
+  "currency": "HKD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 14.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.328,
+  "eps": [
+   1.0,
+   1.0,
+   1.04
+  ],
+  "rev_fy0": 6218,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "n_analysts": null,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Large but under-followed copper/zinc/cobalt miner with USD-priced sales and high operating leverage to copper. H1-26 net income was already US$897m (vs ~US$0.4bn for all of 2025) and volumes grow with Khoemacau and Kinsevere, so consensus looks conservative.",
+  "key_risks": "Las Bambas road blockades in Peru, DRC/Botswana risk, control by China Minmetals.",
+  "notes": "EPS in HKD. H1-26 annualised EPS ~HK$1.13 vs FY26 consensus HK$1.00. Revenue consensus and analyst count not found.",
+  "sources": [
+   "https://www.webull.com/news/15403523879543808",
+   "https://www.mmg.com/wp-content/uploads/2026/03/e_2026-03-03_2025-Annual-Results.pdf",
+   "https://www.tipranks.com/stocks/hk:1208/earnings"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   9.4,
+   9.4,
+   9.1
+  ]
+ },
+ {
+  "ticker": "CS",
+  "exchange": "TSX (ASX: CSC)",
+  "name": "Capstone Copper",
+  "country": "Canada/Chile",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper (Mantoverde, Mantos Blancos, Pinto Valley AZ)",
+  "price": 15.72,
+  "currency": "CAD",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 8.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.29,
+  "eps": [
+   0.93,
+   1.18,
+   1.31
+  ],
+  "rev_fy0": 2359.9,
+  "rev": [
+   2779,
+   3287,
+   3387
+  ],
+  "n_analysts": 19,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Pure-play copper producer with USD-priced output and fast volume growth (Mantoverde, Mantos Blancos, Santo Domingo), so inflation-driven copper strength feeds straight into margins. Pinto Valley in Arizona gives US domestic-supply exposure.",
+  "key_risks": "Chilean ramp-up execution; valuation is full if copper falls back.",
+  "notes": "EPS converted from USD to CAD at 1.38 to match the CAD price. Consensus likely conservative (SWS from Mar-26; Seeking Alpha FY26 ~US$0.85).",
+  "sources": [
+   "https://stockopedia.com/share-prices/capstone-copper-TSE:CS",
+   "https://simplywall.st/stocks/au/materials/chia-csc/capstone-copper-shares/future",
+   "https://seekingalpha.com/symbol/CS:CA/earnings/estimates"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   16.9,
+   13.3,
+   12.0
+  ]
+ },
+ {
+  "ticker": "STLD",
+  "exchange": "NASDAQ",
+  "name": "Steel Dynamics",
+  "country": "US",
+  "theme": "Real assets & pricing power",
+  "sub_industry": "EAF steel + scrap recycling",
+  "price": 242.06,
+  "currency": "USD",
+  "price_date": "2026-09-04",
+  "market_cap_usd_bn": 36.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 7.99,
+  "eps": [
+   17.16,
+   19.69,
+   17.45
+  ],
+  "rev_fy0": 18200,
+  "rev": [
+   null,
+   22700,
+   23700
+  ],
+  "n_analysts": 13,
+  "inflation_score": 8,
+  "confidence": "medium",
+  "inflation_thesis": "Low-cost US mini-mill steelmaker with its own scrap supply. In hot US inflation, domestic steel prices (tariff-protected by Section 232) rise faster than its scrap and energy costs; Q3-26 guidance of ~$5.36 EPS vs $2.74 a year ago shows margins already widening.",
+  "key_risks": "Cyclical steel demand/pricing; aluminum mill ramp execution.",
+  "notes": "Not under-the-radar (large cap). 2027-28 revenue from a model, not consensus.",
+  "sources": [
+   "https://www.vcpscanner.com/valuation/stld/estimates",
+   "https://finviz.com/news/393373/steel-dynamics-provides-third-quarter-2026-earnings-guidance",
+   "https://www.webull.com.au/news-detail/15430050283365376"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   14.1,
+   12.3,
+   13.9
+  ]
+ },
+ {
+  "ticker": "TKO",
+  "exchange": "TSX / NYSE American (TGB)",
+  "name": "Taseko Mines",
+  "country": "Canada",
+  "theme": "Base & critical metals",
+  "sub_industry": "Copper (Gibraltar; Florence AZ)",
+  "price": 11.56,
+  "currency": "CAD",
+  "price_date": "2026-09-18",
+  "market_cap_usd_bn": 2.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.41,
+   0.69,
+   0.98
+  ],
+  "rev_fy0": null,
+  "rev": [
+   814,
+   null,
+   1425
+  ],
+  "n_analysts": 3,
+  "inflation_score": 9,
+  "confidence": "low",
+  "inflation_thesis": "Its Florence Copper mine in Arizona produces copper cathode inside the US, so it captures US tariff-driven COMEX premiums and reshoring demand on top of the copper price. Florence ramps from 30-35 Mlb (2026) toward ~85 Mlb a year on top of Gibraltar, giving one of the highest earnings leverages to copper of any producer.",
+  "key_risks": "Florence ramp-up execution and Gibraltar grade variability; expensive on 2026 earnings and only ~3 analysts.",
+  "notes": "EPS in CAD; price C$11.56 (US$8.38 on NYSE American). FY2 EPS is a two-broker average (Stifel 0.54, NBF 0.84).",
+  "sources": [
+   "https://seekingalpha.com/symbol/TGB/earnings/estimates",
+   "https://simplywall.st/stocks/us/materials/nysemkt-tgb/taseko-mines/future",
+   "https://www.mining.com/?p=1199926"
+  ],
+  "round_added": 1,
+  "fwd_pe": [
+   28.2,
+   16.8,
+   11.8
+  ]
+ }
+]

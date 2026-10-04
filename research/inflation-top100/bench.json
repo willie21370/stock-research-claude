@@ -1,0 +1,263 @@
+[
+ {
+  "ticker": "HCC",
+  "exchange": "NYSE",
+  "name": "Warrior Met Coal",
+  "country": "US",
+  "theme": "Real assets & pricing power",
+  "sub_industry": "Metallurgical coal (Alabama, Blue Creek)",
+  "price": 105.58,
+  "currency": "USD",
+  "price_date": "2026-09-08",
+  "market_cap_usd_bn": 5.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.08,
+  "eps": [
+   7.86,
+   9.88,
+   10.12
+  ],
+  "rev_fy0": 1300,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "n_analysts": 7,
+  "inflation_score": 5,
+  "confidence": "low",
+  "inflation_thesis": "Low-cost US met-coal pure play whose Blue Creek mine lifts volumes 45-65% on a largely fixed cost base, so any commodity reflation drops straight to earnings. Hard asset with long reserve life.",
+  "key_risks": "Met-coal prices depend on Asian steel demand more than US CPI; single-commodity concentration.",
+  "notes": "FY2/FY3 are 4x quarterly consensus run-rates.",
+  "sources": [
+   "https://www.tickflow.io/stock/HCC/forecast",
+   "https://www.morningstar.com/news/business-wire/20260805218415/warrior-reports-second-quarter-2026-results"
+  ],
+  "fwd_pe": [
+   13.4,
+   10.7,
+   10.4
+  ]
+ },
+ {
+  "ticker": "DAR",
+  "exchange": "NYSE",
+  "name": "Darling Ingredients",
+  "country": "US",
+  "theme": "Agriculture & food",
+  "sub_industry": "Rendering, fats/proteins, renewable diesel (DGD JV)",
+  "price": 60.64,
+  "currency": "USD",
+  "price_date": "2026-07-31",
+  "market_cap_usd_bn": 9.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.39,
+  "eps": [
+   3.68,
+   4.36,
+   4.97
+  ],
+  "rev_fy0": 6100,
+  "rev": [
+   6560,
+   6600,
+   6840
+  ],
+  "n_analysts": 13,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Sells USD-priced fats, proteins and renewable diesel whose prices track food, feed and diesel inflation, while raw material is bought on formula contracts, so spreads widen when finished prices rise. Its rendering network is a costly-to-replicate hard-asset footprint.",
+  "key_risks": "Heavy dependence on US biofuel policy (RVO, 45Z, RINs).",
+  "notes": "FY1 revenue = TTM proxy. Price is from end of July.",
+  "sources": [
+   "https://news.cnyes.com/news/id/6428213",
+   "https://www.tickflow.io/stock/DAR/forecast"
+  ],
+  "fwd_pe": [
+   16.5,
+   13.9,
+   12.2
+  ]
+ },
+ {
+  "ticker": "MRX",
+  "exchange": "NASDAQ",
+  "name": "Marex Group",
+  "country": "UK",
+  "theme": "Financials (inflation/rates)",
+  "sub_industry": "Commodity broker & clearing",
+  "price": 68.3,
+  "currency": "USD",
+  "price_date": "2026-09-03",
+  "market_cap_usd_bn": null,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 3.99,
+  "eps": [
+   4.89,
+   5.58,
+   6.37
+  ],
+  "rev_fy0": 2024.1,
+  "rev": [
+   2440,
+   2670,
+   2922
+  ],
+  "n_analysts": 11,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "Leading clearer/broker in energy, metals and agri commodities: inflation-driven commodity volatility raises hedging and clearing volumes, and higher-for-longer rates lift interest earned on client margin balances.",
+  "key_risks": "Earnings fall if volatility calms or the Fed cuts.",
+  "notes": "FY1 consensus looks stale (H1-26 EPS already $3.29).",
+  "sources": [
+   "https://tickflow.io/stock/MRX/forecast",
+   "https://www.marex.com/news/2026/03/marex-group-plc-announces-fourth-quarter-and-full-year-2025-results/"
+  ],
+  "fwd_pe": [
+   14.0,
+   12.2,
+   10.7
+  ]
+ },
+ {
+  "ticker": "CX",
+  "exchange": "NYSE",
+  "name": "CEMEX",
+  "country": "Mexico",
+  "theme": "Real assets & pricing power",
+  "sub_industry": "Cement & aggregates",
+  "price": 11.03,
+  "currency": "USD",
+  "price_date": "2026-09-06",
+  "market_cap_usd_bn": 16,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": null,
+  "eps": [
+   0.91,
+   1.04,
+   1.19
+  ],
+  "rev_fy0": null,
+  "rev": [
+   null,
+   18060,
+   null
+  ],
+  "n_analysts": 15,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Cement and aggregates are local, high-barrier products whose pricing has historically beaten CPI; its large US business benefits from infrastructure and reshoring spend.",
+  "key_risks": "Mexico/FX exposure; energy-cost inflation in kilns.",
+  "notes": "FY3 extrapolated.",
+  "sources": [
+   "https://kr.benzinga.com/quote/CX/earnings-forecasts"
+  ],
+  "fwd_pe": [
+   12.1,
+   10.6,
+   9.3
+  ]
+ },
+ {
+  "ticker": "SBLK",
+  "exchange": "NASDAQ",
+  "name": "Star Bulk Carriers",
+  "country": "Greece",
+  "theme": "Shipping",
+  "sub_industry": "Dry bulk",
+  "price": 28.75,
+  "currency": "USD",
+  "price_date": "2026-08-31",
+  "market_cap_usd_bn": 3.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.97,
+  "eps": [
+   4.12,
+   3.22,
+   2.52
+  ],
+  "rev_fy0": 1000,
+  "rev": [
+   1273,
+   1120,
+   985
+  ],
+  "n_analysts": 13,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "USD dry-bulk rates track commodity trade; fleet replacement cost rises with inflation.",
+  "key_risks": "Rates expected to fall after 2026.",
+  "notes": "FY3 extrapolated.",
+  "sources": [
+   "https://www.tickflow.io/stock/SBLK/forecast"
+  ],
+  "fwd_pe": [
+   7.0,
+   8.9,
+   11.4
+  ]
+ },
+ {
+  "ticker": "GGB",
+  "exchange": "NYSE / B3",
+  "name": "Gerdau",
+  "country": "Brazil",
+  "theme": "Real assets & pricing power",
+  "sub_industry": "Steel (big US EAF business)",
+  "price": 24.19,
+  "currency": "BRL",
+  "price_date": "2026-08-31",
+  "market_cap_usd_bn": 9.9,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.75,
+  "eps": [
+   2.3,
+   2.5,
+   2.42
+  ],
+  "rev_fy0": 69900,
+  "rev": [
+   70898,
+   null,
+   null
+  ],
+  "n_analysts": 15,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "US EAF steel at 10x.",
+  "key_risks": "Brazil imports.",
+  "notes": "",
+  "sources": [
+   "https://tickflow.io/stock/GGB/forecast"
+  ],
+  "fwd_pe": [
+   10.5,
+   9.7,
+   10.0
+  ]
+ }
+]

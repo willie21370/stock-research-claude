@@ -18,3 +18,9 @@ smaller, less-covered and non-US names.
 | 10 | Wildcard sweep: lowest PEG names across every theme not yet covered |
 
 Tickers already in the database must not be re-added; later rounds may refresh data for existing names.
+
+## Bench
+`bench.json` holds names that were researched but did not make the cut (or had incomplete data).
+Later rounds may refresh and promote them. Round-1 leads still to research: Yara, 3tentos (TTEN3),
+SLC Agricola, LSB Industries, Torex Gold, Equinox Gold, West African Resources, G Mining Ventures,
+Commercial Metals, Atalaya Mining, Adecoagro, JBS, Okeanis Eco Tankers.
