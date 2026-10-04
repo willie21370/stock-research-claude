@@ -3060,5 +3060,596 @@
    7.6
   ],
   "bench_round": 6
+ },
+ {
+  "ticker": "600583",
+  "exchange": "SSE",
+  "name": "Offshore Oil Engineering (COOEC)",
+  "country": "China",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Offshore EPCI",
+  "price": 6.0,
+  "currency": "CNY",
+  "price_date": "2026-08-18",
+  "market_cap_usd_bn": 3.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.47,
+  "eps": [
+   0.52,
+   0.59,
+   0.64
+  ],
+  "rev_fy0": 27163,
+  "rev": [
+   29295,
+   30771,
+   32262
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 10,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Record backlog, USD overseas EPCI.",
+  "key_risks": "Fixed-price contracts.",
+  "notes": "",
+  "sources": [
+   "https://stock.10jqka.com.cn/20260818/c679059597.shtml"
+  ],
+  "fwd_pe": [
+   11.5,
+   10.2,
+   9.4
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "5LY",
+  "exchange": "SGX",
+  "name": "Marco Polo Marine",
+  "country": "Singapore",
+  "theme": "Shipping & offshore",
+  "sub_industry": "OSV/CSOV + shipyard",
+  "price": 0.16,
+  "currency": "SGD",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.44,
+  "fy_years": [
+   "FY26",
+   "FY27",
+   "FY28"
+  ],
+  "eps_fy0": 0.0071,
+  "eps": [
+   0.009,
+   0.0099,
+   0.0132
+  ],
+  "rev_fy0": 122.8,
+  "rev": [
+   null,
+   null,
+   null
+  ],
+  "rev_unit": "SGD m",
+  "n_analysts": 4,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "USD-linked vessel dayrates.",
+  "key_risks": "16x FY27.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/sg/transportation/sgx-5ly/marco-polo-marine-shares"
+  ],
+  "fwd_pe": [
+   17.8,
+   16.2,
+   12.1
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "ODL",
+  "exchange": "Oslo",
+  "name": "Odfjell Drilling",
+  "country": "Norway",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Harsh-environment semisub drilling",
+  "price": 102.0,
+  "currency": "NOK",
+  "price_date": "2026-09-25",
+  "market_cap_usd_bn": 2.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 7.56,
+  "eps": [
+   9.11,
+   10.96,
+   10.23
+  ],
+  "rev_fy0": 901.2,
+  "rev": [
+   1036,
+   1077,
+   1057
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 10,
+  "inflation_score": 7,
+  "confidence": "medium",
+  "inflation_thesis": "Owns sold-out 6th/7th-generation harsh-environment semisubs that nobody is building anymore; replacement cost (>$1bn each) is far above the implied value per rig. Contract renewals re-price USD dayrates for cost inflation and $85-90 Brent, while falling debt and a quarterly dividend make it a real-asset compounder at ~9x 2027 earnings.",
+  "key_risks": "Concentrated fleet (one rig off-hire hurts a quarter); Norwegian activity depends on Equinor/Aker BP capex.",
+  "notes": "USD EPS converted to NOK at 10.5; 2028 consensus figure uncertain. Backlog $2.1bn.",
+  "sources": [
+   "https://aktien.guide/kursziel/Odfjell-Drilling-BMG671801022",
+   "https://www.inderes.fi/releases/odl-odfjell-drilling-ltd-reports-for-the-second-quarter-and-first-half-of-2026",
+   "https://stockopedia.com/share-prices/odfjell-drilling-OSL:ODL"
+  ],
+  "fwd_pe": [
+   11.2,
+   9.3,
+   10.0
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "2883",
+  "exchange": "HKEX",
+  "name": "China Oilfield Services (COSL)",
+  "country": "China",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Offshore drilling & oilfield services",
+  "price": 7.0,
+  "currency": "HKD",
+  "price_date": "2026-09-03",
+  "market_cap_usd_bn": 4.3,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.875,
+  "eps": [
+   0.967,
+   1.098,
+   1.212
+  ],
+  "rev_fy0": 50283,
+  "rev": [
+   52463,
+   55648,
+   58655
+  ],
+  "rev_unit": "CNY m",
+  "n_analysts": 12,
+  "inflation_score": 5,
+  "confidence": "medium",
+  "inflation_thesis": "Owns one of the world's largest jackup/semisub fleets (~60 rigs); international rigs in Norway, the Middle East and SE Asia earn USD dayrates that re-price with inflation and high Brent, while CNOOC capex underpins domestic demand. At ~6x 2027 earnings it is the cheapest way to own rig steel.",
+  "key_risks": "Mostly CNOOC revenue at negotiated domestic prices; SOE discount; weaker direct US-inflation link.",
+  "notes": "Average of Huaxin/CITIC/Sinolink broker EPS (RMB converted to HKD at 1.087); Morgan Stanley cut 2026-28 EPS 5-8% in Sep. Price HK$7.0 (early Sep; H-shares HK$6.4-7.0).",
+  "sources": [
+   "https://stock.10jqka.com.cn/20260903/c679570586.shtml",
+   "https://m.gelonghui.com/news/5305043",
+   "https://pdf.dfcfw.com/pdf/H3_AP202609221829762111_1.pdf"
+  ],
+  "fwd_pe": [
+   7.2,
+   6.4,
+   5.8
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "RIG",
+  "exchange": "NYSE",
+  "name": "Transocean",
+  "country": "Switzerland",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Floaters",
+  "price": 6.02,
+  "currency": "USD",
+  "price_date": "2026-09-03",
+  "market_cap_usd_bn": 6.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.04,
+  "eps": [
+   0.21,
+   0.22,
+   0.23
+  ],
+  "rev_fy0": 3965,
+  "rev": [
+   3938,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 15,
+  "inflation_score": 8,
+  "confidence": "low",
+  "inflation_thesis": "Largest high-spec floater fleet.",
+  "key_risks": "Debt; 27x.",
+  "notes": "",
+  "sources": [
+   "https://www.tickflow.io/stock/RIG/forecast"
+  ],
+  "fwd_pe": [
+   28.7,
+   27.4,
+   26.2
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "2382",
+  "exchange": "Tadawul",
+  "name": "ADES Holding",
+  "country": "Saudi Arabia",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Jackups",
+  "price": 18.64,
+  "currency": "SAR",
+  "price_date": "2026-07-26",
+  "market_cap_usd_bn": 5.6,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.74,
+  "eps": [
+   0.94,
+   1.07,
+   1.21
+  ],
+  "rev_fy0": 6689,
+  "rev": [
+   8420,
+   8930,
+   9480
+  ],
+  "rev_unit": "SAR m",
+  "n_analysts": 10,
+  "inflation_score": 6,
+  "confidence": "low",
+  "inflation_thesis": "World's largest jackup fleet.",
+  "key_risks": "Gulf suspensions; stale price.",
+  "notes": "",
+  "sources": [
+   "https://simplywall.st/stocks/sa/energy/sase-2382/ades-holding-shares/future"
+  ],
+  "fwd_pe": [
+   19.8,
+   17.4,
+   15.4
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "ADNOCDRILL",
+  "exchange": "ADX",
+  "name": "ADNOC Drilling",
+  "country": "UAE",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Drilling",
+  "price": 5.82,
+  "currency": "AED",
+  "price_date": "2026-08-01",
+  "market_cap_usd_bn": 25.4,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.334,
+  "eps": [
+   0.356,
+   0.38,
+   0.404
+  ],
+  "rev_fy0": null,
+  "rev": [
+   5000,
+   null,
+   null
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 12,
+  "inflation_score": 4,
+  "confidence": "low",
+  "inflation_thesis": "Defensive.",
+  "key_risks": "Low growth.",
+  "notes": "",
+  "sources": [
+   "https://www.zawya.com/en/capital-markets/oil-gas/adnoc-drilling-posts-706mln-h1-profit-reaffirms-2026-guidance-414634"
+  ],
+  "fwd_pe": [
+   16.3,
+   15.3,
+   14.4
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "TRE",
+  "exchange": "BME",
+  "name": "Técnicas Reunidas",
+  "country": "Spain",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Energy EPC (Gulf NOCs)",
+  "price": 28.31,
+  "currency": "EUR",
+  "price_date": "2026-10-01",
+  "market_cap_usd_bn": 2.64,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.98,
+  "eps": [
+   2.3,
+   3.22,
+   3.52
+  ],
+  "rev_fy0": 6466,
+  "rev": [
+   6599,
+   6599,
+   6298
+  ],
+  "rev_unit": "EUR m",
+  "n_analysts": 12,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Most of its backlog is with Gulf national oil companies (Aramco, ADNOC, QatarEnergy) that spend more when oil is high, under USD-linked contracts; consensus sees EBITDA margin rising from 5.1% to 7.2% by 2028 as legacy low-margin projects roll off and new contracts carry more margin and reimbursable work.",
+  "key_risks": "Lump-sum EPC cost overruns under high cost inflation; stock in a downtrend.",
+  "notes": "Price implied from 2026E EPS x P/E; analyst count approximate.",
+  "sources": [
+   "https://www.bolsamania.com/capitalbolsa/noticias/empresas/tecnicas-reunidas-el-consenso-apuesta-por-una-fuerte-recuperacion-de-margenes-hasta-2028--22966722.html",
+   "https://www.estrategiasdeinversion.com/cotizacion/tecnicas-reunidas/analisis/"
+  ],
+  "fwd_pe": [
+   12.3,
+   8.8,
+   8.0
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "TE",
+  "exchange": "Euronext Paris",
+  "name": "Technip Energies",
+  "country": "France",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "LNG E&C",
+  "price": 33.16,
+  "currency": "EUR",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 6.7,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 2.04,
+  "eps": [
+   2.254,
+   3.1,
+   3.449
+  ],
+  "rev_fy0": 7186.5,
+  "rev": [
+   8155,
+   9600,
+   10000
+  ],
+  "rev_unit": "EUR m",
+  "n_analysts": 15,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "LNG backlog; reimbursable work; net cash.",
+  "key_risks": "Lumpy execution.",
+  "notes": "Price €33-37.",
+  "sources": [
+   "https://www.marketscreener.com/quote/stock/TECHNIP-ENERGIES-N-V-118964900/valuation/"
+  ],
+  "fwd_pe": [
+   14.7,
+   10.7,
+   9.6
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "REACH",
+  "exchange": "Oslo",
+  "name": "Reach Subsea",
+  "country": "Norway",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Subsea IMR",
+  "price": 6.56,
+  "currency": "NOK",
+  "price_date": "2026-09-30",
+  "market_cap_usd_bn": 0.2,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.33,
+  "eps": [
+   1.24,
+   1.3,
+   1.37
+  ],
+  "rev_fy0": 2675,
+  "rev": [
+   2980,
+   3100,
+   3300
+  ],
+  "rev_unit": "NOK m",
+  "n_analysts": 4,
+  "inflation_score": 4,
+  "confidence": "low",
+  "inflation_thesis": "Tight subsea market.",
+  "key_risks": "Indirect US link.",
+  "notes": "",
+  "sources": [
+   "https://aktien.guide/kursziel/Reach-Subsea-NO0003117202"
+  ],
+  "fwd_pe": [
+   5.3,
+   5.0,
+   4.8
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "PHX",
+  "exchange": "TSX",
+  "name": "PHX Energy Services",
+  "country": "Canada/US",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Directional drilling technology & RSS rentals",
+  "price": 12.39,
+  "currency": "CAD",
+  "price_date": "2026-09-04",
+  "market_cap_usd_bn": 0.41,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.13,
+  "eps": [
+   0.97,
+   1.37,
+   1.55
+  ],
+  "rev_fy0": 709.6,
+  "rev": [
+   759.6,
+   827.2,
+   868.6
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": 3,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "About 71% of revenue comes from its US division priced in USD, so US cost inflation passes into day-rate pricing for its motors, rotary-steerable tools and crews; reporting in CAD adds a translation gain. Its in-house rotary steerable fleet runs at record utilisation, and rising replacement costs for downhole tech keep supply tight.",
+  "key_risks": "Flat US revenue in Q2-26 (2026 EPS dips); recovery depends on US horizontal activity.",
+  "notes": "2028 EPS extrapolated (+13%); 2028 revenue extrapolated.",
+  "sources": [
+   "https://stockanalysis.com/quote/tsx/PHX/forecast/",
+   "https://www.finanznachrichten.de/nachrichten-2026-08/69220447-phx-energy-services-corp-phx-energy-announces-highest-second-quarter-revenue-in-its-history-and-continued-record-rss-activity-399.htm"
+  ],
+  "fwd_pe": [
+   12.8,
+   9.0,
+   8.0
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "TOT",
+  "exchange": "TSX",
+  "name": "Total Energy Services",
+  "country": "Canada",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Compression fabrication, rentals, drilling",
+  "price": 36.71,
+  "currency": "CAD",
+  "price_date": "2026-09-16",
+  "market_cap_usd_bn": 1.01,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 1.95,
+  "eps": [
+   2.16,
+   2.48,
+   2.86
+  ],
+  "rev_fy0": 1064.7,
+  "rev": [
+   1140,
+   1197,
+   1257
+  ],
+  "rev_unit": "CAD m",
+  "n_analysts": 5,
+  "inflation_score": 7,
+  "confidence": "low",
+  "inflation_thesis": "Record compression backlog; net cash.",
+  "key_risks": "After rally.",
+  "notes": "2027-28 extrapolated.",
+  "sources": [
+   "https://seekingalpha.com/symbol/TOT:CA/earnings/estimates"
+  ],
+  "fwd_pe": [
+   17.0,
+   14.8,
+   12.8
+  ],
+  "bench_round": 7
+ },
+ {
+  "ticker": "FET",
+  "exchange": "NYSE",
+  "name": "Forum Energy Technologies",
+  "country": "US",
+  "theme": "Oilfield services & drilling",
+  "sub_industry": "Oilfield equipment",
+  "price": 83.02,
+  "currency": "USD",
+  "price_date": "2026-09-12",
+  "market_cap_usd_bn": 0.92,
+  "fy_years": [
+   "2026",
+   "2027",
+   "2028"
+  ],
+  "eps_fy0": 0.63,
+  "eps": [
+   3.95,
+   4.81,
+   5.39
+  ],
+  "rev_fy0": 791,
+  "rev": [
+   890,
+   961,
+   1038
+  ],
+  "rev_unit": "USD m",
+  "n_analysts": 2,
+  "inflation_score": 6,
+  "confidence": "medium",
+  "inflation_thesis": "Operating leverage; list-price increases.",
+  "key_risks": "17x after +207%.",
+  "notes": "",
+  "sources": [
+   "https://www.zacks.com/stock/news/2985867/should-investors-buy-fet-stock-after-its-massive-207-one-year-run"
+  ],
+  "fwd_pe": [
+   21.0,
+   17.3,
+   15.4
+  ],
+  "bench_round": 7
  }
 ]
