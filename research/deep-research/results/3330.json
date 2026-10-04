@@ -1,0 +1,14 @@
+{
+ "ticker": "3330",
+ "name": "Lingbao Gold Group Co",
+ "price": 25.36,
+ "currency": "HKD",
+ "price_date": "2026-10-02",
+ "upside_36m_pct": 18.3,
+ "overall_score": 43,
+ "scorecard": 49,
+ "likelihood": 45,
+ "advice": "Hold",
+ "pw_target_36m": 30.0,
+ "report": "reports/3330.html"
+}
